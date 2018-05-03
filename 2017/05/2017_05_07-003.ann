@@ -1,0 +1,17 @@
+T1	Event 0 41	Élection présidentielle française de 2017
+T2	Date 37 41	2017
+T3	Person 44 59	Emmanuel Macron
+T4	Date 75 85	7 mai 2017
+T5	Event 109 153	élections présidentielles françaises de 2017
+T6	Date 149 153	2017
+T7	Person 156 171	Emmanuel Macron
+T8	Person 219 232	Marine Le Pen
+T9	Location 404 410	France
+T10	Person 594 609	Emmanuel Macron
+T11	Person 782 794	Donald Trump
+T12	Person 807 816	E. Macron
+T13	Organization 913 934	Commission européenne
+T14	Person 936 955	Jean-Claude Juncker
+T15	Person 1070 1081	Theresa May
+T16	Person 1112 1127	Emmanuel Macron
+T17	Person 1238 1251	Angela Merkel

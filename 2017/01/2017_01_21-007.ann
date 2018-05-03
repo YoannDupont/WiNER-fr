@@ -1,0 +1,75 @@
+T1	Location 0 10	États-Unis
+T2	Person 13 18	Trump
+T3	Date 49 64	21 janvier 2017
+T4	Date 72 91	vendredi 20 janvier
+T5	Person 93 105	Donald Trump
+T6	Location 154 164	États-Unis
+T7	Person 179 191	Barack Obama
+T8	Organization 278 292	Maison Blanche
+T9	Hour 319 325	8 h 30
+T10	Person 328 333	Trump
+T11	Location 414 423	Arlington
+T12	Person 472 482	Mike Pence
+T13	POI 520 536	Lincoln Memorial
+T14	Location 621 629	Amérique
+T15	Location 741 749	New York
+T16	Person 773 787	Robert de Niro
+T17	Location 823 830	Manille
+T18	Location 837 843	Europe
+T19	Date 1055 1059	2009
+T20	Location 1107 1120	National Mall
+T21	Location 1132 1139	Capitol
+T22	Person 1180 1192	Barack Obama
+T23	Hour 1205 1209	11 h
+T24	Location 1275 1290	Washington , DC
+T25	Location 1363 1383	Pennsylvania Aavenue
+T26	Person 1463 1468	Trump
+T27	Location 1593 1601	Capitole
+T28	Hour 1608 1615	14 h 15
+T29	Person 1641 1646	Trump
+T30	Location 1780 1799	Pennsylvania Avenue
+T31	Person 1880 1885	Trump
+T32	Organization 1907 1921	Maison Blanche
+T33	Hour 1927 1933	9 h 45
+T34	Location 1973 1981	Capitole
+T35	Person 2014 2025	George Bush
+T36	Person 2029 2041	Bill Clinton
+T37	Person 2073 2078	Laura
+T38	Person 2082 2089	Hillary
+T39	Person 2114 2119	Trump
+T40	Person 2141 2158	George H. W. Bush
+T41	Person 2195 2206	George Bush
+T42	Person 2243 2255	Donald Trump
+T43	Hour 2265 2272	11 h 31
+T44	Person 2311 2321	Mike Pence
+T45	Hour 2340 2347	11 h 52
+T46	Location 2396 2406	États-Unis
+T47	Person 2434 2439	Trump
+T48	Hour 2497 2510	17 heures UTC
+T49	Location 2629 2637	Capitole
+T50	Location 2641 2651	Washington
+T51	Location 2713 2723	États-Unis
+T52	Date 2805 2809	1955
+T53	Person 2823 2838	Abraham Lincoln
+T54	Person 2884 2889	Obama
+T55	Location 3141 3151	États-Unis
+T56	Person 3231 3239	Michelle
+T57	Person 3243 3255	Barack Obama
+T58	Location 3529 3537	Amérique
+T59	Location 3665 3673	Amérique
+T60	Hour 3737 3744	12 h 21
+T61	Organization 3756 3759	CNN
+T62	Location 3848 3858	Etats-Unis
+T63	Person 3865 3870	Trump
+T64	Location 3915 3923	Capitole
+T65	Organization 3944 3958	Maison Blanche
+T66	Location 3972 3991	Pennsylvania Avenue
+T67	Hour 4151 4153	15
+T68	Hour 4156 4180	17 heures (heure locale)
+T69	Person 4196 4201	Trump
+T70	Person 4202 4207	Pence
+T71	Hour 4266 4275	19 heures
+T72	Hour 4279 4285	minuit
+T73	Person 4288 4300	Donald Trump
+T74	Person 4354 4369	Hillary Clinton
+T75	Organization 4389 4396	Congrès

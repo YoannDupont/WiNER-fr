@@ -1,0 +1,6 @@
+Des robots comme outils de réhabilitation
+
+13 octobre 2016 . –
+C'est officiel, dès aujourd'hui, il est possible de procéder à la réhabilitation de divers patients ayant subit des pertes de mobilité suite à un accident. En effet, un groupe d'ingénieurs suisses a mis sur pied un prototype de robot fabriqué à partir d' élastomère (un produit s'apparentant au silicone) et de ballons. Le principe est plutôt simple, en faisant varier la pression d'air dans les différents ballons, ceux-ci peuvent changer leur forme : soit s'allonger ou se courber, afin d'imiter le comportement des muscles. Dès lors, une ceinture composée de ces structures permet au patient la portant, de soutenir et redresser son tronc, lui redonnant donc une certaine sensibilité dans ses mouvements.
+
+Ce même engin peut également servir à d'autres fins, telles que de manipuler des objets fragiles et accompagner les personnes en mobilité réduite dans leurs actions quotidiennes.

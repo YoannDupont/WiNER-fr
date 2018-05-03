@@ -1,0 +1,61 @@
+T1	Location 0 6	France
+T2	Date 41 55	5 février 2017
+T3	Location 123 129	France
+T4	Date 201 210	4 février
+T5	Event 224 228	Leiv
+T6	Event 347 351	Egon
+T7	Location 358 366	Charente
+T8	Location 372 389	Charente-Maritime
+T9	Location 396 403	Gironde
+T10	Organization 483 495	Météo-France
+T11	Location 489 495	France
+T12	Location 579 594	Lège-Cap-Ferret
+T13	Location 607 612	Royan
+T14	Location 626 634	Bordeaux
+T15	Location 776 783	Gironde
+T16	Location 988 994	Nantes
+T17	Location 1049 1056	Gironde
+T18	Organization 1091 1097	Enedis
+T19	Organization 1112 1116	ERDF
+T20	Location 1138 1144	Landes
+T21	Organization 1230 1234	ERDF
+T22	Organization 1320 1323	CGT
+T23	Organization 1490 1493	EDF
+T24	Hour 1521 1528	10 h 23
+T25	Organization 1536 1548	Météo-France
+T26	Location 1542 1548	France
+T27	Event 1565 1569	Leiv
+T28	Location 1826 1832	Allier
+T29	Location 1835 1839	Cher
+T30	Location 1842 1849	Corrèze
+T31	Location 1852 1858	Creuse
+T32	Location 1861 1869	Dordogne
+T33	Location 1872 1877	Indre
+T34	Location 1880 1894	Indre-et-Loire
+T35	Location 1897 1902	Loire
+T36	Location 1905 1916	Puy-de-Dôme
+T37	Location 1919 1930	Deux-Sèvres
+T38	Location 1933 1939	Vendée
+T39	Location 1942 1948	Vienne
+T40	Location 1951 1963	Haute-Vienne
+T41	Location 1966 1972	Nièvre
+T42	Location 1978 1992	Saône-et-Loire
+T43	Location 2102 2116	Massif central
+T44	Location 2123 2140	Charente-Maritime
+T45	Location 2145 2152	Gironde
+T46	Location 2159 2165	Vendée
+T47	Hour 2252 2256	16 h
+T48	Location 2285 2291	Landes
+T49	Location 2296 2302	Allier
+T50	Location 2307 2311	Cher
+T51	Location 2319 2324	Loire
+T52	Location 2332 2338	Nièvre
+T53	Location 2343 2354	Puy-de-Dôme
+T54	Location 2364 2378	Saône-et-Loire
+T55	Hour 2444 2451	15 h 25
+T56	Location 2526 2544	Nouvelle-Aquitaine
+T57	Location 2757 2764	Gironde
+T58	Location 2850 2858	Bordeaux
+T59	Event 2981 2987	Marcel
+T60	Event 3112 3116	Leiv
+T61	Event 3135 3139	Kurt

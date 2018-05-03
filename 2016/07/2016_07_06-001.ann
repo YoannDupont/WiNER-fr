@@ -1,0 +1,49 @@
+T1	Date 15 19	2016
+T2	Event 0 19	Tour de France 2016
+T3	Person 22 34	Van Avermaet
+T4	Date 117 121	2016
+T5	Event 102 121	Tour de France 2016
+T6	Date 138 142	2016
+T7	Event 123 142	Tour de France 2016
+T8	Person 145 157	Tom Dumoulin
+T9	Date 218 222	2016
+T10	Event 203 222	Tour de France 2016
+T11	Person 225 233	De Gendt
+T12	Person 257 263	Froome
+T13	Date 333 337	2016
+T14	Event 318 337	Tour de France 2016
+T15	Person 340 345	Sagan
+T16	Person 369 375	Froome
+T17	Date 406 410	2016
+T18	Event 391 410	Tour de France 2016
+T19	Person 413 429	Michael Matthews
+T20	Date 467 471	2016
+T21	Event 452 471	Tour de France 2016
+T22	Person 474 486	Tom Dumoulin
+T23	Location 514 522	Pyrénées
+T24	Date 524 538	6 juillet 2016
+T25	Location 578 585	Limoges
+T26	Location 589 598	Le Lioran
+T27	Event 627 631	Tour
+T28	Person 748 765	Greg Van Avermaet
+T29	Person 782 797	Thomas De Gendt
+T30	Person 801 812	Rafał Majka
+T31	Person 839 856	Greg Van Avermaet
+T32	Person 878 896	Julian Alaphilippe
+T33	Person 900 918	Alejandro Valverde
+T34	Person 921 932	Peter Sagan
+T35	Person 1007 1022	Thomas De Gendt
+T36	Person 1163 1183	Julian Alaphilippeet
+T37	Person 1240 1255	Thomas De Gendt
+T38	Location 1336 1352	Arpajon-sur-Cère
+T39	Location 1356 1365	Montauban
+T40	Person 1378 1395	Greg Van Avermaet
+T41	Person 1463 1476	Andriy Grivko
+T42	Person 1480 1495	Thomas De Gendt
+T43	Location 1562 1569	Corrèze
+T44	Person 1589 1595	Grivko
+T45	Location 1642 1648	Cantal
+T46	Person 1666 1674	De Gendt
+T47	Person 1757 1769	Van Avermaet
+T48	Event 1903 1907	Tour
+T49	Date 1931 1935	2015

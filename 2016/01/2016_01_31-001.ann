@@ -1,0 +1,63 @@
+T1	Location 3 10	Donbass
+T2	Date 37 52	31 janvier 2016
+T3	Date 60 76	30 décembre 2015
+T4	Location 93 98	Minsk
+T5	Location 145 152	Donbass
+T6	Date 180 184	2016
+T7	Date 215 225	avril 2014
+T8	Person 322 341	Viktor Ianoukovytch
+T9	Location 470 477	Donbass
+T10	Location 506 513	Donetsk
+T11	Location 517 525	Lougansk
+T12	Location 665 672	Donbass
+T13	Location 859 864	Minsk
+T14	Date 870 886	5 septembre 2014
+T15	Location 915 922	Donbass
+T16	Location 1173 1178	Minsk
+T17	Location 1291 1298	Donbass
+T18	Location 1451 1458	Ukraine
+T19	Location 1553 1560	Ukraine
+T20	Location 1719 1726	Donbass
+T21	Organization 2067 2089	gouvernement ukrainien
+T22	Organization 2238 2247	Parlement
+T23	Location 2346 2352	Russie
+T24	Organization 2400 2422	gouvernement ukrainien
+T25	Location 2648 2654	Moscou
+T26	Location 2923 2929	Russie
+T27	Organization 3059 3063	Bild
+T28	Date 3074 3078	2015
+T29	Date 3175 3191	28 décembre 2015
+T30	Person 3193 3209	Vladimir Poutine
+T31	Person 3216 3229	Boris Gryslov
+T32	Location 3471 3476	Minsk
+T33	Location 3549 3555	Moscou
+T34	Location 3755 3762	Donbass
+T35	Location 3767 3774	Ukraine
+T36	Location 3854 3860	Russie
+T37	Location 3908 3915	Ukraine
+T38	Location 3927 3934	Donbass
+T39	Location 4107 4114	Ukraine
+T40	Organization 4119 4123	OTAN
+T41	Organization 4131 4147	Union européenne
+T42	Location 4195 4201	Russie
+T43	Location 4242 4249	Ukraine
+T44	Location 4405 4411	Russie
+T45	Location 4493 4500	Ukraine
+T46	Location 4517 4522	Minsk
+T47	Organization 4669 4680	Samopomitch
+T48	Organization 4687 4700	Parti radical
+T49	Location 4733 4738	Minsk
+T50	Location 4768 4775	Ukraine
+T51	Location 4839 4846	Ukraine
+T52	Location 4886 4892	Russie
+T53	Location 4947 4952	Minsk
+T54	Organization 5014 5036	gouvernement ukrainien
+T55	Date 5125 5141	fin février 2016
+T56	Location 5197 5203	Russie
+T57	Location 5325 5330	Minsk
+T58	Location 5344 5351	Ukraine
+T59	Person 5434 5450	Petro Porochenko
+T60	Location 5673 5680	Ukraine
+T61	Organization 5748 5770	gouvernement ukrainien
+T62	Location 5896 5903	Ukraine
+T63	Location 5945 5950	Minsk

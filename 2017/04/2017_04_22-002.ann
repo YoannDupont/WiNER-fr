@@ -1,0 +1,53 @@
+T1	Location 0 6	France
+T2	Location 48 73	Avenue des Champs-Élysées
+T3	Date 75 88	22 avril 2017
+T4	Date 115 129	jeudi 20 avril
+T5	Location 296 301	Paris
+T6	Location 319 344	avenue des Champs-Élysées
+T7	Person 347 360	Xavier Jugelé
+T8	Location 472 481	Marseille
+T9	Person 639 645	Fillon
+T10	Person 648 654	Macron
+T11	Person 657 662	Hamon
+T12	Person 666 672	Le Pen
+T13	Person 690 703	Karim Cheurfi
+T14	Date 719 735	31 décembre 1977
+T15	Hour 874 881	20 h 50
+T16	Product 937 948	kalachnikov
+T17	Location 1109 1116	Turquie
+T18	Person 1191 1204	Xavier Jugelé
+T19	Location 1369 1377	Bataclan
+T20	Date 1402 1415	novembre 2015
+T21	Date 1476 1495	12 novembre dernier
+T22	Person 1498 1511	Karim Cheurfi
+T23	Location 2615 2620	Syrie
+T24	Organization 2748 2764	Parquet de Paris
+T25	Location 2759 2764	Paris
+T26	Organization 2865 2867	EI
+T27	Location 2876 2896	zone irako -syrienne
+T28	Organization 2943 2948	Daech
+T29	Organization 2952 2954	EI
+T30	Organization 3252 3256	DGSI
+T31	Location 3311 3326	Lagny-sur-Marne
+T32	Location 3329 3343	Seine-et-Marne
+T33	Product 3746 3751	GoPro
+T34	Location 3828 3835	Algérie
+T35	Organization 3962 3976	État islamique
+T36	Organization 3978 3980	EI
+T37	Person 4132 4140	Youssouf
+T38	Location 4237 4243	Anvers
+T39	Location 4348 4354	France
+T40	Organization 4362 4368	Thalys
+T41	Location 4502 4508	Anvers
+T42	Location 4713 4717	Nice
+T43	Location 4750 4761	Westminster
+T44	Date 4765 4780	22 mars dernier
+T45	Person 4796 4813	François Hollande
+T46	Person 4885 4902	Bernard Cazeneuve
+T47	Person 4932 4945	Matthias Fekl
+T48	Organization 4961 4968	Justice
+T49	Person 4971 4990	Jean-Jacques Urvoas
+T50	Hour 5169 5177	8 heures
+T51	Location 5234 5239	Paris
+T52	Person 5240 5252	Anne Hidalgo
+T53	Organization 5259 5275	Conseil français

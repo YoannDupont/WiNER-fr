@@ -1,0 +1,64 @@
+T1	Location 33 39	France
+T2	Date 41 56	25 février 2017
+T3	Event 72 78	Thomas
+T4	Event 97 102	Doris
+T5	Location 108 123	Grande-Bretagne
+T6	Location 143 153	Atlantique
+T7	Location 179 185	France
+T8	Hour 247 256	20 heures
+T9	Event 350 354	Egon
+T10	Event 395 399	Kurt
+T11	Event 401 405	Leiv
+T12	Event 409 415	Marcel
+T13	Location 492 507	Hauts-de-France
+T14	Location 542 555	Pas-de-Calais
+T15	Location 561 566	Somme
+T16	Location 590 594	Nord
+T17	Location 600 614	Seine-Maritime
+T18	Location 622 630	Ardennes
+T19	Location 670 674	Nord
+T20	Location 688 701	Pas-de-Calais
+T21	Organization 761 773	Météo-France
+T22	Location 946 955	Abbeville
+T23	Location 1058 1070	cap Gris-Nez
+T24	Location 1194 1199	Lille
+T25	Location 1203 1209	Calais
+T26	Location 1264 1269	Lille
+T27	Person 1307 1320	Marcel Dhénin
+T28	Location 1324 1335	Lille Neige
+T29	Location 1338 1343	Douai
+T30	Location 1427 1432	Lille
+T31	Location 1760 1774	Mons-en-Pévèle
+T32	Location 1777 1787	Verlinghem
+T33	Location 1790 1797	Comines
+T34	Location 1800 1805	Arras
+T35	Location 1808 1814	Arques
+T36	Location 1818 1831	Estrée-Cauchy
+T37	Location 1860 1867	Curgies
+T38	Location 1921 1926	Rœulx
+T39	Location 1972 1978	Calais
+T40	Location 1982 1989	Douvres
+T41	Location 1995 2005	Angleterre
+T42	Location 2069 2074	Lille
+T43	Location 2078 2088	Hazebrouck
+T44	Organization 2205 2209	SNCF
+T45	Organization 2229 2232	AFP
+T46	Location 2281 2292	Armentières
+T47	Location 2296 2306	Hazebrouck
+T48	Organization 2337 2341	ERDF
+T49	Hour 2467 2476	20 heures
+T50	Hour 2504 2513	20 heures
+T51	Organization 2518 2530	Météo-France
+T52	Location 2706 2716	Audomarois
+T53	Location 2722 2731	Béthunois
+T54	Location 2739 2747	Flandres
+T55	Organization 2781 2785	ERDF
+T56	Hour 2833 2842	23 heures
+T57	Location 2960 2970	Ostricourt
+T58	Location 3128 3137	Allemagne
+T59	Location 3145 3153	Pays-Bas
+T60	Location 3174 3185	Royaume-Uni
+T61	Location 3229 3236	Londres
+T62	Location 3336 3345	Liverpool
+T63	Location 3598 3611	Wolverhampton
+T64	Location 3631 3641	Birmingham

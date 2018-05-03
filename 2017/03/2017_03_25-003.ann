@@ -1,0 +1,35 @@
+T1	Location 0 6	France
+T2	Person 9 24	François Fillon
+T3	Location 34 40	Élysée
+T4	Date 71 83	25 mars 2017
+T5	Person 88 103	François Fillon
+T6	Organization 118 120	LR
+T7	Location 144 150	France
+T8	Date 192 205	jeudi 23 mars
+T9	Location 217 223	Élysée
+T10	Person 296 313	François Hollande
+T11	Person 370 376	Fillon
+T12	Person 420 426	Fillon
+T13	Location 492 505	Place Beauvau
+T14	Organization 540 555	Canard enchaîné
+T15	Location 600 606	Élysée
+T16	Organization 728 735	Justice
+T17	Person 736 755	Jean-Jacques Urvoas
+T18	Person 795 801	Fillon
+T19	Date 929 933	2013
+T20	Date 937 941	2016
+T21	Person 1268 1283	François Fillon
+T22	Date 1288 1292	2012
+T23	Date 1295 1299	2016
+T24	Location 1347 1353	Russie
+T25	Date 1355 1367	21 mars 2013
+T26	Date 1369 1386	19 septembre 2013
+T27	Date 1388 1400	19 juin 2015
+T28	Date 1482 1496	6 février 2017
+T29	Person 1498 1504	Fillon
+T30	Organization 1549 1559	2F Conseil
+T31	Organization 1562 1565	Axa
+T32	Organization 1568 1575	Fimalac
+T33	Organization 1589 1593	Oddo
+T34	Person 1711 1726	Fouad Makhzoumi
+T35	Organization 1730 1733	FPI

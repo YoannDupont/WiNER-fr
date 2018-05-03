@@ -1,0 +1,46 @@
+T1	Location 0 10	États-Unis
+T2	Person 40 45	Trump
+T3	Date 71 86	15 février 2017
+T4	Person 91 104	Michael Flynn
+T5	Person 168 180	Donald Trump
+T6	Organization 303 317	New York Times
+T7	Organization 324 339	Washington Post
+T8	Location 324 334	Washington
+T9	Person 388 393	Flynn
+T10	Location 402 408	Russie
+T11	Person 421 433	Barack Obama
+T12	Person 528 542	Sergey Kislyak
+T13	Location 535 542	Kislyak
+T14	Location 560 566	Russie
+T15	Location 569 579	Washington
+T16	Person 611 616	Trump
+T17	Date 685 689	1799
+T18	Person 819 824	Obama
+T19	Location 852 858	Russie
+T20	Person 919 924	Flynn
+T21	Location 940 947	Kislyak
+T22	Person 952 957	Trump
+T23	Person 993 998	Obama
+T24	Person 1216 1221	Trump
+T25	Location 1521 1531	États-Unis
+T26	Location 1538 1544	Russie
+T27	Organization 1552 1560	Le Monde
+T28	Person 1615 1627	Russia Today
+T29	Organization 1646 1653	Kremlin
+T30	Date 1682 1695	décembre 2015
+T31	Location 1733 1739	Moscou
+T32	Person 1768 1784	Vladimir Poutine
+T33	Person 1788 1793	Flynn
+T34	Person 1848 1858	Mike Pence
+T35	Organization 2033 2056	ministère de la Justice
+T36	Person 2095 2100	Flynn
+T37	Location 2152 2158	Russie
+T38	Organization 2203 2210	Congrès
+T39	Person 2216 2221	Flynn
+T40	Organization 2290 2306	Les républicains
+T41	Person 2376 2389	Michael Flynn
+T42	Location 2618 2624	Russie
+T43	Person 2758 2772	Joseph Kellogg
+T44	Organization 2818 2825	Reuters
+T45	Person 2828 2842	David Petraeus
+T46	Organization 2868 2871	CIA

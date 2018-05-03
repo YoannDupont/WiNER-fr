@@ -1,0 +1,6 @@
+Fondation Wikimedia : Commons peut maintenant héberger des modèles 3D
+
+Cet article mentionne la Fondation Wikimedia ou un de ses projets. Notez que Wikinews est un projet de la Fondation Wikimedia.
+
+14 mars 2018 . –
+La communauté technique de la Wikimedia Foundation a annoncé la mise en place de plusieurs nouvelles fonctionnalités. Parmi celles-ci, il est désormais possible pour les contributeurs de Commons , le service d'hébergement de fichiers multimédia de la Wikimedia Foundation, d'y importer des modèles 3D sous forme de fichiers STL . Il sera progressivement possible sur l'entièreté des services proposés par la Fondation de visualiser ces mêmes modèles 3D via le navigateur. Outre l'intérêt pédagogique - une représentation en trois dimensions étant plus facilement appréhendée qu'un plan -, le format STL est également le format utilisé par les imprimantes 3D.

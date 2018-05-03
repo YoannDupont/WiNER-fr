@@ -1,0 +1,19 @@
+T1	Location 0 6	Québec
+T2	Location 32 52	Îles-de-la-Madeleine
+T3	Date 54 66	30 mars 2016
+T4	Product 74 93	Mitsubishi MU-2B-60
+T5	Organization 74 84	Mitsubishi
+T6	Organization 120 144	aéroport de Saint-Hubert
+T7	Location 132 144	Saint-Hubert
+T8	Hour 165 176	12 h 43 HAA
+T9	Hour 178 189	11 h 43 HAE
+T10	Location 198 222	île du Havre aux Maisons
+T11	Location 229 249	Îles-de-la-Madeleine
+T12	Person 436 449	Jean Lapierre
+T13	Organization 863 899	Bureau de la sécurité des transports
+T14	Organization 901 904	BST
+T15	Person 951 968	Jonathan Lapierre
+T16	Location 981 1001	Îles-de-la-Madeleine
+T17	Person 1030 1038	Lapierre
+T18	Person 1117 1135	Philippe Couillard
+T19	Location 1158 1164	Québec

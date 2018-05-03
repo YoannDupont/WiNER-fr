@@ -1,0 +1,10 @@
+Informatique : Oracle se positionne sur les marchés du Smart Grid - Le projet GNU en embuscade
+
+2 mai 2016 . –
+Le projet GNU annonce la sortie d’une version majeure de sa solution domotique et smart grid (réseau de distribution d'électricité intelligent).
+
+GNUrc est une application web visant à la gestion en ligne d’appareil d’ immotique comme les thermostats CVC (chauffage, ventilation et climatisation). Son but est d’opérer tant en lecture qu’en écriture sur des thermostats compatibles IP . Le smart grid est l’un des marchés cible du projet [1] .
+
+Oracle s'est également positionné sur les marchés du Smart Grid par le rachat de la société Opower . On estime la transaction à 532 millions de dollars [2] .
+
+En France , la sensibilisation de l'utilisateur aux technologies « smart grid » progresse essentiellement via les compteurs intelligents « Linky ». Le réseau concerné utilise la technologie CPL , laquelle s'avère cependant inopérante (pour l’heure) au niveau des passerelles IP.

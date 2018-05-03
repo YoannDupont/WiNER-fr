@@ -1,0 +1,48 @@
+T1	Location 0 5	Syrie
+T2	Organization 11 25	Front Al-Nosra
+T3	Organization 47 55	Al-Qaïda
+T4	Date 57 72	29 juillet 2016
+T5	Organization 80 94	Front al-Nosra
+T6	Location 107 112	Syrie
+T7	Organization 148 156	Al-Qaida
+T8	Date 170 185	28 juillet 2016
+T9	Person 357 372	Bachar el-Assad
+T10	Organization 474 493	Front Fatah al-Cham
+T11	Organization 510 538	Front de la Conquête du Cham
+T12	Location 534 538	Cham
+T13	Date 761 776	28 juillet 2016
+T14	Organization 827 841	Front al-Nosra
+T15	Person 843 867	Abou Mohammed al-Joulani
+T16	Organization 943 953	d'Al-Qaida
+T17	Person 955 965	Al-Joulani
+T18	Organization 1161 1169	Al-Qaïda
+T19	Person 1326 1343	Ayman al-Zawahiri
+T20	Organization 1519 1533	Front al-Nosra
+T21	Date 1549 1561	janvier 2012
+T22	Location 1565 1570	Syrie
+T23	Person 1664 1679	Bachar el-Assad
+T24	Organization 1750 1764	État islamique
+T25	Location 2025 2040	Arabie saoudite
+T26	Location 2045 2050	Qatar
+T27	Location 2057 2064	Turquie
+T28	Organization 2082 2096	État islamique
+T29	Person 2108 2118	al-Joulani
+T30	Date 2132 2140	mai 2015
+T31	Location 2194 2202	Occident
+T32	Organization 2209 2217	Al-Qaida
+T33	Location 2233 2238	Syrie
+T34	Organization 2422 2434	Front du Sud
+T35	Organization 2454 2462	al-Nosra
+T36	Location 2518 2525	d'Idleb
+T37	Organization 2614 2636	l'Armée syrienne libre
+T38	Organization 2643 2657	Front al-Nosra
+T39	Person 2792 2797	Assad
+T40	Location 2800 2804	Alep
+T41	Location 2831 2840	Lattaquié
+T42	Organization 3089 3097	al-Nosra
+T43	Person 3120 3130	al-Joulani
+T44	Location 3397 3407	États-Unis
+T45	Organization 3460 3478	département d'État
+T46	Person 3480 3490	John Kirby
+T47	Location 3658 3666	Occident
+T48	Person 3729 3741	Igor Morozov

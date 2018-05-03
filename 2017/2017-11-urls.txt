@@ -1,0 +1,10 @@
+2017_11_07-001	https://fr.wikinews.org/wiki/Siemens-Gamesa_supprime_6000_emplois
+2017_11_10-001	https://fr.wikinews.org/wiki/France_:_un_automobiliste_fonce_intentionnellement_sur_un_groupe_de_personnes_à_Blagnac
+2017_11_11-001	https://fr.wikinews.org/wiki/France_:_la_création_d'emplois_salariés_ralentit
+2017_11_13-001	https://fr.wikinews.org/wiki/Qatar_:_quatre_femmes_nommées_au_Conseil_de_rédaction_de_la_loi
+2017_11_13-002	https://fr.wikinews.org/wiki/Syrie_:_Israël_menace_de_poursuivre_ses_opérations_militaires_dans_le_Sud_du_pays
+2017_11_15-001	https://fr.wikinews.org/wiki/Zimbabwe_:_l'armée_prend_le_contrôle_de_la_capitale
+2017_11_16-001	https://fr.wikinews.org/wiki/France_:_le_chômage_repart_à_la_hausse_pour_l'Insee
+2017_11_21-001	https://fr.wikinews.org/wiki/Zimbabwe_:_le_président_Mugabe_se_retire_du_pouvoir
+2017_11_23-001	https://fr.wikinews.org/wiki/Californie_:_mort_de_Charles_Manson_après_46_ans_en_prison
+2017_11_23-002	https://fr.wikinews.org/wiki/La_Corée_du_Nord_soutient_le_terrorisme_selon_Donald_Trump

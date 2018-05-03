@@ -1,0 +1,33 @@
+T1	Location 0 6	France
+T2	Person 44 50	Fillon
+T3	Date 52 64	19 mars 2017
+T4	Person 79 92	Robert Bourgi
+T5	Location 124 129	Arnys
+T6	Person 133 148	François Fillon
+T7	Organization 163 165	LR
+T8	Person 199 212	Robert Bourgi
+T9	Person 281 296	François Fillon
+T10	Organization 321 341	Agence France-Presse
+T11	Person 388 394	Fillon
+T12	Organization 428 433	Monde
+T13	Person 625 631	Bourgi
+T14	Person 751 757	Bourgi
+T15	Person 817 823	Fillon
+T16	Date 872 887	7 décembre 2016
+T17	Date 914 924	20 février
+T18	Location 976 981	Arnys
+T19	Location 985 990	Paris
+T20	Date 1007 1014	12 mars
+T21	Person 1107 1113	Fillon
+T22	Location 1204 1209	Arnys
+T23	Date 1218 1222	2012
+T24	Person 1359 1365	Bourgi
+T25	Person 1393 1399	Fillon
+T26	Person 1518 1524	Fillon
+T27	Organization 1529 1534	Échos
+T28	Location 1759 1764	Paris
+T29	Organization 1781 1800	Assemblée nationale
+T30	Organization 2023 2031	Marianne
+T31	Person 2163 2178	François Fillon
+T32	Organization 2230 2232	LR
+T33	Organization 2448 2453	HATVP

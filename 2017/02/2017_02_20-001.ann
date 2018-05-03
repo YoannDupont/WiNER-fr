@@ -1,0 +1,29 @@
+T1	Event 12 32	32e congrés de l'ETU
+T2	Organization 29 32	ETU
+T3	Person 34 50	Renato Bertrandi
+T4	Date 58 73	20 février 2017
+T5	Event 81 134	32 e congrès de la Fédération européenne de triathlon
+T6	Organization 100 134	Fédération européenne de triathlon
+T7	Location 178 182	Rome
+T8	Person 315 331	Renato Bertrandi
+T9	Person 387 408	Julien Vander Plancke
+T10	Organization 412 428	comité technique
+T11	Person 430 442	Pierre Bigot
+T12	Organization 446 469	comité de développement
+T13	Person 473 485	Denis Jaeger
+T14	Date 537 541	2021
+T15	Date 707 711	2016
+T16	Location 765 794	Britannique Alistair Brownlee
+T17	Person 811 824	Nicola Spirig
+T18	Person 968 977	Rob Barel
+T19	Location 1029 1035	Europe
+T20	Date 1079 1083	1980
+T21	Date 1087 1091	1990
+T22	Person 1116 1124	Isabelle
+T23	Person 1128 1144	Béatrice Mouthon
+T24	Date 1182 1186	1980
+T25	Date 1187 1191	1990
+T26	Person 1206 1219	Kaidi Kivioja
+T27	Location 1233 1239	France
+T28	Date 1243 1247	2016
+T29	Organization 1342 1345	ETU

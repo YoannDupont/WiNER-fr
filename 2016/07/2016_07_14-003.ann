@@ -1,0 +1,61 @@
+T1	Date 15 19	2016
+T2	Event 0 19	Tour de France 2016
+T3	Person 22 30	De Gendt
+T4	Person 54 60	Froome
+T5	Date 149 153	2016
+T6	Event 134 153	Tour de France 2016
+T7	Date 170 174	2016
+T8	Event 155 174	Tour de France 2016
+T9	Person 177 189	Tom Dumoulin
+T10	Date 250 254	2016
+T11	Event 235 254	Tour de France 2016
+T12	Person 257 265	De Gendt
+T13	Person 289 295	Froome
+T14	Date 365 369	2016
+T15	Event 350 369	Tour de France 2016
+T16	Person 372 377	Sagan
+T17	Person 401 407	Froome
+T18	Date 438 442	2016
+T19	Event 423 442	Tour de France 2016
+T20	Person 445 461	Michael Matthews
+T21	Date 499 503	2016
+T22	Event 484 503	Tour de France 2016
+T23	Person 506 518	Tom Dumoulin
+T24	Location 546 554	Pyrénées
+T25	Product 564 584	Tom Simpson memorial
+T26	Person 564 575	Tom Simpson
+T27	Person 586 598	Mont Ventoux
+T28	Date 618 626	TDF 2016
+T29	Date 642 657	14 juillet 2016
+T30	Location 697 708	Montpellier
+T31	Person 712 726	Chalet Reynard
+T32	Event 745 749	Tour
+T33	Person 858 873	Thomas De Gendt
+T34	Person 890 903	Serge Pauwels
+T35	Person 907 921	Daniel Navarro
+T36	Person 948 966	Christopher Froome
+T37	Person 988 998	Adam Yates
+T38	Person 1002 1015	Bauke Mollema
+T39	Person 1018 1029	Peter Sagan
+T40	Person 1104 1119	Thomas De Gendt
+T41	Person 1260 1272	Adam Yateset
+T42	Person 1329 1344	Thomas De Gendt
+T43	Location 1433 1451	Bourg-Saint-Andéol
+T44	Location 1455 1476	Caverne du Pont-d'Arc
+T45	Person 1526 1538	Richie Porte
+T46	Person 1542 1555	Bauke Mollema
+T47	Location 1619 1631	mont Ventoux
+T48	Person 1667 1685	Christopher Froome
+T49	Person 1874 1880	Froome
+T50	Person 2032 2038	Froome
+T51	Person 2277 2292	Thomas De Gendt
+T52	Event 2314 2318	Tour
+T53	Person 2343 2349	Froome
+T54	Person 2434 2444	Adam Yates
+T55	Person 2488 2494	Froome
+T56	Event 2589 2593	Tour
+T57	Person 2667 2673	Froome
+T58	Person 2692 2705	Bauke Mollema
+T59	Person 2784 2790	Froome
+T60	Person 2854 2864	Adam Yates
+T61	Person 2922 2928	Froome

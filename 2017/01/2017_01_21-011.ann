@@ -1,0 +1,23 @@
+T1	Location 0 6	France
+T2	Event 37 58	rallye de Monte Carlo
+T3	Location 47 58	Monte Carlo
+T4	Date 60 75	21 janvier 2017
+T5	Hour 100 105	20h30
+T6	Event 139 170	rallye de Monte Carlo Entrevaux
+T7	Location 149 170	Monte Carlo Entrevaux
+T8	Location 173 189	Val-de-Chalvagne
+T9	Location 192 198	Ubraye
+T10	Location 201 224	Alpes-de-Haute-Provence
+T11	Location 227 233	France
+T12	Location 260 267	Rouaine
+T13	Organization 289 296	Hyundai
+T14	Person 299 312	Hayden Paddon
+T15	Organization 557 580	hôpital Pasteur de Nice
+T16	Location 674 684	Castellane
+T17	Person 918 931	Romain Degeer
+T18	Organization 1229 1236	Hyundai
+T19	Person 1288 1301	Hayden Paddon
+T20	Person 1305 1317	John Kennard
+T21	Person 1657 1670	Hayden Paddon
+T22	Location 1779 1783	Nice
+T23	Organization 2143 2168	Automobile club de Monaco

@@ -1,0 +1,39 @@
+T1	Date 15 19	2016
+T2	Event 0 19	Tour de France 2016
+T3	Person 22 40	Christopher Froome
+T4	Date 101 105	2016
+T5	Event 86 105	Tour de France 2016
+T6	Date 122 126	2016
+T7	Event 107 126	Tour de France 2016
+T8	Person 129 141	Tom Dumoulin
+T9	Date 202 206	2016
+T10	Event 187 206	Tour de France 2016
+T11	Person 209 217	De Gendt
+T12	Person 241 247	Froome
+T13	Date 317 321	2016
+T14	Event 302 321	Tour de France 2016
+T15	Person 324 329	Sagan
+T16	Person 353 359	Froome
+T17	Date 390 394	2016
+T18	Event 375 394	Tour de France 2016
+T19	Person 397 413	Michael Matthews
+T20	Date 451 455	2016
+T21	Event 436 455	Tour de France 2016
+T22	Person 458 470	Tom Dumoulin
+T23	Location 498 506	Pyrénées
+T24	Date 508 522	9 juillet 2016
+T25	Location 562 565	Pau
+T26	Location 569 587	Bagnères-de-Luchon
+T27	Event 606 610	Tour
+T28	Person 719 737	Christopher Froome
+T29	Person 754 767	Daniel Martin
+T30	Person 771 788	Joaquim Rodríguez
+T31	Person 815 833	Christopher Froome
+T32	Person 855 865	Adam Yates
+T33	Person 869 886	Joaquim Rodríguez
+T34	Person 889 903	Mark Cavendish
+T35	Person 978 989	Rafał Majka
+T36	Person 1130 1142	Adam Yateset
+T37	Person 1199 1212	Thibaut Pinot
+T38	Location 1295 1301	Vielha
+T39	Location 1305 1319	Ordino-Arcalis

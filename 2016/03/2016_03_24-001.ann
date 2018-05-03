@@ -1,0 +1,33 @@
+T1	Location 0 6	France
+T2	Event 33 56	Festival d'Avignon 2016
+T3	Location 44 51	Avignon
+T4	Date 52 56	2016
+T5	Date 58 70	24 mars 2016
+T6	Person 75 85	Olivier Py
+T7	Organization 163 170	FabricA
+T8	Event 221 239	festival d'Avignon
+T9	Location 232 239	Avignon
+T10	Event 258 284	Festival d'Avignon de 2016
+T11	Location 269 276	Avignon
+T12	Date 280 284	2016
+T13	Person 301 313	Cécile Helle
+T14	Location 324 331	Avignon
+T15	Person 336 353	Jean-Marc Roubaud
+T16	Organization 372 415	Communauté d'agglomération du Grand Avignon
+T17	Location 402 415	Grand Avignon
+T18	Person 420 436	Élisabeth Amoros
+T19	Organization 463 496	Conseil départemental de Vaucluse
+T20	Location 488 496	Vaucluse
+T21	Person 502 518	Sophie Joissains
+T22	Date 592 593	6
+T23	Date 597 616	24 juillet prochain
+T24	Location 946 958	Moyen-Orient
+T25	Location 980 985	Liban
+T26	Location 991 995	Iran
+T27	Location 1001 1007	Israël
+T28	Location 1014 1019	Syrie
+T29	Organization 1098 1115	Comédie-Française
+T30	Person 1190 1206	Luchino Visconti
+T31	Organization 1267 1285	La Piccola Familia
+T32	Date 1325 1329	1947
+T33	Date 1332 1336	2086

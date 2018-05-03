@@ -1,0 +1,197 @@
+T1	Event 18 27	Euro 2016
+T2	Date 23 27	2016
+T3	Organization 31 46	Stade de France
+T4	Date 48 60	12 juin 2016
+T5	Event 87 108	Euro 2016 de football
+T6	Date 92 96	2016
+T7	Date 121 137	vendredi 10 juin
+T8	Hour 141 148	21 h 00
+T9	Organization 153 168	Stade de France
+T10	Location 171 182	Saint-Denis
+T11	Location 185 202	Seine-Saint-Denis
+T12	Location 227 233	France
+T13	Location 240 248	Roumanie
+T14	Location 255 263	Roumanie
+T15	Location 294 300	France
+T16	Person 388 401	Dimitri Payet
+T17	Date 499 503	1984
+T18	Location 521 528	Espagne
+T19	Date 545 549	2012
+T20	Location 571 577	Italie
+T21	Person 598 611	Laurent Blanc
+T22	Person 686 702	Didier Deschamps
+T23	Event 787 791	Euro
+T24	Location 856 865	Marseille
+T25	Location 880 890	Angleterre
+T26	Location 893 899	Russie
+T27	Location 1133 1140	Albanie
+T28	Location 1143 1149	Suisse
+T29	Hour 1154 1157	15h
+T30	Location 1160 1164	Lens
+T31	Location 1183 1189	Galles
+T32	Location 1192 1201	Slovaquie
+T33	Hour 1206 1209	18h
+T34	Location 1212 1220	Bordeaux
+T35	Location 1237 1249	: Angleterre
+T36	Location 1252 1258	Russie
+T37	Hour 1262 1265	21h
+T38	Location 1268 1277	Marseille
+T39	Event 1313 1317	Euro
+T40	Location 1348 1355	Turquie
+T41	Location 1358 1365	Croatie
+T42	Hour 1370 1373	15h
+T43	Location 1376 1381	Paris
+T44	Location 1394 1401	Pologne
+T45	Location 1404 1419	Irlande du Nord
+T46	Hour 1424 1427	18h
+T47	Location 1431 1435	Nice
+T48	Location 1448 1457	Allemagne
+T49	Location 1460 1467	Ukraine
+T50	Hour 1472 1475	21h
+T51	Location 1478 1495	Villeneuve-d'Ascq
+T52	Location 1510 1517	Espagne
+T53	Location 1520 1538	République tchèque
+T54	Hour 1543 1546	15h
+T55	Location 1549 1557	Toulouse
+T56	Location 1570 1577	Irlande
+T57	Location 1580 1585	Suède
+T58	Hour 1588 1591	18h
+T59	Location 1594 1605	Saint-Denis
+T60	Location 1618 1626	Belgique
+T61	Location 1629 1635	Italie
+T62	Hour 1639 1642	21h
+T63	Location 1645 1649	Lyon
+T64	Location 1664 1672	Autriche
+T65	Location 1675 1682	Hongrie
+T66	Hour 1687 1690	18h
+T67	Location 1693 1701	Bordeaux
+T68	Location 1714 1722	Portugal
+T69	Location 1725 1732	Islande
+T70	Hour 1735 1738	21h
+T71	Location 1741 1754	Saint-Étienne
+T72	Location 1767 1773	Russie
+T73	Location 1776 1785	Slovaquie
+T74	Hour 1789 1792	15h
+T75	Location 1795 1812	Villeneuve-d'Ascq
+T76	Location 1825 1833	Roumanie
+T77	Location 1836 1842	Suisse
+T78	Hour 1846 1849	18h
+T79	Location 1852 1857	Paris
+T80	Location 1870 1876	France
+T81	Location 1879 1886	Albanie
+T82	Hour 1890 1893	21h
+T83	Location 1896 1905	Marseille
+T84	Location 1917 1929	: Angleterre
+T85	Location 1932 1938	Galles
+T86	Hour 1942 1945	15h
+T87	Location 1948 1952	Lens
+T88	Location 1965 1972	Ukraine
+T89	Location 1975 1990	Irlande du Nord
+T90	Hour 1994 1997	18h
+T91	Location 2000 2004	Lyon
+T92	Location 2017 2026	Allemagne
+T93	Location 2029 2036	Pologne
+T94	Hour 2040 2043	21h
+T95	Location 2046 2057	Saint-Denis
+T96	Location 2071 2077	Italie
+T97	Location 2080 2085	Suède
+T98	Hour 2089 2092	15h
+T99	Location 2095 2103	Toulouse
+T100	Location 2116 2134	République tchèque
+T101	Location 2137 2144	Croatie
+T102	Hour 2148 2151	18h
+T103	Location 2154 2167	Saint-Étienne
+T104	Location 2180 2187	Espagne
+T105	Location 2190 2197	Turquie
+T106	Hour 2201 2204	21h
+T107	Location 2207 2211	Nice
+T108	Location 2225 2233	Belgique
+T109	Location 2236 2243	Irlande
+T110	Hour 2247 2250	15h
+T111	Location 2253 2261	Bordeaux
+T112	Location 2274 2281	Islande
+T113	Location 2284 2291	Hongrie
+T114	Hour 2295 2298	18h
+T115	Location 2301 2310	Marseille
+T116	Location 2323 2331	Portugal
+T117	Location 2334 2342	Autriche
+T118	Hour 2346 2349	21h
+T119	Location 2352 2357	Paris
+T120	Location 2371 2379	Roumanie
+T121	Location 2382 2389	Albanie
+T122	Hour 2393 2396	21h
+T123	Location 2399 2403	Lyon
+T124	Location 2416 2422	Suisse
+T125	Location 2425 2431	France
+T126	Hour 2435 2438	21h
+T127	Location 2441 2458	Villeneuve-d'Ascq
+T128	Location 2472 2478	Russie
+T129	Location 2481 2487	Galles
+T130	Hour 2491 2494	21h
+T131	Location 2497 2505	Toulouse
+T132	Location 2518 2527	Slovaquie
+T133	Location 2530 2540	Angleterre
+T134	Hour 2544 2547	21h
+T135	Location 2550 2563	Saint-Étienne
+T136	Location 2577 2584	Ukraine
+T137	Location 2587 2594	Pologne
+T138	Hour 2598 2601	18h
+T139	Location 2604 2613	Marseille
+T140	Location 2626 2641	Irlande du Nord
+T141	Location 2644 2653	Allemagne
+T142	Hour 2657 2660	18h
+T143	Location 2663 2668	Paris
+T144	Location 2681 2699	République tchèque
+T145	Location 2702 2709	Turquie
+T146	Hour 2713 2716	21h
+T147	Location 2719 2723	Lens
+T148	Location 2736 2743	Croatie
+T149	Location 2746 2753	Espagne
+T150	Hour 2757 2760	21h
+T151	Location 2763 2771	Bordeaux
+T152	Location 2785 2792	Islande
+T153	Location 2795 2803	Autriche
+T154	Hour 2807 2810	18h
+T155	Location 2813 2824	Saint-Denis
+T156	Location 2837 2844	Hongrie
+T157	Location 2847 2855	Portugal
+T158	Hour 2859 2862	18h
+T159	Location 2865 2869	Lyon
+T160	Location 2882 2888	Italie
+T161	Location 2891 2898	Irlande
+T162	Hour 2902 2905	21h
+T163	Location 2908 2925	Villeneuve-d'Ascq
+T164	Location 2938 2943	Suède
+T165	Location 2946 2954	Belgique
+T166	Hour 2958 2961	21h
+T167	Location 2964 2968	Nice
+T168	Hour 2988 2991	15h
+T169	Location 2994 3007	Saint-Étienne
+T170	Hour 3026 3029	18h
+T171	Location 3032 3037	Paris
+T172	Hour 3056 3059	21h
+T173	Location 3062 3066	Lens
+T174	Hour 3086 3089	15h
+T175	Location 3092 3096	Lyon
+T176	Hour 3115 3118	18h
+T177	Location 3121 3138	Villeneuve-d'Ascq
+T178	Hour 3157 3160	21h
+T179	Location 3163 3171	Toulouse
+T180	Hour 3191 3194	18h
+T181	Location 3197 3208	Saint-Denis
+T182	Hour 3227 3230	21h
+T183	Location 3233 3237	Nice
+T184	Hour 3260 3263	21h
+T185	Location 3266 3275	Marseille
+T186	Hour 3298 3301	21h
+T187	Location 3304 3321	Villeneuve-d'Ascq
+T188	Hour 3344 3347	21h
+T189	Location 3350 3358	Bordeaux
+T190	Hour 3381 3384	21h
+T191	Location 3387 3398	Saint-Denis
+T192	Hour 3417 3420	21h
+T193	Location 3423 3427	Lyon
+T194	Hour 3446 3449	21h
+T195	Location 3452 3461	Marseille
+T196	Hour 3475 3478	21h
+T197	Location 3481 3492	Saint-Denis

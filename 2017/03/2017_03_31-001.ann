@@ -1,0 +1,23 @@
+T1	Location 0 6	France
+T2	Person 9 24	François Fillon
+T3	Person 35 44	Bérégovoy
+T4	Date 86 98	31 mars 2017
+T5	Date 135 148	jeudi 23 mars
+T6	Organization 154 162	France 2
+T7	Organization 177 179	LR
+T8	Person 212 227	François Fillon
+T9	Person 261 277	Pierre Bérégovoy
+T10	Person 302 321	François Mitterrand
+T11	Date 335 339	1993
+T12	Person 441 450	Bérégovoy
+T13	Person 635 650	Christine Angot
+T14	Organization 746 756	Libération
+T15	Person 975 996	Jean-Michel Bérégovoy
+T16	Location 1016 1021	Rouen
+T17	Person 1121 1137	Pierre Bérégovoy
+T18	Person 1174 1189	François Fillon
+T19	Location 1264 1270	France
+T20	Person 1367 1383	Pierre Bérégovoy
+T21	Date 1411 1418	27 mars
+T22	Location 1421 1427	Nantes
+T23	Location 1430 1446	Loire-Atlantique

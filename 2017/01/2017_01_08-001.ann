@@ -1,0 +1,21 @@
+T1	Location 0 6	France
+T2	Person 34 48	Georges Prêtre
+T3	Date 50 64	8 janvier 2017
+T4	Person 98 112	Georges Prêtre
+T5	Date 124 142	mercredi 4 janvier
+T6	Location 145 150	Navès
+T7	Location 161 165	Tarn
+T8	Organization 227 245	opéra de Marseille
+T9	Location 250 255	Lille
+T10	Location 273 281	Toulouse
+T11	Organization 289 302	Opéra-Comique
+T12	Organization 310 323	Opéra Garnier
+T13	Organization 331 372	Orchestre philharmonique royal de Londres
+T14	Organization 380 394	Opéra de Paris
+T15	Organization 403 434	Orchestre symphonique de Vienne
+T16	Person 467 482	Francis Poulenc
+T17	Person 486 498	Maria Callas
+T18	Date 568 577	Nouvel An
+T19	Organization 584 618	Orchestre philharmonique de Vienne
+T20	Date 624 628	2008
+T21	Date 632 636	2010

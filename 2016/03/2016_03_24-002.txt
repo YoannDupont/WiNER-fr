@@ -1,0 +1,7 @@
+Espace : succès du lancement du sixième véhicule Cygnus
+
+24 mars 2016 . – Une mission de ravitaillement de la Station spatiale internationale a été initiée avec le lancement d'un sixième véhicule spatial Cygnus . Ce vaisseau cargo, développé par la société Orbital ATK , livrera à la station environ 3,6 tonnes de matériel, dont de la nourriture, du carburant et différentes pièces d'équipement.
+
+Le cargo munira les scientifiques présents sur place de plusieurs nouveaux équipements spécialisés dont du matériel permettant aux chercheurs d'observer les compositions chimiques des météores entrant dans l'atmosphère, un type de colle pouvant fonctionner dans l' espace , et la deuxième génération d'un tableau de bord pour imprimante 3D portative. Ces nouvelles acquisitions permettrons de faciliter les manipulations lors des expéditions 47 et 48 , portant sur des expérimentations chimiques, les démonstrations de nouvelles technologies, et des recherches sur l'appareil locomoteur du corps humain (recherches musculo-squelettique).
+
+Cygnus atteindra la station spatiale internationale le samedi 26 mars 2016, où il y sera fixé à l'aide du bras robotique . Par la suite, contrôlé depuis Houston au Texas , le bras tournera et connectera le véhicule au module Unity , où il demeurera en place jusqu'au mois de mai, avant d'être retourné à la Terre en emportant avec lui plusieurs tonnes de déchets.

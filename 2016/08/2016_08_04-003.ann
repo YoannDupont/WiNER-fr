@@ -1,0 +1,54 @@
+T1	Person 11 23	Jérémy Ménez
+T2	Location 26 34	Bordeaux
+T3	Date 36 47	4 août 2016
+T4	Person 77 89	Jérémy Ménez
+T5	Location 125 133	Bordeaux
+T6	Organization 112 133	Girondins de Bordeaux
+T7	Organization 153 161	Milan AC
+T8	Location 153 158	Milan
+T9	Date 184 188	2004
+T10	Date 189 193	2006
+T11	Location 212 218	Monaco
+T12	Organization 209 218	AS Monaco
+T13	Date 220 224	2006
+T14	Date 225 229	2008
+T15	Location 238 242	Rome
+T16	Organization 235 242	AS Rome
+T17	Date 244 248	2008
+T18	Date 249 253	2012
+T19	Organization 259 262	PSG
+T20	Date 264 268	2012
+T21	Date 269 273	2014
+T22	Organization 281 289	Milan AC
+T23	Location 281 286	Milan
+T24	Date 291 295	2014
+T25	Date 296 300	2016
+T26	Location 493 498	Milan
+T27	Person 573 591	Jocelyn Gourvennec
+T28	Person 651 663	Jérémy Ménez
+T29	Person 720 735	Jérémy Toulalan
+T30	Person 742 757	François Kamano
+T31	Organization 774 777	RMC
+T32	Person 779 792	Jérôme Rothen
+T33	Location 863 871	Bordeaux
+T34	Organization 850 871	Girondins de Bordeaux
+T35	Person 966 969	Bez
+T36	Date 1120 1124	1980
+T37	Person 1128 1140	Jérémy Ménez
+T38	Organization 1213 1222	Girondins
+T39	Date 1227 1245	16 juillet dernier
+T40	Location 1249 1253	Agen
+T41	Organization 1334 1343	Girondins
+T42	Location 1351 1358	Lorient
+T43	Person 1531 1536	Ndong
+T44	Date 1765 1772	13 août
+T45	Location 1790 1803	Saint-Étienne
+T46	Person 1807 1824	Jean-Marc Ferreri
+T47	Location 1839 1847	Bordeaux
+T48	Location 1865 1872	Auxerre
+T49	Date 1876 1880	1986
+T50	Date 1982 1986	1980
+T51	Location 2034 2039	Ménez
+T52	Person 2076 2086	Paul Pogba
+T53	Organization 2089 2106	Manchester United
+T54	Location 2089 2099	Manchester

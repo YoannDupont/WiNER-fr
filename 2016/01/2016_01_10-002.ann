@@ -1,0 +1,69 @@
+T1	Location 51 73	place de la République
+T2	Location 76 81	Paris
+T3	Date 83 98	10 janvier 2016
+T4	Date 154 166	janvier 2015
+T5	Date 184 197	novembre 2015
+T6	Location 212 217	Paris
+T7	Location 220 231	Saint-Denis
+T8	Location 234 251	Seine-Saint-Denis
+T9	Location 257 266	Montrouge
+T10	Location 269 283	Hauts-de-Seine
+T11	Person 355 372	François Hollande
+T12	Location 380 402	place de la République
+T13	Location 407 412	Paris
+T14	Date 498 508	11 janvier
+T15	Location 515 537	place de la République
+T16	Person 662 677	Johnny Hallyday
+T17	Person 727 744	François Hollande
+T18	Date 1072 1085	novembre 2015
+T19	Location 1089 1094	Paris
+T20	Location 1096 1105	Montrouge
+T21	Location 1109 1120	Saint-Denis
+T22	Location 1145 1151	France
+T23	Person 1330 1342	Manuel Valls
+T24	Person 1371 1388	Bernard Cazeneuve
+T25	Person 1392 1410	Christiane Taubira
+T26	Location 1446 1451	Paris
+T27	Person 1453 1465	Anne Hidalgo
+T28	Person 1471 1485	Gérard Larcher
+T29	Organization 1501 1517	Les Républicains
+T30	Organization 1519 1521	LR
+T31	Organization 1526 1531	Sénat
+T32	Person 1616 1631	Johnny Hallyday
+T33	Location 1695 1700	Paris
+T34	Person 1706 1718	Jacques Brel
+T35	Organization 1761 1776	armée française
+T36	Person 1859 1870	Victor Hugo
+T37	Date 1894 1910	5 septembre 1870
+T38	Location 1995 2000	Paris
+T39	Location 2027 2033	France
+T40	Location 2058 2063	Paris
+T41	Location 2098 2103	Paris
+T42	Location 2137 2142	Paris
+T43	Person 2225 2242	François Hollande
+T44	Organization 2270 2293	Grande mosquée de Paris
+T45	Location 2288 2293	Paris
+T46	Location 2453 2459	France
+T47	Location 2604 2614	République
+T48	Location 2618 2636	Jacques-Bonsergent
+T49	Organization 2741 2753	Hyper Cacher
+T50	Location 2763 2772	Vincennes
+T51	Person 2777 2789	Manuel Valls
+T52	Person 2934 2956	Clarissa Jean-Philippe
+T53	Location 2995 3004	Montrouge
+T54	Location 3006 3020	Hauts-de-Seine
+T55	Person 3120 3137	François Hollande
+T56	Location 3140 3149	Montrouge
+T57	Person 3163 3185	Clarissa Jean-Philippe
+T58	Organization 3287 3300	Charlie Hebdo
+T59	Person 3287 3294	Charlie
+T60	Date 3321 3335	7 janvier 2015
+T61	Location 3360 3382	place de la République
+T62	Location 3385 3390	Paris
+T63	Location 3428 3436	Bordeaux
+T64	Person 3481 3488	Charlie
+T65	Location 3523 3542	Place de la Liberté
+T66	Location 3545 3551	Toulon
+T67	Location 3570 3578	Toulouse
+T68	Location 3625 3642	place Jean-Jaurès
+T69	Location 3645 3650	Tours

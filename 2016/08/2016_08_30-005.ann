@@ -1,0 +1,37 @@
+T1	Location 0 6	France
+T2	Person 21 36	Emmanuel Macron
+T3	Date 47 59	30 août 2016
+T4	Person 91 106	Emmanuel Macron
+T5	Date 158 171	mardi 30 août
+T6	Hour 177 186	15 heures
+T7	Person 258 275	François Hollande
+T8	Location 338 344	Elysée
+T9	Person 347 362	Emmanuel Macron
+T10	Organization 496 507	En marche !
+T11	Location 558 563	Paris
+T12	Date 585 603	12 juillet dernier
+T13	Date 705 720	19 août dernier
+T14	Person 722 737	Emmanuel Macron
+T15	Person 1008 1013	Valls
+T16	Person 1136 1150	Ismaël Emelien
+T17	Person 1188 1203	Emmanuel Macron
+T18	Organization 1242 1245	EDF
+T19	Organization 1249 1255	Alstom
+T20	Location 1314 1327	Haute-Garonne
+T21	Location 1458 1464	Elysée
+T22	Hour 1525 1534	15 heures
+T23	Person 1663 1680	François Hollande
+T24	Location 1714 1719	Bercy
+T25	Location 1724 1730	Elysée
+T26	Location 1739 1745	Elysée
+T27	Location 1748 1753	Bercy
+T28	Person 1850 1862	Michel Sapin
+T29	Person 1932 1945	Matthias Fekl
+T30	Organization 2069 2075	I-Télé
+T31	Hour 2081 2090	17 heures
+T32	Person 2108 2123	Emmanuel Macron
+T33	Person 2153 2165	Michel Sapin
+T34	Location 2253 2259	Elysée
+T35	Person 2289 2308	George Pau-Langevin
+T36	Organization 2336 2345	Outre-Mer
+T37	Person 2398 2413	Ericka Bareigts

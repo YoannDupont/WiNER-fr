@@ -1,0 +1,15 @@
+T1	Date 38 42	2016
+T2	Event 0 42	Élection présidentielle américaine de 2016
+T3	Date 65 80	8 novembre 2016
+T4	Location 105 115	États-Unis
+T5	Organization 234 239	Sénat
+T6	Location 310 320	États-Unis
+T7	Person 515 530	Hillary Clinton
+T8	Person 560 572	Donald Trump
+T9	Hour 698 707	23 heures
+T10	Hour 716 722	minuit
+T11	Location 725 730	Paris
+T12	Hour 732 741	18 heures
+T13	Location 744 752	New York
+T14	Hour 756 765	15 heures
+T15	Location 768 779	Los Angeles

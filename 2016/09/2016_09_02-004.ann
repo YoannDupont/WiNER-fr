@@ -1,0 +1,25 @@
+T1	Location 0 6	France
+T2	Event 22 63	festival du cinéma américain de Deauville
+T3	Location 54 63	Deauville
+T4	Date 65 81	2 septembre 2016
+T5	Date 89 105	2 septembre 2016
+T6	Date 109 126	11 septembre 2016
+T7	Event 142 170	festival du cinéma américain
+T8	Location 173 182	Deauville
+T9	Person 303 319	Daniel Radcliffe
+T10	Organization 373 380	Culture
+T11	Person 381 400	Frédéric Mitterrand
+T12	Person 490 508	Chloe Grace Moretz
+T13	Person 575 591	Daniel Radcliffe
+T14	Person 621 634	Stanley Tucci
+T15	Person 638 650	James Franco
+T16	Person 711 722	Brad Furman
+T17	Person 730 744	Bryan Cranston
+T18	Person 748 760	Diane Kruger
+T19	Person 871 884	Pablo Escobar
+T20	Person 1018 1031	Michael Moore
+T21	Location 1057 1063	France
+T22	Organization 1187 1196	Dark Star
+T23	Person 1198 1211	Michael Moore
+T24	Organization 1338 1347	Dark Star
+T25	Person 1388 1399	Luc Jacquet

@@ -1,0 +1,31 @@
+T1	Location 0 6	France
+T2	Person 47 62	Vincent Lambert
+T3	Date 64 76	12 juin 2016
+T4	Person 92 107	Vincent Lambert
+T5	Date 145 157	jeudi 9 juin
+T6	Person 204 218	Rachel Lambert
+T7	Person 232 247	Vincent Lambert
+T8	Person 403 410	Lambert
+T9	Person 474 489	Vincent Lambert
+T10	Location 566 571	Reims
+T11	Organization 550 571	Cour d'appel de Reims
+T12	Person 617 632	Vincent Lambert
+T13	Person 654 660	Rachel
+T14	Organization 768 780	Cour d'appel
+T15	Organization 862 874	Cour d'appel
+T16	Person 988 1003	Vincent Lambert
+T17	Person 1082 1088	Rachel
+T18	Location 1187 1192	Reims
+T19	Organization 1179 1192	CHRU de Reims
+T20	Person 1418 1433	Vincent Lambert
+T21	Organization 1517 1553	Cour administrative d'appel de Nancy
+T22	Location 1548 1553	Nancy
+T23	Person 1581 1597	François Lambert
+T24	Person 1611 1626	Vincent Lambert
+T25	Date 1714 1721	16 juin
+T26	Location 1856 1876	Châlons-en-Champagne
+T27	Date 1887 1891	2015
+T28	Person 2095 2108	Daniela Simon
+T29	Location 2128 2133	Reims
+T30	Organization 2121 2133	CHU de Reims
+T31	Person 2147 2162	Vincent Lambert

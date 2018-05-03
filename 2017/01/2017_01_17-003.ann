@@ -1,0 +1,67 @@
+T1	Organization 0 16	Union européenne
+T2	Organization 63 72	Parlement
+T3	Date 92 107	17 janvier 2017
+T4	Organization 112 128	Union européenne
+T5	Person 131 145	Antonio Tajani
+T6	Organization 163 181	Parlement européen
+T7	Date 185 200	17 janvier 2017
+T8	Organization 288 306	Parlement européen
+T9	Date 316 320	1979
+T10	Organization 361 370	Parlement
+T11	Organization 375 399	Parti populaire européen
+T12	Organization 406 431	Parti socialiste européen
+T13	Organization 520 529	Parlement
+T14	Organization 608 617	Parlement
+T15	Person 732 746	Martin Schultz
+T16	Person 749 763	Antonio Tajani
+T17	Organization 765 768	PPE
+T18	Location 770 776	Italie
+T19	Person 779 794	Gianni Pittella
+T20	Organization 796 799	PSE
+T21	Location 801 807	Italie
+T22	Person 810 825	Guy Verhofstadt
+T23	Organization 827 831	ALDE
+T24	Location 833 841	Belgique
+T25	Person 844 857	Helga Stevens
+T26	Organization 860 863	ERC
+T27	Location 866 874	Belgique
+T28	Person 877 893	Eleonora Forenza
+T29	Organization 896 899	GUE
+T30	Organization 900 903	NGL
+T31	Location 906 912	Italie
+T32	Person 915 927	Jean Lambert
+T33	Organization 929 934	Verts
+T34	Organization 935 938	ALE
+T35	Location 940 951	Royaume-Uni
+T36	Person 956 972	Laurenţiu Rebega
+T37	Organization 975 978	ENL
+T38	Location 981 989	Roumanie
+T39	Person 993 1009	Eleonora Forenza
+T40	Organization 1012 1015	GUE
+T41	Organization 1016 1019	NGL
+T42	Location 1022 1028	Italie
+T43	Person 1031 1043	Jean Lambert
+T44	Organization 1045 1051	Greens
+T45	Organization 1052 1055	EFA
+T46	Location 1057 1068	Royaume-Uni
+T47	Person 1071 1086	Gianni Pittella
+T48	Organization 1088 1091	PSE
+T49	Location 1093 1099	Italie
+T50	Person 1102 1118	Laurenţiu Rebega
+T51	Organization 1121 1124	ENL
+T52	Location 1127 1135	Roumanie
+T53	Person 1138 1151	Helga Stevens
+T54	Organization 1154 1157	ERC
+T55	Location 1160 1168	Belgique
+T56	Person 1171 1185	Antonio Tajani
+T57	Organization 1187 1190	PPE
+T58	Location 1192 1198	Italie
+T59	Person 1201 1216	Guy Verhofstadt
+T60	Organization 1218 1222	ALDE
+T61	Location 1224 1232	Belgique
+T62	Organization 1295 1298	PPE
+T63	Organization 1303 1306	PSE
+T64	Organization 1315 1319	ALDE
+T65	Hour 1366 1375	8 h (UTC)
+T66	Hour 1632 1645	10 h 30 (UTC)
+T67	Hour 2060 2073	21 h 00 (UTC)

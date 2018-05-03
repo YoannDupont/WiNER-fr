@@ -1,0 +1,43 @@
+T1	Location 0 6	France
+T2	Person 9 24	François Fillon
+T3	Date 79 91	25 mars 2017
+T4	Person 195 210	François Fillon
+T5	Person 234 240	Fillon
+T6	Person 372 389	Pablo Victor Dana
+T7	Location 435 440	Dubaï
+T8	Person 443 447	Dana
+T9	Date 550 554	2014
+T10	Date 622 626	2009
+T11	Person 628 632	Dana
+T12	Location 654 660	France
+T13	Person 767 773	Fillon
+T14	Organization 819 827	Matignon
+T15	Location 888 893	Paris
+T16	Person 1144 1159	François Fillon
+T17	Person 1274 1280	Fillon
+T18	Person 1318 1322	Dana
+T19	Person 1449 1463	Alain Thébault
+T20	Person 1498 1513	François Fillon
+T21	Organization 1597 1611	Haute Autorité
+T22	Date 1660 1676	1er janvier 2017
+T23	Date 1865 1869	2013
+T24	Organization 1898 1907	Rebellion
+T25	Person 2049 2055	Fillon
+T26	Event 2107 2124	24 Heures du Mans
+T27	Location 2120 2124	Mans
+T28	Organization 2502 2524	Le Journal du dimanche
+T29	Person 2626 2639	Robert Bourgi
+T30	Person 2650 2656	Fillon
+T31	Organization 2892 2907	Canard enchaîné
+T32	Organization 3000 3002	2F
+T33	Person 3059 3075	Vladimir Poutine
+T34	Location 3210 3221	Pays basque
+T35	Location 3267 3276	Espelette
+T36	Location 3279 3294	Cambo-les-Bains
+T37	Location 3297 3317	Pyrénées-Atlantiques
+T38	Person 3439 3445	Fillon
+T39	Person 3571 3577	Fillon
+T40	Person 3622 3628	Fillon
+T41	Location 3983 3990	Bayonne
+T42	Person 3994 4000	Fillon
+T43	Person 4432 4445	Robert Bourgi

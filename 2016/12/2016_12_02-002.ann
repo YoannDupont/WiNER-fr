@@ -1,0 +1,30 @@
+T1	Location 0 7	Burundi
+T2	Person 55 69	Willy Nyamitwe
+T3	Date 71 86	2 décembre 2016
+T4	Person 149 166	Pierre Nkurunziza
+T5	Person 169 183	Willy Nyamitwe
+T6	Date 200 217	lundi 28 novembre
+T7	Hour 244 251	21 h 30
+T8	Person 390 404	Willy Nyamitwe
+T9	Person 535 549	Willy Nyamitwe
+T10	Organization 651 655	ONUB
+T11	Organization 658 696	Opération des Nations unies au Burundi
+T12	Organization 672 685	Nations unies
+T13	Location 689 696	Burundi
+T14	Organization 704 706	UE
+T15	Organization 743 747	FIDH
+T16	Location 756 763	Burundi
+T17	Organization 769 773	FIDH
+T18	Location 928 934	Berlin
+T19	Location 943 950	Burundi
+T20	Organization 968 977	Sindumuja
+T21	Organization 981 993	Imbonerakure
+T22	Location 996 1002	Berlin
+T23	Location 1059 1065	Rwanda
+T24	Person 1121 1138	René Ngendahimana
+T25	Location 1181 1187	Rwanda
+T26	Person 1230 1244	Willy Nyamitwe
+T27	Location 1277 1284	Burundi
+T28	Organization 1331 1347	Union européenne
+T29	Person 1414 1428	Willy Nyamitwe
+T30	Person 1557 1574	Pierre Nkurunziza

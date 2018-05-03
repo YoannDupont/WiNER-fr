@@ -1,0 +1,60 @@
+T1	Location 0 6	France
+T2	Person 39 56	Pierre Bouteiller
+T3	Date 58 70	12 mars 2017
+T4	Person 121 138	Pierre Bouteiller
+T5	Location 185 190	Paris
+T6	Location 305 311	Europe
+T7	Organization 305 313	Europe 1
+T8	Date 333 337	1959
+T9	Date 347 351	1969
+T10	Location 418 424	Europe
+T11	Organization 418 426	Europe 1
+T12	Date 514 520	Mai 68
+T13	Event 514 520	Mai 68
+T14	Location 662 668	France
+T15	Organization 662 674	France Inter
+T16	Organization 680 684	ORTF
+T17	Organization 705 719	Embouteillages
+T18	Location 808 813	Paris
+T19	Person 945 955	José Artur
+T20	Person 959 974	Jacques Chancel
+T21	Person 1209 1226	Pierre Bouteiller
+T22	Organization 1402 1405	TF1
+T23	Event 1507 1531	Concours de l’Eurovision
+T24	Person 1589 1601	Michel Polac
+T25	Date 1670 1674	1982
+T26	Location 1697 1703	France
+T27	Organization 1697 1709	France Inter
+T28	Person 1749 1768	Jean-Noël Jeanneney
+T29	Organization 1784 1796	Radio France
+T30	Location 1790 1796	France
+T31	Person 1849 1862	Jean Garretto
+T32	Date 1929 1933	1989
+T33	Person 1970 1992	François-Régis Bastide
+T34	Organization 2014 2028	France Musique
+T35	Location 2014 2020	France
+T36	Date 2034 2038	1984
+T37	Date 2041 2045	1988
+T38	Date 2084 2088	1989
+T39	Location 2125 2131	France
+T40	Organization 2125 2137	France Inter
+T41	Date 2143 2147	1995
+T42	Person 2177 2187	Jean Maheu
+T43	Organization 2210 2222	Radio France
+T44	Location 2216 2222	France
+T45	Person 2244 2256	Michel Boyon
+T46	Organization 2264 2267	CSA
+T47	Location 2330 2336	France
+T48	Organization 2330 2342	France Inter
+T49	Date 2405 2409	1999
+T50	Organization 2446 2458	Radio France
+T51	Location 2452 2458	France
+T52	Person 2470 2487	Jean-Marie Cavada
+T53	Organization 2501 2515	France Musique
+T54	Location 2501 2507	France
+T55	Date 2555 2559	2004
+T56	Person 2607 2626	Jean-François Bizot
+T57	Person 2630 2641	Frank Ténot
+T58	Organization 2666 2674	TSF jazz
+T59	Date 2836 2840	2015
+T60	Person 2951 2965	Michel Legrand

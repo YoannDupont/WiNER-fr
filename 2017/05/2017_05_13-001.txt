@@ -1,0 +1,10 @@
+Une vaste cyberattaque frappe des pays du monde entier
+
+13 mai 2017 . –
+Plus de 75 000 cyberattaques sont survenues dans 99 pays depuis le 12 mai. Il s'agit d'un logiciel de rançon appelé « WannaCry » qui bloque les données des ordinateurs et dont la victime doit payer une rançon en bitcoin afin de les récupérer, sous peine d'effacement.
+
+Microsoft a indiqué avoir publié une mise à jour de sécurité en mars pour contrer le logiciel de rançon qui utilise la faille de sécurité « EternalBlue » développé par la NSA. Seuls ceux qui n'ont pas effectué la mise à jour ont été touchés, notamment les utilisateurs de Windows XP qui n'est plus supporté. Toutefois, en raison de la gravité de l'attaque de WannaCry, Microsoft a pris la mesure inhabituelle de publier une mise à jour de sécurité pour les systèmes d’exploitation qu’il ne maintient plus, comme Windows XP, mais aussi Windows 8 et Windows Server 2003 .
+
+L'attaque a notamment perturbé le constructeur automobile Renault , les hôpitaux britanniques et le Ministère de l’Intérieur de Russie .
+
+L'attaque Adylkuzz a également sévi en même temps que WannaCry, mais a bénéficié d'une moindre couverture médiatique.

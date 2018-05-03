@@ -1,0 +1,39 @@
+T1	Date 15 19	2016
+T2	Event 0 19	Tour de France 2016
+T3	Person 22 27	Sagan
+T4	Person 51 57	Froome
+T5	Date 107 111	2016
+T6	Event 92 111	Tour de France 2016
+T7	Date 128 132	2016
+T8	Event 113 132	Tour de France 2016
+T9	Person 135 147	Tom Dumoulin
+T10	Date 208 212	2016
+T11	Event 193 212	Tour de France 2016
+T12	Person 215 223	De Gendt
+T13	Person 247 253	Froome
+T14	Date 323 327	2016
+T15	Event 308 327	Tour de France 2016
+T16	Person 330 335	Sagan
+T17	Person 359 365	Froome
+T18	Date 396 400	2016
+T19	Event 381 400	Tour de France 2016
+T20	Person 403 419	Michael Matthews
+T21	Date 457 461	2016
+T22	Event 442 461	Tour de France 2016
+T23	Person 464 476	Tom Dumoulin
+T24	Location 504 512	Pyrénées
+T25	Date 514 529	13 juillet 2016
+T26	Location 571 582	Carcassonne
+T27	Location 586 597	Montpellier
+T28	Person 696 707	Peter Sagan
+T29	Person 724 742	Christopher Froome
+T30	Person 746 759	Maciej Bodnar
+T31	Person 786 804	Christopher Froome
+T32	Person 826 836	Adam Yates
+T33	Person 840 853	Daniel Martin
+T34	Person 856 867	Peter Sagan
+T35	Person 942 955	Thibaut Pinot
+T36	Person 1096 1108	Adam Yateset
+T37	Person 1165 1178	Arthur Vichot
+T38	Location 1259 1270	Montpellier
+T39	Location 1274 1288	Chalet Reynard

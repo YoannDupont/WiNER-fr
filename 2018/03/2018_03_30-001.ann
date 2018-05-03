@@ -1,0 +1,14 @@
+T1	Location 0 6	France
+T2	Organization 32 36	SNCF
+T3	Date 44 57	lundi 2 avril
+T4	Date 59 71	30 mars 2018
+T5	Organization 97 101	SNCF
+T6	Date 147 160	lundi 2 avril
+T7	Hour 163 173	19 h UTC+2
+T8	Person 176 190	Guillaume Pepy
+T9	Organization 208 212	SNCF
+T10	Location 228 234	France
+T11	Hour 374 384	19 h UTC+2
+T12	Organization 632 636	SNCF
+T13	Person 949 953	Pepy
+T14	Location 1027 1046	autostop-citoyen.fr

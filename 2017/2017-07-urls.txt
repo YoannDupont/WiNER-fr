@@ -1,0 +1,7 @@
+2017_07_11-001	https://fr.wikinews.org/wiki/Savoie_:_un_camion_dévale_une_pente,_un_mort_et_deux_blessés_graves
+2017_07_15-001	https://fr.wikinews.org/wiki/Tour_de_France:_Warren_Barguil_gagne_à_Foix_le_quatorze_juillet
+2017_07_19-001	https://fr.wikinews.org/wiki/France_:_démission_du_chef_des_armées
+2017_07_20-001	https://fr.wikinews.org/wiki/France_:_l'université_ne_suit_pas_le_boom_démographique
+2017_07_21-001	https://fr.wikinews.org/wiki/Musique_:_Décès_de_Chester_Bennington,_de_Linkin_Park
+2017_07_24-001	https://fr.wikinews.org/wiki/Tour_de_France:_Christopher_Froome_pour_la_quatrième_fois_vainqueur
+2017_07_31-001	https://fr.wikinews.org/wiki/Concours_Eurovision_de_la_chanson_2018_:_Lisbonne_sera_la_ville_hôte

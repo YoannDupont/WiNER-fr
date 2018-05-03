@@ -1,0 +1,16 @@
+T1	Location 0 6	France
+T2	Person 9 26	Jean-Marie Le Pen
+T3	Organization 70 72	FN
+T4	Date 74 86	11 mars 2018
+T5	Event 99 129	16 e congrès du Front national
+T6	Organization 115 129	Front national
+T7	Location 164 169	Lille
+T8	Date 276 280	2011
+T9	Person 285 302	Jean-Marie Le Pen
+T10	Location 342 347	Lille
+T11	Person 421 438	Jean-Marie Le Pen
+T12	Date 495 507	octobre 1972
+T13	Date 549 553	2015
+T14	Person 574 587	Marine Le Pen
+T15	Organization 624 626	FN
+T16	Person 735 752	Jean-Marie Le Pen

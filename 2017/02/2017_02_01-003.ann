@@ -1,0 +1,126 @@
+T1	Location 0 6	France
+T2	Person 52 67	François Fillon
+T3	Date 69 85	1er février 2017
+T4	Person 137 152	François Fillon
+T5	Organization 171 183	Républicains
+T6	Organization 185 187	LR
+T7	Organization 251 269	Le Canard enchaîné
+T8	Person 295 310	Penelope Fillon
+T9	Person 324 339	François Fillon
+T10	Person 452 458	Fillon
+T11	Organization 579 588	Médiapart
+T12	Organization 807 813	Canard
+T13	Person 844 850	Fillon
+T14	Person 885 900	Penelope Fillon
+T15	Organization 970 979	le Canard
+T16	Organization 982 991	Médiapart
+T17	Organization 1063 1084	Revue des deux Mondes
+T18	Person 1098 1113	Penelope Fillon
+T19	Person 1335 1341	Fillon
+T20	Person 1344 1359	Penelope Fillon
+T21	Person 1543 1555	Marc Joulaud
+T22	Date 1602 1606	1998
+T23	Date 1607 1611	2007
+T24	Date 1639 1643	1988
+T25	Date 1644 1648	1990
+T26	Organization 1780 1801	Revue des deux Mondes
+T27	Person 1850 1877	Marc Ladreit de Lacharrière
+T28	Person 1890 1905	François Fillon
+T29	Organization 2098 2103	Monde
+T30	Person 2104 2116	Michel Crépu
+T31	Organization 2138 2159	Revue des deux Mondes
+T32	Person 2174 2189	Penelope Fillon
+T33	Person 2281 2308	Marc Ladreit de Lacharrière
+T34	Person 2328 2336	Penelope
+T35	Person 2401 2413	Michel Crépu
+T36	Person 2669 2681	Michel Crépu
+T37	Person 2853 2868	François Fillon
+T38	Organization 3178 3181	TF1
+T39	Person 3191 3197	Fillon
+T40	Date 3273 3277	1981
+T41	Date 3430 3434	1997
+T42	Person 3460 3468	Penelope
+T43	Date 3488 3492	2013
+T44	Organization 3574 3589	Canard enchaîné
+T45	Person 3593 3599	Fillon
+T46	Location 3717 3723	Sarthe
+T47	Date 3732 3736	2005
+T48	Date 3740 3744	2007
+T49	Organization 4407 4425	Le Canard enchaîné
+T50	Person 4444 4450	Fillon
+T51	Organization 4664 4670	Canard
+T52	Organization 4698 4707	Médiapart
+T53	Date 4711 4727	mardi 31 janvier
+T54	Person 4729 4746	Alexia Demirdjian
+T55	Person 4792 4798	Fillon
+T56	Date 4827 4836	mars 2015
+T57	Organization 4851 4881	Fondation Culture et Diversité
+T58	Person 5057 5072	François Fillon
+T59	Person 5124 5139	François Fillon
+T60	Person 5171 5188	Patrick Stefanini
+T61	Person 5216 5222	Fillon
+T62	Person 5305 5320	François Fillon
+T63	Person 5339 5356	Alexia Demirdjian
+T64	Organization 5384 5402	Force républicaine
+T65	Person 5446 5452	Fillon
+T66	Person 5486 5508	Ladreit de Lacharrière
+T67	Person 5512 5518	Alexia
+T68	Organization 5538 5556	Force républicaine
+T69	Person 5689 5716	Marc Ladreit de Lacharrière
+T70	Organization 6072 6077	BFMTV
+T71	Organization 6264 6282	Le Canard enchaîné
+T72	Person 6311 6326	François Fillon
+T73	Location 6360 6368	Matignon
+T74	Date 6372 6380	mai 2012
+T75	Organization 6400 6409	Assemblée
+T76	Organization 6462 6472	2F Conseil
+T77	Date 6531 6535	2012
+T78	Date 6539 6543	2015
+T79	Organization 6582 6591	Médiapart
+T80	Person 6618 6624	Fillon
+T81	Date 6643 6647	2012
+T82	Person 6685 6700	Ricol Lasteyrie
+T83	Organization 6852 6862	Air France
+T84	Organization 6865 6871	Alstom
+T85	Organization 6874 6878	BPCE
+T86	Organization 6881 6886	Engie
+T87	Organization 6929 6939	2F Conseil
+T88	Person 7076 7086	René Ricol
+T89	Person 7150 7165	François Fillon
+T90	Person 7443 7459	Vladimir Poutine
+T91	Person 7470 7483	Yannick Jadot
+T92	Person 7619 7634	François Fillon
+T93	Person 7891 7907	Bruno Retailleau
+T94	Person 7941 7947	Fillon
+T95	Organization 7986 7991	BFMTV
+T96	Location 8148 8154	Russie
+T97	Organization 8217 8221	fisc
+T98	Organization 8329 8338	Médiapart
+T99	Person 8340 8355	François Fillon
+T100	Organization 8562 8565	UMP
+T101	Person 8572 8590	Henri de Raincourt
+T102	Person 8594 8605	René Garrec
+T103	Organization 8847 8852	Sénat
+T104	Person 8855 8870	François Fillon
+T105	Date 8951 8955	2009
+T106	Location 8993 8999	Sarthe
+T107	Date 9010 9014	2005
+T108	Date 9018 9022	2007
+T109	Person 9105 9111	Fillon
+T110	Organization 9221 9230	Médiapart
+T111	Organization 9232 9254	Le Journal du dimanche
+T112	Person 9274 9289	François Fillon
+T113	Person 9414 9429	François Fillon
+T114	Organization 9513 9515	LR
+T115	Person 9516 9527	Éric Ciotti
+T116	Organization 9552 9563	France Info
+T117	Person 9626 9641	François Fillon
+T118	Person 9793 9808	François Fillon
+T119	Person 10603 10618	François Fillon
+T120	Organization 10624 10643	Assemblée nationale
+T121	Person 10677 10692	Christian Jacob
+T122	Organization 10715 10717	LR
+T123	Organization 10722 10731	Assemblée
+T124	Person 10734 10746	Marc Joulaud
+T125	Organization 10754 10756	LR
+T126	Location 10760 10776	Sablé-sur-Sarthe

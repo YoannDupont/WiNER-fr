@@ -1,0 +1,43 @@
+T1	Person 0 15	François Fillon
+T2	Date 70 85	26 janvier 2017
+T3	Location 93 99	France
+T4	Organization 132 150	Le Canard enchaîné
+T5	Person 162 177	François Fillon
+T6	Person 190 205	Penelope Fillon
+T7	Organization 548 566	Le Canard enchaîné
+T8	Person 634 649	Penelope Fillon
+T9	Date 785 789	1998
+T10	Date 792 796	2002
+T11	Location 831 837	Sarthe
+T12	Date 847 851	2002
+T13	Date 854 858	2007
+T14	Person 881 896	François Fillon
+T15	Person 897 909	Marc Joulaud
+T16	Date 973 977	2012
+T17	Organization 1131 1140	Parlement
+T18	Person 1341 1356	Penelope Fillon
+T19	Person 1459 1471	Marc Joulaud
+T20	Person 1549 1564	Penelope Fillon
+T21	Date 1592 1604	octobre 2016
+T22	Organization 1617 1631	Le Bien public
+T23	Location 1859 1864	Paris
+T24	Organization 2103 2124	Revue des deux Mondes
+T25	Person 2159 2186	Marc Ladreit de Lacharrière
+T26	Person 2196 2211	François Fillon
+T27	Person 2265 2280	François Fillon
+T28	Person 2514 2520	Fillon
+T29	Person 2558 2572	Bruno Le Maire
+T30	Person 2576 2594	Jean-François Copé
+T31	Organization 2687 2696	Mediapart
+T32	Date 2700 2704	2013
+T33	Date 2708 2712	2014
+T34	Organization 2954 2957	UMP
+T35	Person 3227 3239	Henri Guaino
+T36	Person 3273 3288	François Fillon
+T37	Date 3311 3315	2012
+T38	Person 3439 3454	François Fillon
+T39	Person 3514 3526	Rachida Dati
+T40	Person 3530 3547	Christian Estrosi
+T41	Date 3817 3827	26 janvier
+T42	Person 3841 3856	François Fillon
+T43	Person 3934 3949	Penelope Fillon

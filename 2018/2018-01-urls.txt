@@ -1,0 +1,11 @@
+2018_01_02-001	https://fr.wikinews.org/wiki/La_tempête_Carmen_est_passée,_plus_que_11_000_foyers_toujours_sans_électricité
+2018_01_07-001	https://fr.wikinews.org/wiki/Musique_:_décès_de_France_Gall
+2018_01_13-001	https://fr.wikinews.org/wiki/France_:_un_militaire_meurt_à_la_suite_d'une_agression
+2018_01_14-001	https://fr.wikinews.org/wiki/Italie_:_un_Somalien_se_déguise_en_infirmier_et_tente_de_violer_une_femme
+2018_01_16-001	https://fr.wikinews.org/wiki/Nécrologie_:_décès_de_Dolores_O'Riordan,_chanteuse_du_groupe_irlandais_The_Cranberries
+2018_01_18-001	https://fr.wikinews.org/wiki/La_Tapisserie_de_Bayeux_va_être_prêtée_au_Royaume-Uni
+2018_01_20-001	https://fr.wikinews.org/wiki/Nécrologie_:_décès_du_chef_cuisinier_lyonnais_Paul_Bocuse
+2018_01_23-001	https://fr.wikinews.org/wiki/Séisme_de_magnitude_7,9_dans_le_Golfe_de_l'Alaska
+2018_01_24-001	https://fr.wikinews.org/wiki/Une_grande_partie_de_la_France_est_menacée_par_les_crues
+2018_01_27-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_championnats_des_Quatre_Continents_2018
+2018_01_28-001	https://fr.wikinews.org/wiki/Paris_:_le_niveau_de_la_Seine_continue_à_monter

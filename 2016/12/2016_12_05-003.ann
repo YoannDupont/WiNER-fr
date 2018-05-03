@@ -1,0 +1,37 @@
+T1	Location 0 6	Québec
+T2	Person 9 23	Valérie Plante
+T3	Organization 41 56	Projet Montréal
+T4	Location 48 56	Montréal
+T5	Date 58 73	5 décembre 2016
+T6	Person 78 92	Valérie Plante
+T7	Date 107 131	dimanche 4 décembre 2016
+T8	Organization 151 166	Projet Montréal
+T9	Location 158 166	Montréal
+T10	Location 207 215	Montréal
+T11	Organization 244 259	Projet Montréal
+T12	Location 251 259	Montréal
+T13	Location 275 283	Montréal
+T14	Person 315 328	Denis Coderre
+T15	Date 362 377	5 novembre 2017
+T16	Organization 427 442	Projet Montréal
+T17	Location 434 442	Montréal
+T18	Person 464 480	Guillaume Lavoie
+T19	Person 503 519	François Limoges
+T20	Organization 613 641	Conseil de Ville de Montréal
+T21	Location 633 641	Montréal
+T22	Person 648 654	Plante
+T23	Organization 684 699	Projet Montréal
+T24	Location 691 699	Montréal
+T25	Organization 768 807	Conseil d'arrondissement de Ville-Marie
+T26	Location 796 807	Ville-Marie
+T27	Location 854 862	Montréal
+T28	Person 891 898	Coderre
+T29	Date 934 938	2013
+T30	Person 1021 1033	Louise Harel
+T31	Location 1078 1089	Ville-Marie
+T32	Location 1107 1119	Sainte-Marie
+T33	Person 1139 1153	Valérie Plante
+T34	Location 1417 1425	Montréal
+T35	Location 1616 1623	Calgary
+T36	Date 1681 1685	2016
+T37	Person 1727 1734	Coderre

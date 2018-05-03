@@ -1,0 +1,30 @@
+T1	Person 22 35	Claude Guéant
+T2	Date 61 76	24 janvier 2017
+T3	Person 81 94	Claude Guéant
+T4	Person 128 143	Nicolas Sarkozy
+T5	Organization 168 177	Intérieur
+T6	Person 205 212	Sarkozy
+T7	Organization 243 264	cour d’appel de Paris
+T8	Date 270 286	lundi 23 janvier
+T9	Person 411 418	Sarkozy
+T10	Organization 460 469	Intérieur
+T11	Organization 507 514	Parquet
+T12	Organization 554 576	tribunal correctionnel
+T13	Date 595 608	novembre 2015
+T14	Date 764 768	2002
+T15	Date 772 776	2004
+T16	Person 877 883	Guéant
+T17	Person 1100 1113	Lionel Jospin
+T18	Date 1499 1503	2009
+T19	Person 1523 1530	Sarkozy
+T20	Person 1741 1754	Michel Gaudin
+T21	Person 1759 1772	Claude Guéant
+T22	Person 1805 1811	Guéant
+T23	Person 1936 1948	Michel Camux
+T24	Person 1951 1964	Daniel Canepa
+T25	Person 1968 1984	Gérard Moisselin
+T26	Person 2044 2057	Michel Gaudin
+T27	Person 2115 2121	Camux,
+T28	Person 2122 2128	Canepa
+T29	Person 2132 2141	Moisselin
+T30	Organization 2215 2219	État

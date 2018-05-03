@@ -1,0 +1,23 @@
+T1	Event 0 22	Jeux olympiques de Rio
+T2	Location 19 22	Rio
+T3	Person 25 38	Braz da Silva
+T4	Person 66 76	Lavillenie
+T5	Date 82 94	17 août 2016
+T6	Person 122 142	Thiago Braz da Silva
+T7	Person 257 274	Renaud Lavillenie
+T8	Location 388 391	Rio
+T9	Location 513 520	Londres
+T10	Person 597 617	Thiago Braz da Silva
+T11	Person 683 693	Lavillenie
+T12	Person 805 815	Lavillenie
+T13	Event 873 887	Jeux de Berlin
+T14	Location 881 887	Berlin
+T15	Date 891 895	1936
+T16	Organization 1172 1175	CIO
+T17	Person 1177 1188	Thomas Bach
+T18	Person 1211 1231	Thiago Braz da Silva
+T19	Person 1247 1260	Serguei Bubka
+T20	Organization 1328 1335	Twitter
+T21	Person 1337 1348	Thomas Bach
+T22	Person 1417 1434	Renaud Lavillenie
+T23	Event 1467 1482	jeux Olympiques

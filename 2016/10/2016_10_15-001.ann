@@ -1,0 +1,61 @@
+T1	Organization 20 26	I-Télé
+T2	Person 102 111	Morandini
+T3	Date 113 128	15 octobre 2016
+T4	Organization 202 208	I-Télé
+T5	Organization 366 385	aéroport d'Istanbul
+T6	Location 377 385	Istanbul
+T7	Person 589 608	Jean-Marc Morandini
+T8	Organization 759 765	I-Télé
+T9	Date 779 791	29 septembre
+T10	Person 873 892	Jean-Marc Morandini
+T11	Organization 897 903	I-Télé
+T12	Person 956 975	Jean-Marc Morandini
+T13	Organization 1034 1042	Télérama
+T14	Date 1458 1467	7 octobre
+T15	Person 1482 1501	Jean-Marc Morandini
+T16	Date 1521 1531	19 octobre
+T17	Hour 1592 1596	18 h
+T18	Hour 1597 1601	19 h
+T19	Person 1630 1644	Morandini Live
+T20	Organization 1650 1674	Société des journalistes
+T21	Organization 1676 1679	SDJ
+T22	Organization 1683 1689	I-Télé
+T23	Person 1771 1790	Jean-Marc Morandini
+T24	Organization 1810 1816	I-Télé
+T25	Date 1829 1839	19 octobre
+T26	Organization 1914 1917	SDJ
+T27	Organization 1920 1926	I-Télé
+T28	Date 1931 1941	11 octobre
+T29	Date 2036 2046	13 octobre
+T30	Organization 2050 2053	SDJ
+T31	Organization 2056 2062	I-Télé
+T32	Organization 2093 2101	Le Monde
+T33	Organization 2177 2183	I-Télé
+T34	Person 2232 2251	Jean-Marc Morandini
+T35	Person 2398 2415	Olivier Ravanello
+T36	Person 2419 2433	Antoine Genton
+T37	Organization 2448 2472	Société des Journalistes
+T38	Organization 2476 2482	I-télé
+T39	Organization 2483 2489	Canal+
+T40	Date 2499 2509	13 octobre
+T41	Organization 2526 2532	I-Télé
+T42	Person 2558 2577	Jean-Marc Morandini
+T43	Date 2593 2603	17 octobre
+T44	Organization 2656 2659	SDJ
+T45	Organization 2684 2691	Canal +
+T46	Organization 2764 2767	SDJ
+T47	Organization 2770 2776	I-Télé
+T48	Organization 2873 2879	I-Télé
+T49	Organization 2886 2898	Groupe Canal
+T50	Person 3050 3069	Jean-Marc Morandini
+T51	Organization 3124 3132	Le Monde
+T52	Date 3136 3146	13 octobre
+T53	Organization 3208 3214	I-Télé
+T54	Person 3540 3559	Jean-Marc Morandini
+T55	Date 3590 3600	14 octobre
+T56	Person 3632 3654	Jean-Christophe Thiery
+T57	Organization 3686 3692	Canal+
+T58	Date 3829 3848	vendredi 21 octobre
+T59	Person 3853 3875	Jean-Christophe Thiery
+T60	Organization 3904 3910	Canal+
+T61	Organization 4106 4120	Groupe Canal +

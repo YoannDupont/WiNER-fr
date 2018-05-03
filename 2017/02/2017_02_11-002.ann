@@ -1,0 +1,50 @@
+T1	Location 0 17	Seine-Saint-Denis
+T2	Date 91 106	11 février 2017
+T3	Person 129 133	Théo
+T4	Date 135 149	2 février 2017
+T5	Date 156 172	samedi 4 février
+T6	Location 308 324	Clichy-sous-Bois
+T7	Location 328 339	Montfermeil
+T8	Date 384 399	mardi 7 février
+T9	Date 425 443	mercredi 8 février
+T10	Date 456 472	lundi 13 février
+T11	Location 500 514	gare du Raincy
+T12	Location 517 528	Villemomble
+T13	Location 531 542	Montfermeil
+T14	Location 545 556	Montfermeil
+T15	Location 614 630	Aulnay-sous-Bois
+T16	Location 675 687	La Courneuve
+T17	Location 691 706	Le Blanc-Mesnil
+T18	Hour 739 748	20 heures
+T19	Date 771 790	vendredi 10 février
+T20	Organization 812 816	RATP
+T21	Hour 901 906	22h00
+T22	Location 977 990	Île-de-France
+T23	Date 1024 1041	samedi 11 février
+T24	Person 1132 1136	Théo
+T25	Location 1139 1146	Bobigny
+T26	Location 1173 1186	Île-de-France
+T27	Location 1201 1211	Courtilles
+T28	Location 1251 1260	Normandie
+T29	Location 1261 1267	Niémen
+T30	Location 1270 1276	Drancy
+T31	Location 1318 1338	gare de Noisy-le-Sec
+T32	Location 1326 1338	Noisy-le-Sec
+T33	Hour 1351 1354	21h
+T34	Location 1381 1394	Île-de-France
+T35	Hour 1446 1449	23h
+T36	Location 1547 1564	Seine-Saint-Denis
+T37	Location 1566 1568	93
+T38	Location 1613 1618	Paris
+T39	Location 1632 1639	Bobigny
+T40	Hour 1769 1774	20h27
+T41	Location 1822 1829	Bobigny
+T42	Person 1830 1843	Pablo-Picasso
+T43	Location 1847 1854	Bobigny
+T44	Location 1855 1861	Pantin
+T45	Person 1863 1878	Raymond Queneau
+T46	Location 1919 1926	Bobigny
+T47	Person 1927 1940	Pablo-Picasso
+T48	Hour 1950 1955	18h03
+T49	Location 1977 1984	Bobigny
+T50	Person 1985 1998	Pablo-Picasso

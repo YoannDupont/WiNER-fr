@@ -1,0 +1,37 @@
+T1	Location 0 6	France
+T2	Person 26 40	Pascal Troadec
+T3	Date 69 80	8 mars 2017
+T4	Location 193 200	Orvault
+T5	Location 211 217	Nantes
+T6	Location 223 239	Loire-Atlantique
+T7	Location 242 248	France
+T8	Date 266 276	23 février
+T9	Person 322 338	Hubert Caouissin
+T10	Location 373 378	Brest
+T11	Date 426 438	lundi 6 mars
+T12	Person 496 502	Pascal
+T13	Organization 529 542	Arlux-Visotec
+T14	Person 548 556	Brigitte
+T15	Person 597 606	Sébastien
+T16	Location 610 619	Charlotte
+T17	Date 677 679	16
+T18	Date 683 701	17 février dernier
+T19	Person 743 756	Lydie Troadec
+T20	Person 777 791	Pascal Troadec
+T21	Person 929 942	Pierre Sennès
+T22	Person 1106 1120	Pascal Troadec
+T23	Organization 1339 1347	Parisien
+T24	Person 1351 1367	Hubert Caouissin
+T25	Organization 1646 1649	RTL
+T26	Organization 1773 1776	LCI
+T27	Person 1947 1960	Lydie Troadec
+T28	Person 2036 2052	Hubert Caouissin
+T29	Person 2299 2313	Pascal Troadec
+T30	Organization 2330 2341	Le Parisien
+T31	Location 2381 2386	Brest
+T32	Location 2403 2414	Recouvrance
+T33	Person 2710 2726	Brigitte Troadec
+T34	Organization 2742 2751	L'Express
+T35	Location 3131 3144	Saint-Nazaire
+T36	Person 3206 3219	Lydie Troadec
+T37	Location 3533 3542	Finistère

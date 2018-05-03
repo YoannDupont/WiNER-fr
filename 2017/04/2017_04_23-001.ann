@@ -1,0 +1,19 @@
+T1	Event 0 41	Élection présidentielle française de 2017
+T2	Date 37 41	2017
+T3	Person 44 50	Macron
+T4	Person 54 60	Le Pen
+T5	Date 86 99	23 avril 2017
+T6	Person 104 119	Emmanuel Macron
+T7	Organization 122 133	En marche !
+T8	Event 189 222	élection présidentielle française
+T9	Person 331 344	Marine Le Pen
+T10	Organization 347 349	FN
+T11	Person 389 404	François Fillon
+T12	Organization 407 423	Les Républicains
+T13	Person 504 516	Benoît Hamon
+T14	Organization 519 521	PS
+T15	Person 647 665	Jean-Luc Mélenchon
+T16	Organization 668 687	La France insoumise
+T17	Person 759 765	Fillon
+T18	Person 916 931	Emmanuel Macron
+T19	Person 941 954	Marine Le Pen

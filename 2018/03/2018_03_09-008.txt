@@ -1,0 +1,14 @@
+Mars : Curiosity reprend les forages
+
+9 mars 2018 . –
+Arrivé sur Mars le 6 août 2012, le rover Curiosity a déjà foré à quinze reprises la surface martienne pour prélever différents échantillons. Ces échantillons, analysés par les laboratoires embarqués, ont permis notamment de découvrir la présence d'eau sur Mars datée de 2 à 3 milliards d'années. Depuis fin 2016, une panne d'un des moteurs permettant au foret d'être stabilisé correctement a entraîné l'interruption des prélèvements, la NASA préférant poursuivre l'exploration de la surface plutôt que de risquer l'immobilisation du robot.
+
+Lire aussi : Mars : Curiosity trouve des traces d'un ancien lac d'eau douce
+
+Alors que Curiosity continuait d'explorer Mars à une vitesse de 4 cm par seconde, les ingénieurs de la NASA ont tenté de mettre en place une méthode de forage alternative. La présence, dans leurs laboratoires, d'un rover jumeau de Curiosity leur a permis de réaliser plusieurs tentatives sans risquer d'endommager l'original. Ils ont ainsi pu déterminer un procédé qui permet d'actionner à nouveau la foreuse, mais cette fois sans stabilisateurs. Un bricolage couronné de succès : l'astromobile témoin a pu de nouveau creuser.
+
+Le 26 février 2018, l'opération sur l'original s'est révélée concluante : Curiosity a réussi à creuser un petit trou d'un centimètre de profondeur, dans une zone dénommée Orcadie Lake. Un forage d'une profondeur toutefois insuffisante pour prélever des échantillons, mais qui redonne espoir aux scientifiques.
+
+Il reste cependant un dernier problème avant de pouvoir reprendre les véritables opérations de recherches : suite à la panne de la foreuse, le mécanisme qui tamise les débris et distribue la poudre de roche aux instruments du robot n'est plus utilisable. Impossible donc de récupérer les échantillons. Les ingénieurs ont par conséquent mis au point une nouvelle technique : secouer la mèche de la foreuse au-dessus des instruments jusqu'à ce que suffisamment de poussière y soit collectée. Si la méthode fonctionne sur Terre, les résultats sur Mars sont plus hypothétiques, la gravité et la pression atmosphérique y étant bien plus faibles.
+
+Dans les prochains jours, Curiosity recommencera à creuser plusieurs trous en essayant de descendre plus profondément. Les ingénieurs testeront ensuite la récupération des échantillons. Si les tests s'avèrent probants, la foreuse pourra reprendre du service et compléter les résultats de ChemCam, un laser permettant de déterminer la composition des roches.

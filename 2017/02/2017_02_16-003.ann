@@ -1,0 +1,103 @@
+T1	Location 0 6	France
+T2	Location 49 56	Hérault
+T3	Date 58 73	16 février 2017
+T4	Date 121 140	vendredi 10 février
+T5	Location 159 170	Montpellier
+T6	Location 181 188	Hérault
+T7	Location 191 197	France
+T8	Organization 351 360	Intérieur
+T9	Person 363 376	Bruno Le Roux
+T10	Location 557 568	Montpellier
+T11	Location 570 578	Clapiers
+T12	Location 582 592	Marseillan
+T13	Location 801 806	Paris
+T14	Person 836 849	Thomas Sauret
+T15	Person 862 875	Malik Hammami
+T16	Person 961 966	Sarah
+T17	Person 980 993	Thomas Sauret
+T18	Location 1070 1078	Clapiers
+T19	Organization 1194 1205	Le Parisien
+T20	Organization 1264 1268	SDAT
+T21	Location 1271 1287	Levallois-Perret
+T22	Location 1299 1313	Hauts-de-Seine
+T23	Location 1350 1355	Paris
+T24	Person 1566 1579	Thomas Sauret
+T25	Organization 1763 1783	Agence France-Presse
+T26	Organization 2321 2329	Telegram
+T27	Person 2393 2406	Rachid Kassim
+T28	Location 2470 2476	France
+T29	Location 2501 2505	Irak
+T30	Organization 2572 2586	État islamique
+T31	Organization 2588 2590	EI
+T32	Date 2597 2606	9 février
+T33	Date 2736 2745	2 février
+T34	Date 2767 2776	8 février
+T35	Organization 2906 2908	EI
+T36	Organization 3040 3044	DGSI
+T37	Date 3061 3065	2015
+T38	Location 3108 3112	Irak
+T39	Location 3116 3121	Syrie
+T40	Person 3277 3290	Bruno Le Roux
+T41	Product 3452 3463	Tour Eiffel
+T42	Person 3457 3463	Eiffel
+T43	Person 3600 3613	Thomas Sauret
+T44	Date 3621 3625	1996
+T45	Location 3642 3650	Ardennes
+T46	Location 3769 3773	Gard
+T47	Date 3851 3864	décembre 2015
+T48	Date 3867 3880	décembre 2016
+T49	Date 3932 3945	novembre 2015
+T50	Location 3980 3984	Irak
+T51	Location 3988 3993	Syrie
+T52	Location 4064 4068	Orly
+T53	Person 4117 4125	Rodrigue
+T54	Person 4134 4147	Thomas Sauret
+T55	Organization 4182 4185	AFP
+T56	Location 4550 4558	Clapiers
+T57	Person 4588 4596	Mohammed
+T58	Person 4883 4896	Thomas Sauret
+T59	Location 4932 4938	France
+T60	Location 4955 4960	Paris
+T61	Person 4965 4970	Sarah
+T62	Location 4991 4995	Irak
+T63	Location 4999 5004	Syrie
+T64	Person 5091 5096	Malik
+T65	Location 5157 5163	France
+T66	Person 5166 5179	Malik Hammami
+T67	Location 5444 5449	Syrie
+T68	Person 5631 5644	Malik Hammami
+T69	Date 5920 5924	2015
+T70	Person 6117 6137	Thomas de la Morlais
+T71	Person 6180 6185	Sarah
+T72	Person 6367 6373	Thomas
+T73	Location 6385 6396	Montpellier
+T74	Organization 6557 6560	AFP
+T75	Location 6580 6588	Clapiers
+T76	Person 7231 7244	de la Morlais
+T77	Organization 7268 7298	Centre d'analyse du terrorisme
+T78	Person 7301 7321	Jean-Charles Brisard
+T79	Organization 7481 7495	État Islamique
+T80	Organization 7741 7755	État Islamique
+T81	Location 7799 7806	Brisard
+T82	Date 7840 7852	janvier 2015
+T83	Person 7873 7888	Amedy Coulibaly
+T84	Person 7890 7907	Hayat Boumedienne
+T85	Location 7936 7943	Turquie
+T86	Date 8224 8228	2016
+T87	Location 8299 8303	Irak
+T88	Location 8310 8315	Syrie
+T89	Organization 8442 8456	État Islamique
+T90	Organization 8470 8475	Union
+T91	Location 8586 8606	Charleville-Mézières
+T92	Location 8621 8636	Hautes-Rivières
+T93	Location 8706 8726	Charleville-Mézières
+T94	Organization 9038 9051	SRPJ de Reims
+T95	Person 9074 9091	Laurent de Caigny
+T96	Location 9107 9127	Charleville-Mézières
+T97	Person 9359 9376	Bernard Cazeneuve
+T98	Location 9402 9408	Creuse
+T99	Date 9751 9755	2016
+T100	Location 10049 10055	France
+T101	Organization 10265 10270	Union
+T102	Location 10543 10549	France
+T103	Location 10578 10587	Allemagne

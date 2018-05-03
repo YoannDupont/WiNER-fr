@@ -1,0 +1,35 @@
+T1	Event 0 19	Primaire socialiste
+T2	Person 22 27	Hamon
+T3	Person 31 36	Valls
+T4	Person 48 58	Montebourg
+T5	Date 68 83	22 janvier 2017
+T6	Organization 133 173	Haute autorité de la primaire socialiste
+T7	Event 154 173	primaire socialiste
+T8	Location 177 183	France
+T9	Event 197 220	élection présidentielle
+T10	Person 250 262	Benoît Hamon
+T11	Person 281 293	Manuel Valls
+T12	Date 349 368	29 janvier prochain
+T13	Person 457 474	François Hollande
+T14	Person 475 492	Arnaud Montebourg
+T15	Person 496 511	Vincent Peillon
+T16	Person 648 665	François Hollande
+T17	Person 666 678	Manuel Valls
+T18	Date 705 723	6 décembre dernier
+T19	Organization 900 916	Parti socialiste
+T20	Person 1166 1178	Benoît Hamon
+T21	Person 1209 1226	François Hollande
+T22	Date 1263 1267	2014
+T23	Organization 1388 1394	gauche
+T24	Person 1469 1495	Nathalie Kosciusko-Morizet
+T25	Person 1499 1520	Jean-Frédéric Poisson
+T26	Person 1560 1579	Jean-Luc Bennahmias
+T27	Person 1583 1600	Arnaud Montebourg
+T28	Event 1750 1766	primaire de 2011
+T29	Date 1762 1766	2011
+T30	Location 1864 1870	France
+T31	Location 1984 1990	France
+T32	Person 2066 2078	Benoît Hamon
+T33	Organization 2122 2128	gauche
+T34	Event 2235 2251	primaire de 2011
+T35	Date 2247 2251	2011

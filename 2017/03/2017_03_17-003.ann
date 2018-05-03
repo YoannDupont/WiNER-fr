@@ -1,0 +1,27 @@
+T1	Location 0 6	France
+T2	Location 25 31	Grasse
+T3	Date 56 68	17 mars 2017
+T4	Person 115 136	Alexis de Tocqueville
+T5	Organization 115 136	Alexis de Tocqueville
+T6	Location 139 145	Grasse
+T7	Location 148 163	Alpes-Maritimes
+T8	Location 166 172	France
+T9	Location 594 598	Nice
+T10	Organization 602 606	Raid
+T11	Location 900 906	Grasse
+T12	Hour 1165 1172	12 h 30
+T13	Organization 2486 2489	FMI
+T14	Location 2494 2499	Paris
+T15	Person 2542 2559	Bernard Cazeneuve
+T16	Location 2589 2594	Somme
+T17	Person 2598 2615	François Hollande
+T18	Location 2659 2666	Corrèze
+T19	Organization 2778 2797	Éducation nationale
+T20	Person 2800 2822	Najat Vallaud-Belkacem
+T21	Location 2871 2897	Provence-Alpes-Côte d'Azur
+T22	Person 2900 2917	Christian Estrosi
+T23	Person 2947 2963	Vallaud-Belkacem
+T24	Person 3590 3601	Éric Ciotti
+T25	Organization 3611 3613	LR
+T26	Location 3618 3633	Alpes-Maritimes
+T27	Organization 3664 3673	Éducation

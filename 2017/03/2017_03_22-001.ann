@@ -1,0 +1,32 @@
+T1	Location 0 6	France
+T2	Person 47 60	Bruno Le Roux
+T3	Date 62 74	22 mars 2017
+T4	Person 79 92	Bruno Le Roux
+T5	Organization 118 136	Intérieur français
+T6	Organization 329 332	TMC
+T7	Organization 335 344	Quotidien
+T8	Organization 351 360	Quotidien
+T9	Organization 410 419	Intérieur
+T10	Date 456 460	2009
+T11	Date 464 468	2016
+T12	Person 551 557	Fillon
+T13	Person 1098 1115	Bernard Cazeneuve
+T14	Person 1151 1164	Bruno Le Roux
+T15	Organization 1434 1453	Assemblée nationale
+T16	Location 1540 1557	Seine-Saint-Denis
+T17	Date 1596 1600	2009
+T18	Date 1604 1608	2016
+T19	Organization 1901 1910	Assemblée
+T20	Person 2097 2103	Fillon
+T21	Person 2336 2349	Bruno Le Roux
+T22	Person 2578 2589	Yves Rocher
+T23	Organization 2578 2589	Yves Rocher
+T24	Location 2607 2615	Belgique
+T25	Location 2675 2680	Paris
+T26	Organization 2690 2699	Quotidien
+T27	Person 2741 2754	Bruno Le Roux
+T28	Organization 2787 2806	Assemblée nationale
+T29	Person 3134 3141	Le Roux
+T30	Organization 3268 3287	Assemblée nationale
+T31	Person 3679 3692	Bruno Le Roux
+T32	Person 3758 3771	Matthias Fekl
