@@ -12,7 +12,9 @@ The current named entity tagset is:
 - Person (human individuals, without their title or function. They can be actual people or fictional characters.)
 - Product (physical objects, brands, softwares.)
 
-The aim of this tagset is to be covering yet as simple as possible. There are lots of disagreements as soon as semantics are involved. Our stance is that semantics should belong as much as possible to the disambiguation phase.
+The tagset was defined using various campaigns or resources: [MUC-6](http://www.aclweb.org/anthology/C96-1079), [CoNLL-2003](https://arxiv.org/pdf/cs/0306050.pdf), [Named Entity annotated French Treebank](https://hal.inria.fr/file/index/docid/703108/filename/taln12ftbne.pdf) and [Quaero](http://www.quaero.org/media/files/bibliographie/quaero-guide-annotation-2011.pdf) . Every type defined in this tagset is directly taken from one of those.
+
+The aim of this tagset is to be covering yet as simple as possible.
 
 # Nesting of named entities
 
@@ -58,3 +60,48 @@ Annotations are licensed under [Creative Commons Attribution 4.0](https://creati
 
 - [Wikinews](https://en.wikinews.org/wiki/Main_Page)
 - [french Wikinews](https://fr.wikinews.org/wiki/Accueil)
+
+# References of other projects
+
+- MUC-6
+```latex
+@inproceedings{grishman1996message,
+  title={Message understanding conference-6: A brief history},
+  author={Grishman, Ralph and Sundheim, Beth},
+  booktitle={COLING 1996 Volume 1: The 16th International Conference on Computational Linguistics},
+  volume={1},
+  year={1996}
+}
+```
+- CoNLL 2003
+```latex
+@inproceedings{tjong2003introduction,
+  title={Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition},
+  author={Tjong Kim Sang, Erik F and De Meulder, Fien},
+  booktitle={Proceedings of the seventh conference on Natural language learning at HLT-NAACL 2003-Volume 4},
+  pages={142--147},
+  year={2003},
+  organization={Association for Computational Linguistics}
+}
+```
+- Named Entity annotated French Treebank
+```latex
+@inproceedings{sagot2012annotation,
+  title={Annotation r{\'e}f{\'e}rentielle du Corpus Arbor{\'e} de Paris 7 en entit{\'e}s nomm{\'e}es},
+  author={Sagot, Beno{\^\i}t and Richard, Marion and Stern, Rosa},
+  booktitle={Traitement Automatique des Langues Naturelles (TALN)},
+  volume={2},
+  year={2012}
+}
+```
+- Quaero
+```latex
+@inproceedings{grouin2011proposal,
+  title={Proposal for an extension of traditional named entities: From guidelines to evaluation, an overview},
+  author={Grouin, Cyril and Rosset, Sophie and Zweigenbaum, Pierre and Fort, Kar{\"e}n and Galibert, Olivier and Quintard, Ludovic},
+  booktitle={Proceedings of the 5th Linguistic Annotation Workshop},
+  pages={92--100},
+  year={2011},
+  organization={Association for Computational Linguistics}
+}
+```
