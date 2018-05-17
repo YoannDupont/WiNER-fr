@@ -1,7 +1,7 @@
-T1	Event 0 43	Championnat de France de handball 2016-2017
-T2	Location 15 21	France
-T3	Date 34 38	2016
-T4	Date 39 43	2017
+T1	Location 15 21	France
+T2	Date 34 38	2016
+T3	Date 39 43	2017
+T4	Event 0 43	Championnat de France de handball 2016-2017
 T5	Date 83 98	30 octobre 2016
 T6	Location 175 180	Saran
 T7	Location 189 198	Dunkerque
@@ -12,5 +12,7 @@ T11	Location 568 574	Nantes
 T12	Location 676 689	Saint-Raphaël
 T13	Location 693 704	Montpellier
 T14	Location 761 766	Nîmes
-T15	Location 849 862	Cesson-Rennes
-T16	Location 927 935	Sélestat
+T15	Organization 849 862	Cesson-Rennes
+T16	Location 849 855	Cesson
+T17	Location 856 862	Rennes
+T18	Location 927 935	Sélestat

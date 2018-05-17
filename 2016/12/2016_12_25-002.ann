@@ -6,10 +6,9 @@ T5	Hour 153 159	3 h 40
 T6	Location 210 216	Sotchi
 T7	Location 244 249	Syrie
 T8	Product 256 270	Tupolev Tu-154
-T9	Event 256 263	Tupolev
-T10	Organization 256 263	Tupolev
+T9	Organization 256 263	Tupolev
+T10	Organization 348 359	Armée rouge
 T11	Organization 336 359	chœurs de l'Armée rouge
-T12	Organization 348 359	Armée rouge
-T13	Product 432 439	Tupolev
-T14	Organization 432 439	Tupolev
-T15	Organization 552 563	RIA Novosti
+T12	Product 432 439	Tupolev
+T13	Organization 432 439	Tupolev
+T14	Organization 552 563	RIA Novosti

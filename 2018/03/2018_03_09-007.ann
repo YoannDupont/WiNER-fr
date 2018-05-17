@@ -12,12 +12,10 @@ T11	Organization 529 534	Valve
 T12	Organization 615 623	PC Gamer
 T13	Person 627 638	Gabe Newell
 T14	Organization 803 808	Valve
-T15	Location 803 808	Valve
-T16	Product 854 859	Steam
-T17	Product 952 960	Steam VR
-T18	Organization 963 968	Valve
-T19	Organization 1299 1307	Nintendo
-T20	Product 1388 1396	Artifact
-T21	Organization 1490 1495	Valve
-T22	Organization 1778 1783	Valve
-T23	Location 1778 1783	Valve
+T15	Product 854 859	Steam
+T16	Product 952 960	Steam VR
+T17	Organization 963 968	Valve
+T18	Organization 1299 1307	Nintendo
+T19	Product 1388 1396	Artifact
+T20	Organization 1490 1495	Valve
+T21	Organization 1778 1783	Valve

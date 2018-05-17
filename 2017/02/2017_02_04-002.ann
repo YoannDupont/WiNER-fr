@@ -1,12 +1,12 @@
 T1	Location 0 6	France
-T2	Product 36 42	Louvre
+T2	Location 36 42	Louvre
 T3	Date 44 58	4 février 2017
-T4	Product 173 192	Carrousel du Louvre
-T5	Product 186 192	Louvre
+T4	Location 186 192	Louvre
+T5	Product 173 192	Carrousel du Louvre
 T6	Location 197 202	Paris
 T7	Location 205 211	France
-T8	Product 622 641	Carrousel du Louvre
-T9	Product 635 641	Louvre
+T8	Location 635 641	Louvre
+T9	Product 622 641	Carrousel du Louvre
 T10	Hour 658 664	9 h 50
 T11	Person 945 960	François Molins
 T12	Location 1507 1526	Émirats-Arabes-Unis
@@ -19,5 +19,5 @@ T18	Product 1990 1994	iPad
 T19	Location 2145 2160	Arabie saoudite
 T20	Location 2183 2190	Turquie
 T21	Location 2272 2279	Émirats
-T22	Product 2559 2565	Louvre
+T22	Location 2559 2565	Louvre
 T23	Location 2622 2626	Nice

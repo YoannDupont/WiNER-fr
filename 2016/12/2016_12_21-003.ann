@@ -23,8 +23,8 @@ T22	Date 1320 1331	12 décembre
 T23	Organization 1337 1340	FDS
 T24	Organization 1371 1376	Daech
 T25	Location 1483 1488	Raqqa
-T26	Organization 1502 1510	Euphrate
-T27	Organization 1622 1630	Euphrate
+T26	Location 1502 1510	Euphrate
+T27	Location 1622 1630	Euphrate
 T28	Date 1690 1701	20 décembre
 T29	Organization 1707 1710	FDS
 T30	Location 1816 1829	Qal'at Ja'bar

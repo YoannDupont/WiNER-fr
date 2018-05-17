@@ -33,17 +33,18 @@ T32	Location 1442 1452	États-Unis
 T33	Location 1458 1464	Canada
 T34	Location 1470 1479	Australie
 T35	Location 1483 1492	l' Europe
-T36	Person 1555 1564	Abu Dhabi
-T37	Location 1567 1571	Doha
-T38	Location 1575 1583	Istanbul
-T39	Location 1589 1593	Iran
-T40	Location 1627 1637	États-Unis
-T41	Product 1656 1666	Boeing 737
-T42	Organization 1656 1662	Boeing
-T43	Product 1670 1673	777
-T44	Person 1782 1795	Hassan Rohani
-T45	Location 1811 1815	Iran
-T46	Person 2076 2090	Abbas Akhoundi
-T47	Location 2139 2146	Téhéran
-T48	Location 2150 2157	Machhad
-T49	Location 2256 2261	Chine
+T36	Location 1547 1552	Dubaï
+T37	Location 1555 1564	Abu Dhabi
+T38	Location 1567 1571	Doha
+T39	Location 1575 1583	Istanbul
+T40	Location 1589 1593	Iran
+T41	Location 1627 1637	États-Unis
+T42	Product 1656 1666	Boeing 737
+T43	Organization 1656 1662	Boeing
+T44	Product 1670 1673	777
+T45	Person 1782 1795	Hassan Rohani
+T46	Location 1811 1815	Iran
+T47	Person 2076 2090	Abbas Akhoundi
+T48	Location 2139 2146	Téhéran
+T49	Location 2150 2157	Machhad
+T50	Location 2256 2261	Chine

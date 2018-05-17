@@ -4,17 +4,16 @@ T3	Date 71 84	19 avril 2017
 T4	Organization 109 117	Monsanto
 T5	Organization 434 465	Tribunal international Monsanto
 T6	Organization 901 909	Tribunal
-T7	Location 1122 1130	Monsanto
-T8	Organization 1122 1130	Monsanto
+T7	Organization 1122 1130	Monsanto
+T8	Location 1188 1195	La Haye
 T9	Organization 1158 1195	Cour pénale internationale de La Haye
-T10	Location 1188 1195	La Haye
-T11	Product 1598 1610	agent orange
-T12	Organization 1677 1684	Vietnam
-T13	Organization 1765 1773	Tribunal
-T14	Organization 1785 1793	Monsanto
-T15	Organization 2403 2410	Vietnam
-T16	Organization 2413 2421	Monsanto
-T17	Organization 2486 2494	Tribunal
-T18	Organization 2670 2678	Monsanto
-T19	Organization 2775 2783	Tribunal
-T20	Organization 2944 2952	Monsanto
+T10	Product 1598 1610	agent orange
+T11	Location 1677 1684	Vietnam
+T12	Organization 1765 1773	Tribunal
+T13	Organization 1785 1793	Monsanto
+T14	Location 2403 2410	Vietnam
+T15	Organization 2413 2421	Monsanto
+T16	Organization 2486 2494	Tribunal
+T17	Organization 2670 2678	Monsanto
+T18	Organization 2775 2783	Tribunal
+T19	Organization 2944 2952	Monsanto

@@ -1,11 +1,11 @@
 T1	Organization 14 17	ITU
-T2	Event 43 51	WTS 2017
-T3	Date 47 51	2017
+T2	Date 47 51	2017
+T3	Event 43 51	WTS 2017
 T4	Date 53 69	8 septembre 2016
 T5	Organization 77 115	Fédération internationale de triathlon
 T6	Organization 117 120	ITU
-T7	Event 153 187	séries mondiales de triathlon 2017
-T8	Date 183 187	2017
+T7	Date 183 187	2017
+T8	Event 153 187	séries mondiales de triathlon 2017
 T9	Event 189 192	WTS
 T10	Location 253 261	Montréal
 T11	Location 328 334	Canada
@@ -14,7 +14,7 @@ T13	Location 428 436	Pays-Bas
 T14	Location 550 560	États-Unis
 T15	Location 567 573	France
 T16	Date 614 618	2017
-T17	Person 623 632	Abu Dhabi
+T17	Location 623 632	Abu Dhabi
 T18	Location 634 637	UAE
 T19	Date 640 641	3
 T20	Date 642 648	4 mars

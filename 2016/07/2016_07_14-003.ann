@@ -22,13 +22,13 @@ T21	Date 499 503	2016
 T22	Event 484 503	Tour de France 2016
 T23	Person 506 518	Tom Dumoulin
 T24	Location 546 554	Pyrénées
-T25	Product 564 584	Tom Simpson memorial
+T25	Location 564 584	Tom Simpson memorial
 T26	Person 564 575	Tom Simpson
-T27	Person 586 598	Mont Ventoux
+T27	Location 586 598	Mont Ventoux
 T28	Date 618 626	TDF 2016
 T29	Date 642 657	14 juillet 2016
 T30	Location 697 708	Montpellier
-T31	Person 712 726	Chalet Reynard
+T31	Location 712 726	Chalet Reynard
 T32	Event 745 749	Tour
 T33	Person 858 873	Thomas De Gendt
 T34	Person 890 903	Serge Pauwels

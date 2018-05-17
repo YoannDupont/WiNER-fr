@@ -5,9 +5,9 @@ T4	Location 168 175	Turquie
 T5	Person 315 330	Binali Yildirim
 T6	Person 644 663	Recep Tayyp Erdogan
 T7	Organization 762 777	agence Anatolie
-T8	Organization 838 865	aéroport d'Istanbul-Atatürk
-T9	Location 849 857	Istanbul
-T10	Location 858 865	Atatürk
+T8	Location 849 857	Istanbul
+T9	Organization 858 865	Atatürk
+T10	Person 858 865	Atatürk
 T11	Organization 1024 1027	TRT
 T12	Organization 1050 1057	Twitter
 T13	Organization 1061 1069	Facebook

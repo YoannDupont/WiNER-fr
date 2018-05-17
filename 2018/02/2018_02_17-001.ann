@@ -1,8 +1,8 @@
-T1	Event 0 20	Jeux olympiques 2018
-T2	Date 16 20	2018
+T1	Date 16 20	2018
+T2	Event 0 20	Jeux olympiques 2018
 T3	Date 55 70	17 février 2018
-T4	Event 106 144	Jeux Olympiques d'hiver de PyeongChang
-T5	Person 133 144	PyeongChang
+T4	Location 133 144	PyeongChang
+T5	Event 106 144	Jeux Olympiques d'hiver de PyeongChang
 T6	Date 162 172	16 février
 T7	Date 203 213	17 février
 T8	Person 379 391	Yuzuru Hanyu

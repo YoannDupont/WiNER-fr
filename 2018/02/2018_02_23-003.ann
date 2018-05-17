@@ -1,8 +1,8 @@
-T1	Event 0 20	Jeux olympiques 2018
-T2	Date 16 20	2018
+T1	Date 16 20	2018
+T2	Event 0 20	Jeux olympiques 2018
 T3	Date 54 69	23 février 2018
-T4	Event 104 142	Jeux Olympiques d'hiver de PyeongChang
-T5	Person 131 142	PyeongChang
+T4	Location 131 142	PyeongChang
+T5	Event 104 142	Jeux Olympiques d'hiver de PyeongChang
 T6	Date 160 170	21 février
 T7	Date 201 211	23 février
 T8	Person 338 352	Alina Zagitova

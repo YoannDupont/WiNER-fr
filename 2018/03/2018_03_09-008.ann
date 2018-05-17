@@ -13,12 +13,10 @@ T12	Product 682 691	Curiosity
 T13	Location 714 718	Mars
 T14	Organization 775 779	NASA
 T15	Product 903 912	Curiosity
-T16	Location 903 912	Curiosity
-T17	Date 1203 1218	26 février 2018
-T18	Product 1274 1283	Curiosity
-T19	Location 1371 1383	Orcadie Lake
-T20	Location 2030 2035	Terre
-T21	Location 2055 2059	Mars
-T22	Product 2179 2188	Curiosity
-T23	Organization 2179 2188	Curiosity
-T24	Product 2441 2448	ChemCam
+T16	Date 1203 1218	26 février 2018
+T17	Product 1274 1283	Curiosity
+T18	Location 1371 1383	Orcadie Lake
+T19	Location 2030 2035	Terre
+T20	Location 2055 2059	Mars
+T21	Product 2179 2188	Curiosity
+T22	Product 2441 2448	ChemCam

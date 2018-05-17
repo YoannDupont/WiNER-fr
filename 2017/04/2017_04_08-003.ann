@@ -3,8 +3,8 @@ T2	Event 12 20	WTS 2017
 T3	Location 22 32	Gold Coast
 T4	Date 64 76	8 avril 2017
 T5	Event 84 113	séries mondiales de triathlon
-T6	Event 115 123	WTS 2017
-T7	Date 119 123	2017
+T6	Date 119 123	2017
+T7	Event 115 123	WTS 2017
 T8	Location 188 198	Gold Coast
 T9	Location 202 211	Australie
 T10	Person 364 374	Mario Mola
@@ -16,7 +16,7 @@ T15	Person 974 985	Ryan Fisher
 T16	Person 1224 1238	Richard Murray
 T17	Person 1433 1447	Richard Murray
 T18	Person 1472 1487	Fernando Alazra
-T19	Person 1587 1597	Abou Dhabi
+T19	Location 1587 1597	Abou Dhabi
 T20	Person 1617 1630	Andrea Hewitt
 T21	Person 2049 2062	Ashley Gentle
 T22	Person 2079 2087	Juri Ide

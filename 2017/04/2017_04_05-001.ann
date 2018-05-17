@@ -1,15 +1,20 @@
 T1	Product 18 25	Cassini
-T2	Location 68 75	Saturne
-T3	Date 77 89	5 avril 2017
-T4	Organization 110 114	NASA
-T5	Product 139 146	Cassini
-T6	Location 181 188	Saturne
-T7	Date 196 200	2004
-T8	Date 249 266	26 avril prochain
-T9	Location 338 345	Saturne
-T10	Organization 547 551	NASA
-T11	Product 571 578	Cassini
-T12	Product 702 709	Cassini
-T13	Date 785 793	22 avril
-T14	Date 1000 1012	15 septembre
-T15	Product 1017 1024	Cassini
+T2	Person 18 25	Cassini
+T3	Location 68 75	Saturne
+T4	Date 77 89	5 avril 2017
+T5	Organization 110 114	NASA
+T6	Product 139 146	Cassini
+T7	Person 139 146	Cassini
+T8	Location 181 188	Saturne
+T9	Date 196 200	2004
+T10	Date 249 266	26 avril prochain
+T11	Location 338 345	Saturne
+T12	Organization 547 551	NASA
+T13	Product 571 578	Cassini
+T14	Person 571 578	Cassini
+T15	Product 702 709	Cassini
+T16	Person 702 709	Cassini
+T17	Date 785 793	22 avril
+T18	Date 1000 1012	15 septembre
+T19	Product 1017 1024	Cassini
+T20	Person 1017 1024	Cassini

@@ -53,16 +53,15 @@ T52	Organization 2333 2341	Facebook
 T53	Product 2385 2393	Snapchat
 T54	Organization 2423 2431	Facebook
 T55	Product 2466 2475	Instagram
-T56	Location 2466 2475	Instagram
-T57	Date 2663 2677	2 août dernier
-T58	Product 2679 2688	Instagram
-T59	Organization 2722 2730	Facebook
-T60	Product 2738 2746	Snapchat
-T61	Organization 3097 3105	Facebook
-T62	Person 3141 3156	Mark Zuckerberg
-T63	Location 3197 3203	Brésil
-T64	Location 3210 3216	Canada
-T65	Organization 3232 3240	Facebook
-T66	Product 3277 3285	Snapchat
-T67	Organization 3374 3382	Facebook
-T68	Product 3433 3438	MSQRD
+T56	Date 2663 2677	2 août dernier
+T57	Product 2679 2688	Instagram
+T58	Organization 2722 2730	Facebook
+T59	Product 2738 2746	Snapchat
+T60	Organization 3097 3105	Facebook
+T61	Person 3141 3156	Mark Zuckerberg
+T62	Location 3197 3203	Brésil
+T63	Location 3210 3216	Canada
+T64	Organization 3232 3240	Facebook
+T65	Product 3277 3285	Snapchat
+T66	Organization 3374 3382	Facebook
+T67	Product 3433 3438	MSQRD

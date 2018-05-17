@@ -9,7 +9,7 @@ T8	Organization 317 322	Daech
 T9	Date 331 343	juillet 2014
 T10	Organization 456 461	Daech
 T11	Organization 552 557	Daech
-T12	Organization 596 604	Euphrate
+T12	Location 596 604	Euphrate
 T13	Location 703 714	Deir ez-Zor
 T14	Date 903 907	2013
 T15	Date 981 993	juillet 2014
@@ -35,6 +35,6 @@ T34	Location 2959 2964	Syrie
 T35	Location 2971 2976	Liban
 T36	Organization 3020 3034	Maison blanche
 T37	Organization 3057 3060	FDS
-T38	Organization 3109 3117	Euphrate
-T39	Organization 3248 3256	Euphrate
+T38	Location 3109 3117	Euphrate
+T39	Location 3248 3256	Euphrate
 T40	Organization 3278 3283	Daech

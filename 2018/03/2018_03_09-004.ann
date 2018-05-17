@@ -1,7 +1,7 @@
-T1	Location 0 5	Steam
+T1	Product 0 5	Steam
 T2	Product 8 12	PUBG
 T3	Product 14 43	PlayerUnknown's BattleGrounds
-T4	Location 92 97	Steam
+T4	Product 92 97	Steam
 T5	Date 99 110	9 mars 2018
 T6	Organization 152 160	Bluehole
 T7	Product 228 257	PlayerUnknown's Battlegrounds
@@ -9,7 +9,7 @@ T8	Product 259 263	PUBG
 T9	Date 280 284	2018
 T10	Person 286 297	Gabe Newell
 T11	Product 334 338	PUBG
-T12	Location 413 418	Steam
-T13	Location 527 532	Valve
+T12	Product 413 418	Steam
+T13	Organization 527 532	Valve
 T14	Product 598 627	PlayerUnknown's Battlegrounds
 T15	Date 689 701	23 mars 2017
