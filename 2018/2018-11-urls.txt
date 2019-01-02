@@ -1,0 +1,13 @@
+2018_11_10-001	https://fr.wikinews.org/wiki/Marseille_:_trois_immeubles_s'écroulent_dans_le_1er_arrondissement,_plusieurs_morts
+2018_11_10-002	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_de_la_37e_Volvo_Open_Cup
+2018_11_10-003	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Trophée_NHK_2018
+2018_11_14-001	https://fr.wikinews.org/wiki/États-Unis_:_des_dizaines_de_morts_dans_des_incendies_en_Californie
+2018_11_17-001	https://fr.wikinews.org/wiki/France_:_manifestations_des_«_Gilets_jaunes_»,_une_personne_morte_et_des_centaines_de_blessés
+2018_11_17-002	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_de_la_Coupe_de_Russie_2018
+2018_11_19-001	https://fr.wikinews.org/wiki/"Gilets_jaunes"_:_troisième_journée_de_mobilisation
+2018_11_19-002	https://fr.wikinews.org/wiki/Carlos_Ghosn_:_Nissan_confirme_la_dissimulation_des_revenus_au_fisc_et_va_proposer_son_départ
+2018_11_25-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_des_Internationaux_de_France_2018
+2018_11_26-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_qualifications_pour_la_finale_du_Grand_Prix_2018
+2018_11_29-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_Yuzuru_Hanyū_déclare_forfait_pour_la_finale_du_Grand_Prix_2018
+2018_11_29-002	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Trophée_Tallinn_2018
+2018_11_30-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_de_la_Coupe_Denkova-Staviski_2018_seniors

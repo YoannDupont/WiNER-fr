@@ -1,0 +1,164 @@
+T1	Organization 0 13	Gilets jaunes
+T2	Date 16 33	lundi 24 décembre
+T3	Date 34 38	2018
+T4	Organization 142 151	Wikipédia
+T5	Date 155 171	24 décembre 2018
+T6	Organization 196 209	Gilets jaunes
+T7	Date 215 237	lundi 24 décembre 2018
+T8	Date 290 301	23 décembre
+T9	Date 331 354	samedi 17 novembre 2018
+T10	Location 394 402	Lamballe
+T11	Location 404 417	Côtes-d'Armor
+T12	Organization 444 457	Gilets jaunes
+T13	Location 482 490	Lanjouan
+T14	Location 569 577	Vaucluse
+T15	Location 589 593	Gard
+T16	Organization 649 660	Le Dauphiné
+T17	Organization 709 722	Gilets jaunes
+T18	Organization 884 897	Gilets jaunes
+T19	Location 938 944	France
+T20	Location 986 992	Pringy
+T21	Location 994 1006	Haute-Savoie
+T22	Hour 1096 1100	7h00
+T23	Organization 1121 1140	Union Gilets Jaunes
+T24	Person 1185 1205	Christophe Chalençon
+T25	Organization 1266 1285	Union Gilets Jaunes
+T26	Person 1321 1341	Christophe Chalençon
+T27	Person 1383 1396	Gilets Jaunes
+T28	Person 1439 1454	Benjamin Cauchi
+T29	Hour 1463 1467	8h20
+T30	Person 1469 1484	Mounir Mahjoubi
+T31	Organization 1489 1501	France-inter
+T32	Organization 1743 1756	Gilets jaunes
+T33	Location 1795 1801	France
+T34	Location 1846 1852	France
+T35	Hour 1922 1926	8h55
+T36	Person 1928 1939	Sophia Aram
+T37	Organization 1944 1956	France-inter
+T38	Person 2056 2067	Che Guevara
+T39	Person 2071 2082	Eric Drouet
+T40	Location 2123 2129	Nelson
+T41	Person 2340 2353	Gilets Jaunes
+T42	Location 2392 2409	Romilly-sur-Seine
+T43	Location 2411 2415	Aube
+T44	Organization 2433 2446	Gilets jaunes
+T45	Location 2568 2578	Boule-d’Or
+T46	Location 2582 2590	Boulogne
+T47	Location 2592 2605	Pas-de-Calais
+T48	Organization 2628 2641	Gilets jaunes
+T49	Location 2689 2705	Boulogne-sur-Mer
+T50	Location 2745 2751	Calais
+T51	Hour 2779 2784	10h10
+T52	Location 2858 2868	Montmartre
+T53	Person 2870 2885	Benjamin Cauchy
+T54	Organization 2966 2979	Gilets jaunes
+T55	Location 3111 3117	France
+T56	Hour 3127 3132	12h00
+T57	Organization 3134 3141	France3
+T58	Location 3203 3207	Jura
+T59	Person 3209 3225	Fabrice Schlegel
+T60	Hour 3448 3453	12h00
+T61	Organization 3459 3462	RMC
+T62	Person 3464 3479	Jacline Mouraud
+T63	Organization 3610 3623	Gilets jaunes
+T64	Organization 3670 3683	Gilets jaunes
+T65	Organization 3731 3744	Gilets jaunes
+T66	Organization 3777 3785	Facebook
+T67	Hour 4017 4022	14h00
+T68	Person 4144 4164	Christophe Chalençon
+T69	Location 4646 4652	France
+T70	Location 4717 4723	France
+T71	Organization 4942 4955	Gilets jaunes
+T72	Hour 5042 5047	15h00
+T73	Location 5051 5067	Chalon-sur-Saône
+T74	Location 5069 5083	Saône-et-Loire
+T75	Date 5265 5280	28 janvier 2019
+T76	Hour 5380 5385	20h00
+T77	Location 5390 5396	France
+T78	Event 5418 5422	Noël
+T79	Date 5418 5422	Noël
+T80	Date 5562 5564	24
+T81	Date 5568 5579	25 décembre
+T82	Location 5594 5607	Saône-et-Loir
+T83	Location 5611 5614	Lux
+T84	Location 5616 5626	Montchanin
+T85	Location 5633 5638	Magny
+T86	Location 5645 5651	Somain
+T87	Location 5653 5657	Nord
+T88	Person 5801 5814	Joseph Nurchi
+T89	Event 5867 5871	Noël
+T90	Date 5867 5871	Noël
+T91	Location 5905 5912	Lorient
+T92	Location 5914 5922	Bretagne
+T93	Person 5929 5942	Gilets Jaunes
+T94	Organization 6023 6029	Maison
+T95	Location 6096 6111	Château-Thierry
+T96	Location 6113 6118	Aisne
+T97	Person 6124 6133	père-Noël
+T98	Event 6129 6133	Noël
+T99	Date 6129 6133	Noël
+T100	Location 6200 6211	Châteauroux
+T101	Location 6213 6218	Indre
+T102	Organization 6397 6410	Gilets jaunes
+T103	Hour 6420 6425	21h30
+T104	Location 6429 6438	Chemaudin
+T105	Location 6440 6445	Doubs
+T106	Location 6534 6537	A36
+T107	Hour 6545 6550	22h45
+T108	Location 6569 6577	Malakoff
+T109	Location 6595 6599	Agen
+T110	Location 6605 6608	A62
+T111	Location 6612 6626	Passage d'Agen
+T112	Location 6622 6626	Agen
+T113	Location 6628 6642	Lot-et-Garonne
+T114	Hour 6945 6950	23h00
+T115	Location 6954 6959	Paris
+T116	Location 6986 7001	Arc de Triomphe
+T117	Organization 7266 7279	Gilets jaunes
+T118	Location 7330 7332	A1
+T119	Location 7334 7336	A4
+T120	Location 7338 7341	A16
+T121	Location 7343 7346	A29
+T122	Location 7348 7350	A7
+T123	Location 7352 7354	A9
+T124	Location 7356 7359	A20
+T125	Location 7361 7364	A61
+T126	Location 7366 7369	A62
+T127	Location 7371 7373	A8
+T128	Location 7375 7378	A50
+T129	Location 7380 7383	A51
+T130	Location 7385 7388	A11
+T131	Location 7392 7395	A42
+T132	Person 7485 7502	Jean-Michel Bezat
+T133	Organization 7519 7524	Monde
+T134	Organization 7595 7608	Gilets jaunes
+T135	Person 7717 7729	Yann Le Lann
+T136	Location 7731 7736	Lille
+T137	Organization 7743 7756	Gilets jaunes
+T138	Person 7958 7974	Frédéric Sirgant
+T139	Location 8020 8026	France
+T140	Location 8069 8075	France
+T141	Location 8155 8161	France
+T142	Person 8182 8200	Christophe Guilluy
+T143	Organization 8254 8256	FN
+T144	Date 8260 8264	2017
+T145	Person 8300 8313	Bryan Garnier
+T146	Organization 8411 8417	Auchan
+T147	Organization 8437 8446	Carrefour
+T148	Organization 8475 8481	Casino
+T149	Organization 8500 8510	Fnac Darty
+T150	Organization 8527 8545	Galeries Lafayette
+T151	Organization 8572 8581	Printemps
+T152	Organization 8691 8735	Fédération du commerce et de la distribution
+T153	Organization 8742 8782	Conseil national des centres commerciaux
+T154	Organization 8860 8865	Insee
+T155	Organization 8946 8962	Banque de France
+T156	Date 9079 9083	2018
+T157	Date 9135 9139	1995
+T158	Location 9196 9204	Bataclan
+T159	Date 9208 9212	2015
+T160	Organization 9223 9231	Senenews
+T161	Organization 9235 9268	Agence Française de Développement
+T162	Location 9311 9318	Sénégal
+T163	Location 9385 9390	Dakar
+T164	Location 9467 9472	Dakar

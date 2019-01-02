@@ -1,0 +1,11 @@
+2018_07_04-001	https://fr.wikinews.org/wiki/Irlande_:_la_Dublin_Pride_2018_attire_des_dizaines_de_milliers_de_personnes
+2018_07_08-001	https://fr.wikinews.org/wiki/2_millions_d'articles_sur_la_Wikipédia_en_français
+2018_07_08-002	https://fr.wikinews.org/wiki/Nantes_:_plusieurs_nuits_violentes_après_la_mort_de_Fofana
+2018_07_19-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_mort_du_patineur_kazakh_Denis_Ten
+2018_07_19-002	https://fr.wikinews.org/wiki/Coupe_du_monde_de_football_2018_:_célébrations_du_14_juillet_à_Jérusalem_sur_fond_de_victoire_au_mondial
+2018_07_21-001	https://fr.wikinews.org/wiki/Le_Japon_est_frappé_par_des_chaleurs_extrêmes,_après_les_inondations
+2018_07_21-002	https://fr.wikinews.org/wiki/France_:_un_collaborateur_de_l'Elysée_accusé_de_violences_lors_des_manifestations_du_1er_mai
+2018_07_22-001	https://fr.wikinews.org/wiki/France_:_le_gouvernement_suspend_l'examen_de_la_révision_constitutionnelle
+2018_07_22-002	https://fr.wikinews.org/wiki/Cuba_:_vers_l'ouverture_du_mariage_homosexuel_avec_la_nouvelle_constitution
+2018_07_24-001	https://fr.wikinews.org/wiki/Toronto_:_trois_morts_à_la_suite_d'une_fusillade
+2018_07_30-001	https://fr.wikinews.org/wiki/Affaire_Benalla_:_mise_en_difficulté_de_plusieurs_personnes_auditionnées_devant_le_Sénat

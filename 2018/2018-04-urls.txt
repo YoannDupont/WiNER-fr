@@ -1,0 +1,15 @@
+2018_04_01-001	https://fr.wikinews.org/wiki/France_:_Anne_Hidalgo_propose_le_pousse-pousse_pour_pallier_les_grèves
+2018_04_02-001	https://fr.wikinews.org/wiki/Allemagne_:_accident_d'un_bus_belge,_au_moins_douze_blessés,_le_conducteur_décédé
+2018_04_04-001	https://fr.wikinews.org/wiki/États-Unis_:_la_Garde_nationale_envoyée_à_la_frontière_mexicaine
+2018_04_04-002	https://fr.wikinews.org/wiki/Espace_:_la_station_spatiale_chinoise_Tiangong-1_est_tombée_dans_le_Pacifique
+2018_04_05-001	https://fr.wikinews.org/wiki/NASA_:_le_lancement_du_télescope_spatial_James_Webb_reporté_à_mai_2020
+2018_04_07-001	https://fr.wikinews.org/wiki/Canada_:_une_équipe_de_hockey_junior_décimée_par_un_accident_de_la_route
+2018_04_12-001	https://fr.wikinews.org/wiki/Plus_de_100_morts_en_Indonésie_à_la_suite_de_la_consommation_de_l'alcool_frelaté
+2018_04_16-001	https://fr.wikinews.org/wiki/Mali_:_attaque_à_Tombouctou_sur_MINUSMA_et_l'Opération_Barkhane
+2018_04_17-001	https://fr.wikinews.org/wiki/Kickstarter_:_le_jeu_vidéo_Iron_Harvest_a_levé_1,5_millions_de_dollars
+2018_04_17-002	https://fr.wikinews.org/wiki/E3_2018_:_le_studio_THQ_Nordic_ne_prendra_pas_part_à_cet_évènement
+2018_04_17-003	https://fr.wikinews.org/wiki/Canada_:_les_familles_des_diplomates_à_Cuba_seront_rapatriées_à_la_suite_des_malaises_mystérieux
+2018_04_18-001	https://fr.wikinews.org/wiki/États-Unis_:_décès_de_Barbara_Bush,_ancienne_Première_dame
+2018_04_18-002	https://fr.wikinews.org/wiki/Chine_:_une_cheminée_«_à_air_pur_»_pour_tenter_de_dé-polluer_l'atmosphère
+2018_04_21-001	https://fr.wikinews.org/wiki/Corée_du_Nord_:_le_pays_suspend_ses_programmes_nucléaires
+2018_04_30-001	https://fr.wikinews.org/wiki/Afghanistan_:_un_double_attentat_suicide_près_du_siège_des_renseignements_afghans

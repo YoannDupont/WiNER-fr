@@ -1,0 +1,28 @@
+T1	Location 0 6	France
+T2	Organization 31 37	Elysée
+T3	Location 31 37	Elysée
+T4	Date 85 92	1er mai
+T5	Date 94 109	21 juillet 2018
+T6	Organization 125 133	Le Monde
+T7	Date 155 170	18 juillet 2018
+T8	Date 224 236	1er mai 2018
+T9	Organization 256 275	La France Insoumise
+T10	Organization 310 316	Élysée
+T11	Location 310 316	Élysée
+T12	Person 319 336	Alexandre Benalla
+T13	Organization 507 513	Élysée
+T14	Location 507 513	Élysée
+T15	Person 516 533	Bruno-Roger Petit
+T16	Date 562 577	19 juillet 2018
+T17	Person 590 607	Alexandre Benalla
+T18	Date 700 707	1er-Mai
+T19	Location 1041 1046	Paris
+T20	Date 1050 1065	19 juillet 2018
+T21	Organization 1070 1112	inspection générale de la police nationale
+T22	Organization 1114 1118	IGPN
+T23	Organization 1181 1190	Intérieur
+T24	Person 1193 1207	Gérard Collomb
+T25	Date 1214 1229	20 juillet 2018
+T26	Person 1231 1248	Alexandre Benalla
+T27	Organization 1599 1605	Élysée
+T28	Location 1599 1605	Élysée

@@ -1,0 +1,145 @@
+T1	Organization 0 13	Gilets jaunes
+T2	Date 16 37	mardi 4 décembre 2018
+T3	Organization 116 125	Wikimedia
+T4	Organization 141 150	Wikipédia
+T5	Date 154 169	4 décembre 2018
+T6	Organization 194 207	gilets jaunes
+T7	Date 213 234	mardi 4 décembre 2018
+T8	Date 287 297	3 décembre
+T9	Date 327 350	samedi 17 novembre 2018
+T10	Date 370 377	lundi 3
+T11	Date 380 396	mardi 4 décembre
+T12	Organization 401 427	trésorerie de Saint-Andiol
+T13	Location 415 427	Saint-Andiol
+T14	Location 429 445	Bouches-du-Rhône
+T15	Hour 506 510	7h00
+T16	Organization 537 541	Ifop
+T17	Organization 542 550	Fiducial
+T18	Person 594 609	Emmanuel Macron
+T19	Person 633 650	François Hollande
+T20	Person 678 694	Edouard Philippe
+T21	Hour 702 707	10h40
+T22	Date 742 758	30 novembre 2018
+T23	Organization 819 825	Amazon
+T24	Hour 1041 1046	10h50
+T25	Person 1048 1063	Benjamin Cauchy
+T26	Organization 1084 1091	Citrons
+T27	Person 1192 1212	Christophe Chalençon
+T28	Person 1328 1344	Laetitia Dewalle
+T29	Location 1361 1371	Val-d'Oise
+T30	Hour 1553 1558	10h50
+T31	Organization 1569 1603	ministère de l’Éducation nationale
+T32	Organization 1715 1728	gilets jaunes
+T33	Hour 1812 1817	11h00
+T34	Location 1882 1890	Morbihan
+T35	Location 1894 1899	Brest
+T36	Location 1903 1910	Lorient
+T37	Hour 1961 1966	11h21
+T38	Organization 1998 2021	La République en marche
+T39	Person 2046 2062	Edouard Philippe
+T40	Product 2159 2170	BVA Opinion
+T41	Organization 2159 2162	BVA
+T42	Location 2350 2364	campus Censier
+T43	Organization 2370 2398	université Sorbonne Nouvelle
+T44	Organization 2400 2407	Paris-3
+T45	Location 2400 2405	Paris
+T46	Hour 2443 2448	12h30
+T47	Person 2450 2466	Édouard Philippe
+T48	Date 2570 2578	mai 2019
+T49	Hour 2776 2781	13h45
+T50	Location 2787 2793	Élysée
+T51	Person 2811 2829	Patrick de Perglas
+T52	Person 2840 2844	Gépy
+T53	Person 2873 2888	Emmanuel Macron
+T54	Hour 2896 2901	13h50
+T55	Location 2905 2910	Paris
+T56	Location 2943 2958	Arc de Triomphe
+T57	Hour 3011 3016	14h00
+T58	Organization 3020 3028	Matignon
+T59	Person 3045 3054	David Tan
+T60	Location 3077 3083	Nantes
+T61	Person 3116 3132	Edouard Philippe
+T62	Hour 3150 3159	16 heures
+T63	Hour 3167 3172	15h20
+T64	Organization 3178 3195	Assemblé National
+T65	Person 3197 3213	Edouard Philippe
+T66	Organization 3281 3290	Assemblée
+T67	Hour 3330 3335	16h00
+T68	Person 3337 3348	Eric Drouet
+T69	Location 3365 3370	Melun
+T70	Location 3515 3520	Paris
+T71	Hour 3537 3542	16h40
+T72	Location 3590 3595	Brest
+T73	Hour 3616 3621	17h10
+T74	Location 3625 3630	Paris
+T75	Location 3689 3696	Tolbiac
+T76	Hour 3762 3767	17h20
+T77	Person 3797 3816	Christophe Castaner
+T78	Location 3848 3854	France
+T79	Date 3855 3872	samedi 8 décembre
+T80	Date 3943 3962	samedi 1er décembre
+T81	Hour 3970 3975	17h25
+T82	Person 3977 3992	Benjamin Cauchy
+T83	Organization 4022 4041	Assemblée nationale
+T84	Hour 4109 4114	17h30
+T85	Organization 4119 4150	tribunal correctionnel de Paris
+T86	Location 4145 4150	Paris
+T87	Location 4477 4483	Loriol
+T88	Location 4490 4496	Pouzin
+T89	Location 4498 4505	Ardèche
+T90	Location 4623 4629	Pouzin
+T91	Hour 4637 4642	17h45
+T92	Person 4644 4655	Eric Drouet
+T93	Hour 4794 4799	19h10
+T94	Location 4837 4844	Lorient
+T95	Hour 4865 4870	20h00
+T96	Location 5052 5054	A7
+T97	Location 5056 5058	A8
+T98	Location 5060 5062	A9
+T99	Location 5064 5067	A10
+T100	Location 5069 5072	A20
+T101	Location 5074 5077	A50
+T102	Location 5079 5088	La Ciotat
+T103	Location 5092 5098	Bandol
+T104	Location 5101 5104	A51
+T105	Location 5106 5109	A52
+T106	Location 5111 5127	Pont de l’Étoile
+T107	Location 5130 5133	A57
+T108	Location 5135 5138	A61
+T109	Location 5140 5143	A62
+T110	Location 5145 5148	A63
+T111	Location 5150 5153	A64
+T112	Location 5155 5158	A71
+T113	Location 5160 5163	A72
+T114	Location 5165 5168	A83
+T115	Location 5170 5173	A81
+T116	Location 5175 5178	A85
+T117	Location 5180 5183	A87
+T118	Location 5185 5188	A89
+T119	Location 5200 5204	A520
+T120	Location 5218 5222	A837
+T121	Hour 5230 5235	21h00
+T122	Organization 5312 5315	CGT
+T123	Organization 5319 5336	FO des Transports
+T124	Hour 5398 5407	22 heures
+T125	Hour 5446 5451	21h15
+T126	Location 5491 5501	Saint-Malo
+T127	Organization 5518 5534	Brittany Ferries
+T128	Location 5545 5555	Portsmouth
+T129	Location 5557 5572	Grande-Bretagne
+T130	Location 5590 5600	Ouistreham
+T131	Hour 5608 5613	21h25
+T132	Person 5615 5630	Jacline Mouraud
+T133	Hour 5741 5746	23h56
+T134	Person 5771 5783	Donald Trump
+T135	Person 5821 5837	Edouard Philippe
+T136	Location 5854 5859	Paris
+T137	Date 5864 5868	2015
+T138	Location 6005 6011	France
+T139	Location 6150 6157	Gaillon
+T140	Location 6159 6163	Eure
+T141	Location 6186 6195	Montmagny
+T142	Location 6197 6207	Val-d’Oise
+T143	Location 6210 6229	Montceaux-les-mines
+T144	Location 6231 6245	Saône-Et-Loire
+T145	Location 6274 6294	Charleville-Mézières

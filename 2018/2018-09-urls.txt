@@ -1,0 +1,10 @@
+2018_09_08-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Grand_Prix_Junior_de_Lituanie_2018
+2018_09_10-001	https://fr.wikinews.org/wiki/France_:_une_attaque_au_couteau_fait_sept_blessés_dans_la_capitale
+2018_09_15-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Trophée_de_Lombardie_2018
+2018_09_16-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_de_l'U.S._International_Figure_Skating_Classic_2018
+2018_09_16-002	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Grand_Prix_Junior_du_Canada_2018
+2018_09_17-001	https://fr.wikinews.org/wiki/Bruxelles_:_un_policier_a_été_attaqué_au_couteau_près_du_parc_Maximilien
+2018_09_22-001	https://fr.wikinews.org/wiki/Afghanistan_:_un_attentat-suicide_contre_une_foule_de_manifestants_fait_au_moins_68_morts
+2018_09_22-002	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_des_Internationaux_Classiques_d'automne_2018
+2018_09_22-003	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Trophée_Ondrej_Nepela_2018
+2018_09_30-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Grand_Prix_Junior_de_République_tchèque_2018

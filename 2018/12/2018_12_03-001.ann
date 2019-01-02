@@ -1,0 +1,143 @@
+T1	Organization 0 13	Gilets jaunes
+T2	Date 16 37	lundi 3 décembre 2018
+T3	Organization 116 125	Wikimedia
+T4	Organization 141 150	Wikipédia
+T5	Date 154 169	3 décembre 2018
+T6	Organization 194 207	gilets jaunes
+T7	Date 213 234	lundi 3 décembre 2018
+T8	Date 287 297	2 décembre
+T9	Date 327 350	samedi 17 novembre 2018
+T10	Hour 359 363	6h00
+T11	Organization 365 368	LCI
+T12	Organization 399 409	OpinionWay
+T13	Organization 453 466	Gilets jaunes
+T14	Hour 475 479	7h00
+T15	Hour 550 553	10h
+T16	Hour 556 559	12h
+T17	Person 561 576	Jacline Gouraud
+T18	Location 605 613	Morbihan
+T19	Organization 705 713	Matignon
+T20	Location 801 806	Paris
+T21	Date 887 897	2 décembre
+T22	Organization 903 906	JDD
+T23	Hour 990 994	7h50
+T24	Person 996 1016	Christophe Chalençon
+T25	Date 1061 1071	2 décembre
+T26	Organization 1077 1080	JDD
+T27	Organization 1096 1104	Europe 1
+T28	Person 1157 1173	Edouard Philippe
+T29	Person 1202 1213	de Villiers
+T30	Hour 1232 1236	8h00
+T31	Person 1256 1274	Harris Interactive
+T32	Hour 1335 1339	8h00
+T33	Hour 1351 1356	10h00
+T34	Location 1360 1373	Aubervilliers
+T35	Organization 1390 1415	lycée Jean-Pierre Timbaud
+T36	Person 1396 1415	Jean-Pierre Timbaud
+T37	Organization 1529 1539	Lycamobile
+T38	Location 1543 1557	99 rue Lécuyer
+T39	Hour 1576 1581	10h00
+T40	Hour 1590 1595	11h00
+T41	Location 1662 1677	Arc de triomphe
+T42	Location 1745 1750	Paris
+T43	Hour 1759 1764	11h15
+T44	Organization 1784 1803	Éducation nationale
+T45	Location 1849 1855	France
+T46	Location 2049 2057	Toulouse
+T47	Location 2081 2089	Bordeaux
+T48	Hour 2097 2102	12h00
+T49	Hour 2155 2160	12h40
+T50	Organization 2162 2171	le Figaro
+T51	Hour 2357 2362	14h20
+T52	Hour 2370 2375	15h00
+T53	Person 2377 2392	Benjamin Cauchy
+T54	Location 2420 2433	Haute-Garonne
+T55	Person 2608 2624	Edouard Philippe
+T56	Organization 2627 2635	Matignon
+T57	Organization 2895 2903	Matignon
+T58	Hour 2939 2944	15h00
+T59	Location 3126 3128	A7
+T60	Location 3130 3132	A8
+T61	Location 3134 3136	A9
+T62	Location 3138 3141	A10
+T63	Location 3143 3146	A11
+T64	Location 3148 3151	A20
+T65	Location 3153 3156	A50
+T66	Location 3158 3161	A51
+T67	Location 3173 3176	A52
+T68	Location 3178 3181	A54
+T69	Location 3193 3196	A61
+T70	Location 3198 3201	A62
+T71	Location 3203 3206	A63
+T72	Location 3208 3215	Castets
+T73	Location 3218 3221	A64
+T74	Location 3223 3233	Peyehorade
+T75	Location 3236 3239	A71
+T76	Location 3241 3244	A83
+T77	Location 3256 3259	A87
+T78	Location 3273 3277	A837
+T79	Hour 3295 3300	15h40
+T80	Hour 3490 3495	16h50
+T81	Location 3500 3509	Catalogne
+T82	Hour 3633 3638	17h00
+T83	Organization 3642 3646	Ania
+T84	Organization 3648 3697	Association nationale des Industries Alimentaires
+T85	Organization 3812 3816	Ufip
+T86	Organization 3818 3860	Union française des industries pétrolières
+T87	Location 3899 3907	Hexagone
+T88	Location 3947 3952	Brest
+T89	Location 3954 3961	Lorient
+T90	Location 3963 3970	Le Mans
+T91	Person 3975 3989	Grand Quevilly
+T92	Location 3993 4004	Fos-sur-Mer
+T93	Location 4024 4035	La Rochelle
+T94	Location 4037 4043	Donges
+T95	Location 4047 4057	Strasbourg
+T96	Hour 4077 4082	18h12
+T97	Person 4084 4100	Édouard Philippe
+T98	Hour 4172 4177	18h19
+T99	Person 4288 4308	Christophe Chalençon
+T100	Organization 4342 4350	Matignon
+T101	Hour 4371 4376	20h00
+T102	Organization 4406 4411	Total
+T103	Location 4473 4482	Finistère
+T104	Location 4484 4497	Côtes-d'Armor
+T105	Location 4501 4509	Morbihan
+T106	Location 4536 4545	Finistère
+T107	Location 4675 4693	Saint-Paul-lès-Dax
+T108	Location 4697 4703	Bégaar
+T109	Location 4707 4721	Mont-de-Marsan
+T110	Location 4725 4732	Limoges
+T111	Location 4749 4757	Bergerac
+T112	Location 4781 4787	Rennes
+T113	Location 4811 4816	Torcé
+T114	Location 4822 4832	Strasbourg
+T115	Location 4855 4863	calvados
+T116	Location 4901 4921	Bretteville-sur-Odon
+T117	Location 4923 4942	Blainville-sur-Orne
+T118	Location 4944 4954	Mondeville
+T119	Location 4956 4959	Ifs
+T120	Location 4963 4970	Lisieux
+T121	Location 4975 4989	Seine-Maritime
+T122	Location 5027 5051	Saint-Etienne-du-Rouvray
+T123	Location 5053 5067	Grand Quevilly
+T124	Location 5069 5075	Dieppe
+T125	Location 5077 5096	Neuville-les-Dieppe
+T126	Location 5098 5111	Montivilliers
+T127	Location 5113 5133	Gonfreville-L'Rocher
+T128	Location 5137 5154	Octeville-sur-Mer
+T129	Location 5187 5208	Châteauneuf-de-Randon
+T130	Location 5225 5231	Lozère
+T131	Location 5271 5276	Paris
+T132	Location 5380 5386	Tarbes
+T133	Person 5504 5522	Patrick de Perglas
+T134	Location 5554 5559	Paris
+T135	Location 5604 5620	Chalon-sur-Saône
+T136	Location 5624 5630	Élysée
+T137	Organization 5682 5687	Fnsea
+T138	Organization 5689 5747	Fédération Nationale des Syndicats d’Exploitants Agricoles
+T139	Location 5916 5930	Champs-Élysées
+T140	Hour 5940 5945	23h10
+T141	Organization 5950 5974	ministère de l'Intérieur
+T142	Person 6022 6037	Jacline Gouraud
+T143	Organization 6079 6087	Matignon

@@ -1,0 +1,182 @@
+T1	Organization 0 13	Gilets jaunes
+T2	Date 16 40	mercredi 5 décembre 2018
+T3	Organization 119 128	Wikimedia
+T4	Organization 144 153	Wikipédia
+T5	Date 157 172	5 décembre 2018
+T6	Date 216 240	mercredi 5 décembre 2018
+T7	Date 293 303	4 décembre
+T8	Date 333 356	samedi 17 novembre 2018
+T9	Date 376 383	mardi 4
+T10	Date 386 405	mercredi 5 décembre
+T11	Organization 456 481	centre des impôts de Riom
+T12	Location 477 481	Riom
+T13	Location 483 494	Puy-de-Dôme
+T14	Hour 503 507	4h40
+T15	Location 531 538	Lorient
+T16	Location 641 646	Brest
+T17	Person 736 751	Emmanuel Macron
+T18	Hour 826 834	9 heures
+T19	Hour 933 937	9h30
+T20	Person 971 988	Benjamin Griveaux
+T21	Hour 1080 1084	9h40
+T22	Hour 1208 1212	9h50
+T23	Location 1216 1224	Narbonne
+T24	Location 1417 1429	Narbonne-Sud
+T25	Location 1460 1465	Tours
+T26	Location 1629 1640	Saint-Avold
+T27	Location 1642 1649	Moselle
+T28	Hour 1802 1807	10h00
+T29	Location 1811 1819	Toulouse
+T30	Hour 1892 1897	10h50
+T31	Organization 1911 1919	Snes-FSU
+T32	Date 1993 2013	mercredi 19 décembre
+T33	Hour 2042 2047	11h00
+T34	Location 2140 2149	Marseille
+T35	Location 2153 2160	Créteil
+T36	Location 2164 2172	Grenoble
+T37	Organization 2231 2259	Aristide Bergès de Seyssinet
+T38	Person 2231 2259	Aristide Bergès de Seyssinet
+T39	Organization 2278 2291	Jacques-Monod
+T40	Person 2278 2291	Jacques-Monod
+T41	Location 2294 2313	Saint-Jean-de-Braye
+T42	Location 2315 2321	Loiret
+T43	Organization 2406 2424	Simone-de-Beauvoir
+T44	Location 2428 2435	Gonesse
+T45	Location 2437 2447	Val d'Oise
+T46	Location 2532 2545	Saint-Exupéry
+T47	Location 2549 2564	Mantes-la-Jolie
+T48	Hour 2606 2611	11h30
+T49	Location 2615 2620	Paris
+T50	Organization 2641 2662	université de Tolbiac
+T51	Hour 2841 2846	14h00
+T52	Location 2884 2890	France
+T53	Hour 2898 2903	14h20
+T54	Organization 2922 2926	Ifop
+T55	Organization 2927 2935	Fiducial
+T56	Organization 2971 2984	Gilets jaunes
+T57	Hour 3026 3031	15h10
+T58	Organization 3065 3073	Assemblé
+T59	Organization 3241 3246	Sénat
+T60	Location 3333 3345	Valence-Nord
+T61	Location 3361 3363	A7
+T62	Hour 3530 3535	16h00
+T63	Organization 3563 3571	SUD-Rail
+T64	Organization 3578 3581	CGT
+T65	Organization 3592 3613	Lafarge-Holcim ciment
+T66	Organization 3689 3702	Gilets jaunes
+T67	Organization 3738 3760	Confédération paysanne
+T68	Organization 3785 3798	Gilets jaunes
+T69	Hour 3806 3811	19h00
+T70	Organization 3940 3953	Gilets jaunes
+T71	Location 3993 3995	A7
+T72	Location 3997 3999	A8
+T73	Location 4001 4003	A9
+T74	Location 4005 4008	A10
+T75	Location 4010 4013	A20
+T76	Location 4015 4018	A50
+T77	Location 4022 4036	Sanary-sur-Mer
+T78	Location 4038 4047	La Ciotat
+T79	Location 4051 4057	Bandol
+T80	Location 4060 4063	A51
+T81	Location 4065 4068	A52
+T82	Location 4089 4092	A57
+T83	Location 4094 4097	A61
+T84	Location 4099 4102	A62
+T85	Location 4104 4107	A63
+T86	Location 4118 4126	Biriatou
+T87	Location 4129 4132	A64
+T88	Location 4134 4137	A71
+T89	Location 4139 4142	A72
+T90	Location 4144 4147	A83
+T91	Location 4149 4152	A81
+T92	Location 4154 4157	A87
+T93	Location 4159 4162	A89
+T94	Location 4164 4170	Lezoux
+T95	Location 4172 4197	Saint-Laurent-sur-Manoire
+T96	Location 4201 4223	Notre-Dame-de-Sanilhac
+T97	Location 4226 4230	A520
+T98	Location 4234 4238	A837
+T99	Organization 4273 4298	services de renseignement
+T100	Organization 4673 4682	Intérieur
+T101	Event 4824 4828	Noël
+T102	Date 4824 4828	Noël
+T103	Hour 4865 4870	20h00
+T104	Location 4874 4880	Élysée
+T105	Hour 4957 4962	20h20
+T106	Person 4984 5000	Édouard Philippe
+T107	Date 5100 5104	2019
+T108	Organization 5122 5141	Assemblée nationale
+T109	Hour 5236 5241	22h00
+T110	Person 5258 5269	Eric Drouet
+T111	Person 5279 5294	Emmanuel Macron
+T112	Organization 5336 5349	Gilets jaunes
+T113	Hour 5405 5410	22h25
+T114	Location 5414 5420	Élysée
+T115	Date 5551 5555	2019
+T116	Hour 5691 5696	22h30
+T117	Organization 5711 5727	CGT des pompiers
+T118	Organization 5752 5765	Gilets jaunes
+T119	Hour 5773 5778	22h30
+T120	Person 5780 5795	Bruce Toussaint
+T121	Person 5838 5849	Eric Drouet
+T122	Location 5907 5913	Élysée
+T123	Location 5982 5988	Élysée
+T124	Person 6008 6019	Eric Drouet
+T125	Location 6249 6259	Saint-Malo
+T126	Organization 6276 6291	BrittanyFerries
+T127	Organization 6295 6308	CondorFerries
+T128	Location 6327 6334	Lannion
+T129	Organization 6347 6352	Nokia
+T130	Location 6357 6363	Nantes
+T131	Location 6379 6384	Armor
+T132	Location 6399 6412	Saint-Nazaire
+T133	Location 6417 6427	Mondeville
+T134	Organization 6446 6454	La Poste
+T135	Location 6459 6464	Dions
+T136	Location 6468 6478	Les Angles
+T137	Location 6482 6499	Pont-Saint-Esprit
+T138	Location 6503 6511	Le Vigan
+T139	Location 6515 6541	Saint-Martin-de-Valgalgues
+T140	Location 6545 6552	Quissac
+T141	Location 6556 6561	Nîmes
+T142	Organization 6588 6594	Auchan
+T143	Location 6599 6603	Alès
+T144	Location 6607 6616	Aimargues
+T145	Location 6620 6633	Saint-Césaire
+T146	Organization 6660 6666	Auchan
+T147	Location 6671 6680	Remoulins
+T148	Location 6684 6693	Beaucaire
+T149	Location 6703 6708	Rhône
+T150	Location 6713 6733	Coulounieix-Chamiers
+T151	Location 6737 6762	Saint-Laurent-sur-Manoire
+T152	Location 6766 6772	Sarlat
+T153	Location 6780 6788	Réalmont
+T154	Location 6792 6796	Albi
+T155	Location 6835 6844	Marignane
+T156	Location 6846 6855	Marseille
+T157	Location 6930 6946	Port-la-Nouvelle
+T158	Location 6948 6952	Aude
+T159	Location 6957 6962	Dijon
+T160	Location 6964 6968	Midi
+T161	Location 6973 6977	Mans
+T162	Location 6979 6985	Sarthe
+T163	Location 6990 7001	Grand-Puits
+T164	Location 7003 7017	Seine-et-Marne
+T165	Location 7022 7028	Donges
+T166	Location 7032 7039	La Mède
+T167	Location 7041 7057	Bouches-du-Rhône
+T168	Organization 7255 7260	Total
+T169	Organization 7283 7285	BP
+T170	Organization 7306 7308	Gj
+T171	Location 7311 7319	Beauvais
+T172	Location 7321 7325	Oise
+T173	Person 7341 7356	Francis Lalanne
+T174	Organization 7369 7371	Gj
+T175	Organization 7373 7386	Gilets jaunes
+T176	Organization 7450 7482	Alliance Écologiste Indépendante
+T177	Organization 7504 7506	Gj
+T178	Location 7509 7513	Nice
+T179	Person 7515 7532	Philippe Argilier
+T180	Organization 7553 7555	Gj
+T181	Location 7560 7575	Côtes d'Armores
+T182	Person 7577 7591	Maxime Nicolle

@@ -1,0 +1,351 @@
+T1	Organization 0 13	Gilets jaunes
+T2	Date 16 39	samedi 15 décembre 2018
+T3	Organization 118 127	Wikimedia
+T4	Organization 143 152	Wikipédia
+T5	Date 156 172	15 décembre 2018
+T6	Organization 202 215	gilets jaunes
+T7	Date 221 244	samedi 15 décembre 2018
+T8	Date 313 331	samedi 17 novembre
+T9	Date 345 363	samedi 24 novembre
+T10	Date 378 397	samedi 1er décembre
+T11	Date 413 430	samedi 8 décembre
+T12	Location 564 569	Paris
+T13	Location 574 580	France
+T14	Location 619 624	Paris
+T15	Location 695 700	Paris
+T16	Organization 705 729	ministère de l'Intérieur
+T17	Location 803 808	Paris
+T18	Location 1026 1032	France
+T19	Location 1198 1203	Paris
+T20	Location 1337 1342	Paris
+T21	Location 1538 1543	Paris
+T22	Hour 1588 1602	4 heures UTC+1
+T23	Location 1657 1662	Paris
+T24	Location 1758 1766	Toulouse
+T25	Organization 1803 1816	Gilets jaunes
+T26	Location 1848 1854	France
+T27	Hour 1862 1866	6h30
+T28	Location 1882 1888	France
+T29	Organization 1991 1995	SNCF
+T30	Location 2094 2102	Grenelle
+T31	Location 2104 2109	Paris
+T32	Location 2124 2131	Chamant
+T33	Location 2133 2137	Oise
+T34	Location 2139 2141	A1
+T35	Organization 2147 2160	gare de Meaux
+T36	Location 2155 2160	Meaux
+T37	Location 2162 2176	Seine-et-Marne
+T38	Organization 2179 2199	gare de Saint-Lazare
+T39	Location 2187 2199	Saint-Lazare
+T40	Location 2201 2206	Paris
+T41	Location 2216 2220	Eure
+T42	Location 2225 2239	Seine-et-Marne
+T43	Location 2245 2253	Yvelines
+T44	Location 2268 2274	Savoie
+T45	Location 2519 2536	gare Saint-Lazare
+T46	Location 2603 2607	Rome
+T47	Hour 2620 2622	7h
+T48	Location 2682 2697	arc de Triomphe
+T49	Location 2746 2760	Champs-Élysées
+T50	Hour 2768 2772	7h15
+T51	Location 2776 2781	Paris
+T52	Location 2852 2869	8e arrondissement
+T53	Location 2958 2961	16e
+T54	Location 2963 2965	7e
+T55	Location 2969 2987	1er arrondissement
+T56	Hour 3096 3100	7h20
+T57	Location 3111 3131	place de la Concorde
+T58	Hour 3212 3216	7h25
+T59	Location 3229 3234	Paris
+T60	Hour 3282 3286	8h15
+T61	Location 3296 3310	Champs-Élysées
+T62	Hour 3437 3441	8h40
+T63	Location 3468 3473	Paris
+T64	Hour 3480 3484	8h45
+T65	Location 3528 3543	Arc de triomphe
+T66	Hour 3671 3675	8h50
+T67	Organization 3690 3703	Gilets jaunes
+T68	Location 3721 3735	Champs-Élysées
+T69	Hour 3743 3747	9h00
+T70	Location 3778 3791	Île-de-France
+T71	Location 3804 3809	Paris
+T72	Hour 3817 3821	9h30
+T73	Location 3831 3845	Champs-Élysées
+T74	Hour 3898 3902	9h50
+T75	Location 3912 3926	Champs-Élysées
+T76	Location 3971 3985	Champs-Élysées
+T77	Hour 4032 4036	9h50
+T78	Location 4085 4098	Île-de-France
+T79	Location 4109 4114	Paris
+T80	Hour 4122 4127	10h07
+T81	Organization 4131 4144	Opéra Garnier
+T82	Organization 4169 4182	Gilets jaunes
+T83	Hour 4190 4195	10h15
+T84	Person 4197 4211	Charles Piaget
+T85	Organization 4225 4238	Gilets jaunes
+T86	Hour 4246 4251	10h20
+T87	Location 4279 4284	Paris
+T88	Hour 4292 4297	10h25
+T89	Organization 4308 4321	Opéra Garnier
+T90	Hour 4381 4386	10h25
+T91	Person 4420 4439	Déborah de Robertis
+T92	Location 4485 4493	Marianne
+T93	Location 4607 4621	Champs-Élysées
+T94	Hour 4629 4634	10h35
+T95	Location 4644 4658	Champs-Élysées
+T96	Organization 4706 4719	Gilets jaunes
+T97	Hour 4843 4848	10h45
+T98	Location 4883 4888	Paris
+T99	Hour 4920 4925	11h00
+T100	Location 4929 4934	Paris
+T101	Date 4983 4987	2000
+T102	Location 5063 5077	Champs-Élysées
+T103	Location 5084 5101	place de l’Étoile
+T104	Organization 5107 5120	Opéra Garnier
+T105	Location 5127 5139	Saint-Lazare
+T106	Hour 5147 5152	11h10
+T107	Location 5156 5165	Montreuil
+T108	Location 5168 5185	Seine-Saint-Denis
+T109	Organization 5198 5201	LFI
+T110	Person 5202 5217	Alexis Corbière
+T111	Organization 5246 5259	Gilets jaunes
+T112	Hour 5273 5278	11h15
+T113	Location 5313 5318	Paris
+T114	Hour 5326 5331	11h15
+T115	Location 5353 5367	Champs-Élysées
+T116	Hour 5482 5487	11h15
+T117	Organization 5510 5523	Opéra Garnier
+T118	Hour 5641 5646	11h18
+T119	Location 5674 5688	Champs-Élysées
+T120	Organization 5694 5707	Gilets jaunes
+T121	Hour 5821 5826	11h18
+T122	Location 5830 5842	Saint-Lazare
+T123	Organization 5857 5860	LFI
+T124	Person 5861 5874	Éric Coquerel
+T125	Person 5952 5970	Olivier Besancenot
+T126	Location 5973 5985	Saint-Lazare
+T127	Hour 5993 5998	11h20
+T128	Location 6050 6056	Champs
+T129	Location 6064 6079	Arc de Triomphe
+T130	Hour 6087 6092	11h30
+T131	Location 6127 6132	Paris
+T132	Hour 6140 6145	11h30
+T133	Location 6171 6185	Champs-Élysées
+T134	Location 6261 6287	avenue du Président-Wilson
+T135	Location 6289 6293	XVIe
+T136	Location 6311 6320	Trocadéro
+T137	Hour 6366 6371	11h35
+T138	Location 6379 6405	avenue du Président-Wilson
+T139	Organization 6526 6539	Gilets jaunes
+T140	Location 6551 6565	Champs-Élysées
+T141	Location 6582 6599	gare Saint-Lazare
+T142	Hour 6646 6651	11h40
+T143	Location 6700 6704	Iena
+T144	Location 6711 6723	Saint-Lazare
+T145	Hour 6773 6778	11h45
+T146	Location 6800 6814	Champs-Élysées
+T147	Hour 6997 7002	11h50
+T148	Location 7004 7031	avenue Pierre 1er de Serbie
+T149	Person 7011 7031	Pierre 1er de Serbie
+T150	Location 7025 7031	Serbie
+T151	Organization 7039 7049	voltigeurs
+T152	Date 7093 7097	1986
+T153	Hour 7121 7126	11h55
+T154	Location 7157 7170	Île-de-France
+T155	Location 7182 7187	Paris
+T156	Hour 7200 7203	12h
+T157	Location 7225 7239	Champs-Élysées
+T158	Hour 7308 7311	12h
+T159	Location 7313 7332	place de République
+T160	Location 7533 7538	Paris
+T161	Hour 7546 7549	12h
+T162	Location 7553 7565	Saint-Lazare
+T163	Organization 7619 7632	Gilets jaunes
+T164	Location 7644 7658	Champs-Élysées
+T165	Hour 7666 7671	12h00
+T166	Organization 7700 7719	Printemps Haussmann
+T167	Person 7710 7719	Haussmann
+T168	Hour 7744 7749	12h05
+T169	Location 7770 7775	Paris
+T170	Person 7777 7794	Danielle Simonnet
+T171	Organization 7796 7799	LFI
+T172	Hour 7862 7867	12h10
+T173	Organization 7871 7884	Opéra Garnier
+T174	Location 7928 7938	rue Scribe
+T175	Hour 7986 7991	12h40
+T176	Organization 8004 8009	Opéra
+T177	Organization 8014 8017	CGT
+T178	Hour 8045 8050	12h40
+T179	Location 8081 8094	Île-de-France
+T180	Hour 8123 8128	12h45
+T181	Hour 8184 8189	13h00
+T182	Organization 8202 8207	Opéra
+T183	Hour 8292 8297	13h00
+T184	Organization 8310 8315	Opéra
+T185	Person 8317 8335	Priscillia Ludosky
+T186	Person 8339 8353	Maxime Nicolle
+T187	Person 8365 8374	Fly Rider
+T188	Person 8401 8415	Maxime Nicolle
+T189	Organization 8476 8485	Parlement
+T190	Hour 8495 8500	13h30
+T191	Location 8540 8557	gare Saint-Lazare
+T192	Location 8578 8584	Champs
+T193	Location 8649 8671	place de la République
+T194	Hour 8679 8684	13h40
+T195	Location 8718 8724	France
+T196	Location 8760 8765	Paris
+T197	Location 8797 8816	boulevard Haussmann
+T198	Person 8807 8816	Haussmann
+T199	Location 8826 8840	Champs-Élysées
+T200	Organization 8855 8868	Opéra Garnier
+T201	Hour 8876 8881	13h50
+T202	Organization 8894 8907	Opéra Garnier
+T203	Hour 8975 8980	13h55
+T204	Organization 8993 8998	Opéra
+T205	Hour 9107 9112	14h00
+T206	Location 9123 9152	préfecture de Police de Paris
+T207	Organization 9123 9152	préfecture de Police de Paris
+T208	Location 9147 9152	Paris
+T209	Location 9195 9200	Paris
+T210	Hour 9247 9252	14h15
+T211	Location 9254 9276	place de la République
+T212	Organization 9312 9325	Gilets jaunes
+T213	Hour 9333 9338	14h25
+T214	Location 9351 9365	Champs-Élysées
+T215	Hour 9555 9560	14h30
+T216	Location 9570 9576	Champs
+T217	Location 9598 9611	rue La Boétie
+T218	Hour 9648 9653	14h45
+T219	Location 9660 9668	Bastille
+T220	Organization 9688 9701	Gilets jaunes
+T221	Hour 9752 9757	14h45
+T222	Person 9759 9774	Francis Palombi
+T223	Organization 9792 9831	Confédération des commerçants de France
+T224	Location 9825 9831	France
+T225	Organization 9849 9876	mouvement des Gilets jaunes
+T226	Hour 9970 9975	14h50
+T227	Organization 9986 10010	ministère de l’Intérieur
+T228	Location 10056 10062	France
+T229	Location 10076 10081	Paris
+T230	Hour 10089 10094	15h00
+T231	Location 10104 10118	Champs-Élysées
+T232	Hour 10355 10360	15h05
+T233	Organization 10373 10378	Opéra
+T234	Hour 10534 10539	15h10
+T235	Person 10541 10552	Éric Drouet
+T236	Organization 10565 10578	Gilets jaunes
+T237	Hour 10659 10664	15h15
+T238	Location 10666 10688	place de la République
+T239	Location 10784 10797	rue du Temple
+T240	Location 10826 10848	boulevard Saint-Martin
+T241	Person 10836 10848	Saint-Martin
+T242	Hour 10856 10861	15h40
+T243	Location 10871 10877	Champs
+T244	Hour 11001 11006	16h18
+T245	Location 11035 11040	Paris
+T246	Hour 11048 11053	16h15
+T247	Location 11055 11077	Place de la République
+T248	Location 11148 11156	Cameroun
+T249	Hour 11281 11286	16h30
+T250	Location 11296 11310	Champs-Élysées
+T251	Hour 11441 11446	16h40
+T252	Organization 11461 11470	Fouquet's
+T253	Location 11492 11505	avenue George
+T254	Person 11499 11507	George V
+T255	Location 11625 11639	Champs-Élysées
+T256	Hour 11647 11652	16h45
+T257	Organization 11663 11687	ministère de l'Intérieur
+T258	Location 11723 11729	France
+T259	Location 11759 11764	Paris
+T260	Hour 11772 11777	17h00
+T261	Location 11779 11798	place de République
+T262	Organization 11874 11895	Fluctuat Nec Mergitur
+T263	Organization 11938 11948	Rayon d'or
+T264	Hour 11969 11974	17h10
+T265	Hour 12091 12096	17h15
+T266	Location 12115 12131	forum des Halles
+T267	Location 12134 12139	Paris
+T268	Organization 12167 12174	Sephora
+T269	Person 12240 12252	Porte Lescot
+T270	Hour 12347 12352	17h21
+T271	Location 12378 12392	Champs-Élysées
+T272	Hour 12619 12624	17h25
+T273	Location 12640 12654	Champs-Élysées
+T274	Location 12664 12683	rue Arsène-Houssaye
+T275	Hour 12916 12921	17h30
+T276	Location 12923 12942	place de République
+T277	Organization 12970 12983	gilets jaunes
+T278	Hour 13007 13012	17h50
+T279	Location 13041 13046	Paris
+T280	Hour 13077 13082	17h55
+T281	Hour 13131 13136	18h00
+T282	Location 13165 13170	Paris
+T283	Hour 13201 13206	18h00
+T284	Location 13251 13256	Paris
+T285	Hour 13287 13292	18h30
+T286	Hour 13342 13347	19h20
+T287	Location 13405 13411	France
+T288	Location 13426 13431	Paris
+T289	Location 13436 13446	Strasbourg
+T290	Location 13499 13509	Strasbourg
+T291	Location 13553 13575	place de la République
+T292	Location 13601 13613	place Kléber
+T293	Location 13771 13783	place Kléber
+T294	Location 13895 13905	Strasbourg
+T295	Location 13983 13992	Cabestany
+T296	Location 13994 14013	Pyrénées-Orientales
+T297	Organization 14096 14109	Gilets jaunes
+T298	Location 14116 14125	Périgueux
+T299	Location 14226 14232	Nantes
+T300	Location 14400 14406	Annecy
+T301	Location 14486 14494	Bordeaux
+T302	Location 14566 14574	Toulouse
+T303	Location 14790 14799	Marseille
+T304	Date 14801 14805	2000
+T305	Location 14928 14941	Saint-Étienne
+T306	Location 15061 15082	Roquebrune-Cap-Martin
+T307	Location 15084 15099	Alpes-Maritimes
+T308	Organization 15106 15119	Gilets jaunes
+T309	Location 15190 15200	Strasbourg
+T310	Location 15205 15231	Longeville-lès-Saint-Avold
+T311	Location 15233 15240	Moselle
+T312	Location 15397 15403	France
+T313	Organization 15587 15600	Gilets jaunes
+T314	Location 15653 15655	A6
+T315	Location 15657 15659	A7
+T316	Location 15661 15663	A8
+T317	Location 15665 15667	A9
+T318	Location 15669 15672	A10
+T319	Location 15674 15677	A11
+T320	Location 15679 15682	A20
+T321	Location 15684 15687	A50
+T322	Location 15699 15708	La Ciotat
+T323	Location 15712 15718	Bandol
+T324	Location 15721 15724	A51
+T325	Location 15726 15729	A52
+T326	Location 15731 15747	Pont de l’Étoile
+T327	Location 15750 15753	A54
+T328	Location 15755 15760	Nîmes
+T329	Location 15762 15767	Grans
+T330	Location 15769 15786	Eyguières-Miramas
+T331	Location 15790 15810	Saint-Martin de Crau
+T332	Location 15813 15816	A57
+T333	Location 15818 15821	A61
+T334	Location 15823 15826	A62
+T335	Location 15828 15842	Valence d'Agen
+T336	Location 15845 15848	A63
+T337	Location 15850 15857	Bayonne
+T338	Location 15860 15863	A64
+T339	Location 15865 15868	A71
+T340	Location 15870 15873	A72
+T341	Location 15875 15878	A83
+T342	Location 15880 15883	A81
+T343	Location 15885 15888	A87
+T344	Location 15890 15893	A89
+T345	Location 15895 15899	A520
+T346	Location 15903 15907	A837
+T347	Location 15941 15944	A16
+T348	Organization 16002 16012	Eurotunnel
+T349	Location 16014 16020	Calais
+T350	Location 16124 16132	Belgique
+T351	Location 16215 16224	Bruxelles

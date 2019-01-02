@@ -1,0 +1,11 @@
+2018_06_01-001	https://fr.wikinews.org/wiki/États-Unis_:_décès_de_l'astronaute_Alan_Bean,_quatrième_homme_à_avoir_marché_sur_la_Lune
+2018_06_04-001	https://fr.wikinews.org/wiki/Guatemala_:_Un_volcan_fait_62_morts
+2018_06_07-001	https://fr.wikinews.org/wiki/Belgique_:_forte_baisse_du_nombre_des_affiliés_aux_syndicats
+2018_06_21-001	https://fr.wikinews.org/wiki/Japon_:_tremblement_de_terre_à_Osaka
+2018_06_23-001	https://fr.wikinews.org/wiki/Colombie_:_le_conservateur_Iván_Duque_remporte_l'élection_présidentielle
+2018_06_23-002	https://fr.wikinews.org/wiki/Hongrie_:_le_parlement_adopte_un_projet_de_loi_visant_à_criminaliser_l'aide_aux_migrants_sans_papiers
+2018_06_24-001	https://fr.wikinews.org/wiki/Éthiopie_:_attaque_à_Addis-Abeba_contre_le_Premier_ministre_Ahmed
+2018_06_24-002	https://fr.wikinews.org/wiki/Caraïbes_:_le_VIH_prend_des_proportions_épidémiques
+2018_06_24-003	https://fr.wikinews.org/wiki/Algérie_:_Internet_bloqué_dans_tout_le_pays_pour_empêcher_la_triche_lors_des_examens
+2018_06_25-001	https://fr.wikinews.org/wiki/Birmanie_:_la_Cour_pénale_internationale_donne_jusqu'au_27_juillet_pour_répondre_à_l'affaire_Rohingya
+2018_06_29-001	https://fr.wikinews.org/wiki/Eurovision_2019_:_la_France_choisira_son_candidat_via_l'émission_Destination_Eurovision

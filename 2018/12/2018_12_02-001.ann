@@ -1,0 +1,124 @@
+T1	Organization 0 13	Gilets jaunes
+T2	Date 16 40	dimanche 2 décembre 2018
+T3	Organization 119 128	Wikimedia
+T4	Organization 144 153	Wikipédia
+T5	Date 157 172	2 décembre 2018
+T6	Date 216 240	dimanche 2 décembre 2018
+T7	Date 293 305	1er décembre
+T8	Date 335 358	samedi 17 novembre 2018
+T9	Hour 396 413	2 heures du matin
+T10	Location 510 514	N113
+T11	Location 529 546	Raphèle-lès-Arles
+T12	Location 793 799	RN 113
+T13	Location 817 837	Saint-Martin-de-Crau
+T14	Location 841 846	Arles
+T15	Hour 898 903	22h30
+T16	Location 925 937	Fort-Nieulay
+T17	Location 940 946	Calais
+T18	Hour 1036 1049	3h00 du matin
+T19	Hour 1145 1158	1h00 du matin
+T20	Location 1269 1277	Narbonne
+T21	Location 1306 1308	A9
+T22	Location 1310 1331	Perpignan-Montpellier
+T23	Organization 1368 1373	VINCI
+T24	Hour 1516 1529	3h15 du matin
+T25	Location 1531 1543	rue de Lille
+T26	Location 1538 1543	Lille
+T27	Location 1546 1551	Paris
+T28	Location 1612 1617	Orsay
+T29	Location 1707 1709	A9
+T30	Location 1720 1724	Agde
+T31	Location 1730 1734	Sète
+T32	Location 1776 1783	Béziers
+T33	Location 1787 1793	Orange
+T34	Location 1799 1802	A20
+T35	Location 1816 1824	Aussonne
+T36	Location 1830 1833	A62
+T37	Location 1847 1861	Valence d’Agen
+T38	Location 1877 1891	Castelsarrasin
+T39	Location 1913 1916	A61
+T40	Location 1944 1961	Carcassonne ouest
+T41	Location 1967 1969	A7
+T42	Location 1984 1994	Montélimar
+T43	Location 2005 2012	Bollène
+T44	Location 2027 2040	Orange centre
+T45	Location 2042 2052	Orange sud
+T46	Location 2074 2076	A9
+T47	Location 2090 2102	Narbonne-sud
+T48	Location 2108 2111	A10
+T49	Location 2125 2135	Châtellera
+T50	Location 2155 2158	A11
+T51	Location 2172 2176	Mans
+T52	Location 2207 2210	A50
+T53	Location 2238 2247	La Ciotat
+T54	Location 2251 2257	Bandol
+T55	Location 2263 2266	A52
+T56	Location 2292 2308	Pont de l’Etoile
+T57	Location 2314 2316	A8
+T58	Location 2342 2351	La Barque
+T59	Location 2390 2392	A7
+T60	Location 2394 2396	A8
+T61	Location 2398 2400	A9
+T62	Location 2402 2405	A10
+T63	Location 2407 2410	A11
+T64	Location 2412 2415	A20
+T65	Location 2417 2420	A50
+T66	Location 2422 2425	A52
+T67	Location 2427 2431	A520
+T68	Location 2433 2436	A61
+T69	Location 2438 2441	A62
+T70	Location 2443 2446	A63
+T71	Location 2448 2451	A64
+T72	Location 2453 2456	A71
+T73	Location 2458 2461	A72
+T74	Location 2465 2468	A89
+T75	Hour 2476 2481	11h20
+T76	Person 2513 2528	Emmanuel Macron
+T77	Location 2541 2556	arc de Triomphe
+T78	Location 2559 2564	Paris
+T79	Organization 2627 2636	Intérieur
+T80	Person 2638 2657	Christophe Castaner
+T81	Person 2661 2674	Laurent Nuñez
+T82	Hour 2722 2727	11h45
+T83	Location 2729 2742	avenue Kléber
+T84	Location 2745 2750	Paris
+T85	Person 2782 2797	Emmanuel Macron
+T86	Hour 2932 2937	13h00
+T87	Hour 2940 2945	14h45
+T88	Location 3005 3011	Élysée
+T89	Person 3047 3062	Emmanuel Macron
+T90	Person 3084 3100	Édouard Philippe
+T91	Organization 3119 3128	Intérieur
+T92	Person 3129 3148	Christophe Castaner
+T93	Person 3172 3185	Laurent Nuñez
+T94	Organization 3221 3242	Transition écologique
+T95	Person 3243 3259	François de Rugy
+T96	Person 3336 3352	Édouard Philippe
+T97	Location 3484 3493	Finistère
+T98	Location 3585 3590	Brest
+T99	Location 3606 3611	Rouen
+T100	Location 3622 3628	France
+T101	Location 3697 3703	France
+T102	Organization 3736 3744	facebook
+T103	Organization 3758 3764	google
+T104	Organization 3770 3773	JDD
+T105	Date 3786 3805	dimanche 2 décembre
+T106	Person 3878 3893	Benjamin Cauchy
+T107	Location 3895 3904	Occitanie
+T108	Person 3907 3922	Jacline Mouraud
+T109	Location 3924 3932	Bretagne
+T110	Person 3935 3947	Cédric Guémy
+T111	Location 3949 3962	Île-de-France
+T112	Person 3965 3981	Chantal Perrotin
+T113	Location 3983 4003	Auvergne-Rhône-Alpes
+T114	Person 4006 4020	Cédric Delaire
+T115	Location 4022 4037	Hauts-de-France
+T116	Person 4040 4049	David Tan
+T117	Location 4051 4067	Pays de la Loire
+T118	Person 4070 4090	Christophe Chalençon
+T119	Location 4092 4118	Provence-Alpes-Côte d'Azur
+T120	Person 4121 4143	Ghjuvan-Andria Culioli
+T121	Person 4145 4155	David Roig
+T122	Location 4157 4162	Corse
+T123	Person 4167 4179	Damien Molin
+T124	Location 4181 4199	Nouvelle-Aquitaine

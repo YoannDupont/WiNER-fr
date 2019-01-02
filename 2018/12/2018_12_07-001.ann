@@ -1,0 +1,255 @@
+T1	Organization 0 13	Gilets jaunes
+T2	Date 16 40	vendredi 7 décembre 2018
+T3	Organization 119 128	Wikimedia
+T4	Organization 144 153	Wikipédia
+T5	Date 157 172	7 décembre 2018
+T6	Organization 197 210	gilets jaunes
+T7	Date 216 240	vendredi 7 décembre 2018
+T8	Date 293 303	6 décembre
+T9	Date 333 356	samedi 17 novembre 2018
+T10	Location 372 377	Paris
+T11	Location 388 402	Hauts-de-Seine
+T12	Location 413 421	Yvelines
+T13	Location 431 436	Rhône
+T14	Location 448 457	Haut-Rhin
+T15	Location 636 651	Arc de Triomphe
+T16	Location 792 800	Lucciana
+T17	Location 802 813	Haute-Corse
+T18	Hour 825 830	16h00
+T19	Hour 944 948	7h15
+T20	Person 950 965	Jacline Mouraud
+T21	Location 1148 1154	France
+T22	Hour 1164 1168	8h35
+T23	Person 1170 1180	Besancenot
+T24	Organization 1192 1195	NPA
+T25	Hour 1312 1316	8h50
+T26	Person 1318 1328	Besancenot
+T27	Hour 1366 1370	9h30
+T28	Person 1372 1383	Eric Drouet
+T29	Organization 1398 1400	Gj
+T30	Location 1416 1431	périph’parisien
+T31	Hour 1436 1438	9h
+T32	Organization 1540 1553	gilets jaunes
+T33	Hour 1563 1568	10h35
+T34	Organization 1570 1597	FO-Transports et Logistique
+T35	Hour 1657 1662	10h50
+T36	Person 1664 1672	Castaner
+T37	Organization 1691 1700	Intérieur
+T38	Location 1742 1748	France
+T39	Location 1971 1976	Paris
+T40	Hour 1981 1986	10h59
+T41	Person 2020 2033	Dupont-Aignan
+T42	Person 2075 2083	Castaner
+T43	Location 2107 2122	Arc de Triomphe
+T44	Organization 2141 2150	Intérieur
+T45	Person 2259 2274	Benoit Potterie
+T46	Organization 2283 2287	LREM
+T47	Location 2291 2304	Pas-de-Calais
+T48	Hour 2417 2422	12h00
+T49	Location 2426 2435	Montauban
+T50	Location 2437 2452	Tarn-et-Garonne
+T51	Organization 2618 2631	gilets jaunes
+T52	Location 2652 2660	Aussonne
+T53	Hour 2668 2673	12h10
+T54	Organization 2678 2681	CGT
+T55	Hour 2743 2748	12h15
+T56	Location 2759 2767	Yvelines
+T57	Hour 2866 2875	13 heures
+T58	Hour 2896 2905	13 heures
+T59	Location 2921 2934	Pas-de-Calais
+T60	Location 3065 3078	Pas-de-Calais
+T61	Location 3083 3087	Nord
+T62	Location 3096 3101	Aisne
+T63	Location 3250 3257	Gironde
+T64	Location 3262 3268	Creuse
+T65	Location 3273 3279	Vienne
+T66	Location 3284 3301	Charente-Maritime
+T67	Location 3306 3309	Var
+T68	Location 3314 3328	Seine-Maritime
+T69	Location 3333 3339	Loiret
+T70	Location 3346 3352	Vendée
+T71	Hour 3360 3365	12h15
+T72	Location 3369 3374	Paris
+T73	Hour 3518 3523	12h30
+T74	Person 3525 3540	Benjamin Cauchy
+T75	Organization 3568 3588	Gilets jaunes libres
+T76	Location 3633 3638	Paris
+T77	Location 3682 3688	France
+T78	Hour 3732 3737	12h30
+T79	Organization 3756 3761	Odoxa
+T80	Person 3807 3822	Emmanuel Macron
+T81	Hour 3830 3835	13h10
+T82	Person 3898 3916	Bernard-Henri Lévy
+T83	Person 3929 3946	Henri de Castries
+T84	Person 3948 3960	Maurice Lévy
+T85	Person 3964 3983	Jean-Marc Janaillac
+T86	Person 3994 4013	Jean-Pierre Mignard
+T87	Person 4029 4042	Hervé Le Bras
+T88	Person 4044 4058	Pierre Lescure
+T89	Person 4077 4093	Guillaume Durand
+T90	Person 4095 4107	Bruno Masure
+T91	Person 4109 4121	Aida Touihri
+T92	Person 4125 4138	Stéphane Bern
+T93	Person 4140 4159	Dominique Besnehard
+T94	Person 4161 4176	Maitena Biraben
+T95	Person 4178 4193	Michel Boujenah
+T96	Person 4195 4212	Thierry Lhermitte
+T97	Person 4223 4236	Cyril Hanouna
+T98	Organization 4257 4265	Parisien
+T99	Location 4283 4289	France
+T100	Hour 4297 4302	13h30
+T101	Organization 4319 4327	Le Point
+T102	Person 4340 4346	Macron
+T103	Person 4364 4381	Benjamin Griveaux
+T104	Organization 4519 4532	Gilets jaunes
+T105	Organization 4558 4566	Matignon
+T106	Hour 4648 4653	14h10
+T107	Organization 4668 4670	LR
+T108	Location 4684 4710	Provence-Alpes-Côte-d’Azur
+T109	Person 4711 4726	Renaud Muselier
+T110	Location 4756 4765	Marseille
+T111	Hour 4801 4806	14h30
+T112	Location 4810 4817	Limoges
+T113	Hour 5003 5008	14h50
+T114	Person 5040 5061	Nicolas Dupont-Aignan
+T115	Person 5238 5246	Castaner
+T116	Organization 5300 5313	Gilets jaunes
+T117	Organization 5444 5457	Gilets jaunes
+T118	Hour 5507 5512	15h25
+T119	Location 5516 5522	Élysée
+T120	Organization 5550 5570	gilets jaunes libres
+T121	Organization 5578 5586	Matignon
+T122	Hour 5637 5642	16h00
+T123	Organization 5653 5672	Assemblée nationale
+T124	Person 5674 5689	Jacline Mouraud
+T125	Location 5755 5760	Paris
+T126	Location 5811 5816	Paris
+T127	Hour 6026 6031	16h00
+T128	Person 6033 6042	Mélenchon
+T129	Organization 6118 6131	gilets jaunes
+T130	Hour 6148 6153	16h20
+T131	Location 6157 6161	Lyon
+T132	Location 6242 6262	Auvergne-Rhône-Alpes
+T133	Person 6284 6297	Etienne Blanc
+T134	Hour 6334 6339	16h40
+T135	Person 6341 6354	Marine Le Pen
+T136	Hour 6508 6513	17h10
+T137	Person 6542 6553	Éric Drouet
+T138	Location 6582 6588	Élysée
+T139	Person 6712 6723	Eric Drouet
+T140	Hour 6805 6810	17h10
+T141	Location 6814 6820	Nantes
+T142	Location 6824 6837	Saint-Nazaire
+T143	Location 6856 6872	Loire-Atlantique
+T144	Hour 6942 6947	17h20
+T145	Person 6949 6964	Benjamin Cauchy
+T146	Organization 6998 7018	Gilets jaunes libres
+T147	Person 7059 7075	Edouard Philippe
+T148	Organization 7078 7086	Matignon
+T149	Hour 7089 7094	20h30
+T150	Hour 7102 7107	18h18
+T151	Person 7109 7120	Éric Drouet
+T152	Organization 7172 7175	RTL
+T153	Location 7210 7231	périphérique parisien
+T154	Organization 7290 7303	Gilets jaunes
+T155	Hour 7326 7331	18h30
+T156	Organization 7346 7356	Libération
+T157	Hour 7460 7465	18h48
+T158	Person 7467 7480	Maxime Nicole
+T159	Person 7488 7497	Fly Rider
+T160	Person 7534 7545	Eric Drouet
+T161	Hour 7659 7664	18h50
+T162	Organization 7685 7697	Grand Orient
+T163	Person 7698 7718	Jean-Philippe Hubsch
+T164	Location 7784 7790	Élysée
+T165	Person 7822 7837	Emmanuel Macron
+T166	Hour 7866 7870	3h30
+T167	Person 7915 7925	Karl Olive
+T168	Person 7929 7944	Arnaud Péricard
+T169	Person 7946 7952	Macron
+T170	Hour 8028 8033	19h00
+T171	Organization 8162 8175	Gilets jaunes
+T172	Location 8215 8217	A7
+T173	Location 8219 8221	A8
+T174	Location 8223 8225	A9
+T175	Location 8227 8230	A10
+T176	Location 8232 8235	A11
+T177	Location 8237 8240	A20
+T178	Location 8242 8245	A50
+T179	Location 8257 8266	La Ciotat
+T180	Location 8270 8276	Bandol
+T181	Location 8279 8282	A51
+T182	Location 8284 8287	A52
+T183	Location 8289 8305	Pont de l’Étoile
+T184	Location 8308 8311	A57
+T185	Location 8313 8316	A61
+T186	Location 8318 8321	A62
+T187	Location 8323 8326	A63
+T188	Location 8328 8331	A64
+T189	Location 8333 8336	A71
+T190	Location 8338 8341	A72
+T191	Location 8343 8346	A83
+T192	Location 8348 8351	A81
+T193	Location 8353 8356	A87
+T194	Location 8358 8361	A89
+T195	Location 8363 8367	A520
+T196	Location 8371 8375	A837
+T197	Organization 8464 8523	Direction de la sécurité et de proximité de l’agglomération
+T198	Organization 8525 8530	DSPAP
+T199	Location 8562 8567	Paris
+T200	Location 8870 8875	Paris
+T201	Hour 8893 8898	19h30
+T202	Organization 8918 8925	Justice
+T203	Person 8926 8942	Nicole Belloubet
+T204	Hour 9095 9098	20h
+T205	Person 9100 9117	Sébastien Lecornu
+T206	Organization 9193 9206	Gilets jaunes
+T207	Location 9225 9231	Vernon
+T208	Location 9233 9237	Eure
+T209	Hour 9246 9251	20h05
+T210	Organization 9256 9269	CGT cheminots
+T211	Organization 9273 9277	RATP
+T212	Date 9306 9326	vendredi 14 décembre
+T213	Hour 9357 9362	20h45
+T214	Organization 9381 9391	OpinionWay
+T215	Organization 9427 9440	Gilets jaunes
+T216	Organization 9478 9501	La République en marche
+T217	Hour 9525 9530	20h45
+T218	Organization 9542 9550	Facebook
+T219	Hour 9602 9604	9h
+T220	Hour 9608 9611	11h
+T221	Location 9612 9625	porte Maillot
+T222	Location 9732 9744	périphérique
+T223	Hour 9754 9759	21h00
+T224	Organization 9805 9818	gilets jaunes
+T225	Organization 9835 9868	Intermarché de Monistrol-sur-Loir
+T226	Location 9850 9868	Monistrol-sur-Loir
+T227	Location 9870 9881	Haute-Loire
+T228	Hour 9962 9967	21h00
+T229	Organization 9985 9993	Matignon
+T230	Person 10021 10036	Jacline Mouraud
+T231	Hour 10379 10384	21h30
+T232	Person 10386 10401	Emmanuel Macron
+T233	Person 10403 10411	Castaner
+T234	Location 10490 10506	Nogent-sur-Marne
+T235	Location 10508 10520	Val-de-Marne
+T236	Hour 10586 10591	22h10
+T237	Person 10593 10613	Christophe Chalençon
+T238	Person 10642 10657	Emmanuel Macron
+T239	Hour 10755 10760	22h15
+T240	Person 10762 10777	Jacline Mouraud
+T241	Person 10828 10844	Édouard Philippe
+T242	Person 11039 11054	Benjamin Cauchy
+T243	Hour 11062 11067	22h40
+T244	Person 11069 11089	Christophe Chalençon
+T245	Hour 11247 11252	23h10
+T246	Person 11254 11264	Thibaud A.
+T247	Location 11304 11310	Eragny
+T248	Location 11312 11322	Val-d’Oise
+T249	Organization 11412 11420	Facebook
+T250	Organization 11425 11438	Gilets jaunes
+T251	Location 11549 11553	Mans
+T252	Location 11555 11561	Sarthe
+T253	Location 11575 11591	Port-la-Nouvelle
+T254	Location 11593 11597	Aude
+T255	Location 11622 11638	Bouches-du-Rhône

@@ -1,0 +1,5 @@
+2018_05_06-001	https://fr.wikinews.org/wiki/France_:_un_appel_à_témoins_après_la_disparition_inquiétante_de_Léa,_15_ans
+2018_05_13-001	https://fr.wikinews.org/wiki/Concours_Eurovision_de_la_chanson_2018_:_Israël_remporte_le_concours
+2018_05_22-001	https://fr.wikinews.org/wiki/Swaziland_:_le_roi_Mswati_III_renomme_le_pays_«_eSwatini_»
+2018_05_24-001	https://fr.wikinews.org/wiki/Monde_:_annulation_du_sommet_entre_les_Etats-Unis_et_la_Corée_du_Nord
+2018_05_26-001	https://fr.wikinews.org/wiki/États-Unis_:_Adobe_Systems_rachète_Magento_Commerce_pour_1,68_milliards_de_dollars_US

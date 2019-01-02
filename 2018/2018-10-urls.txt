@@ -1,0 +1,14 @@
+2018_10_01-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Trophée_Nebelhorn_2018
+2018_10_06-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Grand_Prix_Junior_de_Slovénie_2018
+2018_10_07-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Finlandia_Trophy_2018
+2018_10_09-001	https://fr.wikinews.org/wiki/Aigues-Mortes_:_une_femme_a_été_tuée_par_un_taureau
+2018_10_13-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_qualifications_pour_la_finale_du_Grand_Prix_Junior_2018
+2018_10_13-002	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Grand_Prix_Junior_d'Arménie_2018
+2018_10_18-001	https://fr.wikinews.org/wiki/Aude_:_déjà_14_morts_à_la_suite_des_orages_et_des_inondations
+2018_10_21-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Minsk-Arena_Ice_Star_2018
+2018_10_21-002	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_du_Minsk-Arena_Ice_Star_2018_junior
+2018_10_22-001	https://fr.wikinews.org/wiki/Québec_:_les_partis_d'opposition_nomment_leur_cabinet_fantôme_face_au_nouveau_gouvernement_de_la_CAQ
+2018_10_22-002	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_de_Skate_America_2018
+2018_10_27-001	https://fr.wikinews.org/wiki/Le_plan_budgétaire_de_l'Italie_est_rejeté_par_la_CE
+2018_10_28-001	https://fr.wikinews.org/wiki/Patinage_artistique_:_résultats_de_Skate_Canada_2018
+2018_10_29-001	https://fr.wikinews.org/wiki/Jair_Bolsonaro_est_élu_président_du_Brésil

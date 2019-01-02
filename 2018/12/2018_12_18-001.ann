@@ -1,0 +1,150 @@
+T1	Organization 0 13	Gilets jaunes
+T2	Date 16 33	mardi 18 décembre
+T3	Date 34 38	2018
+T4	Organization 117 126	Wikimedia
+T5	Organization 142 151	Wikipédia
+T6	Date 155 171	18 décembre 2018
+T7	Organization 196 209	gilets jaunes
+T8	Date 215 237	mardi 18 décembre 2018
+T9	Date 290 301	17 décembre
+T10	Date 331 354	samedi 18 novembre 2018
+T11	Location 391 396	Limay
+T12	Location 398 406	Yvelines
+T13	Organization 526 546	hôpital Henri-Mondor
+T14	Person 534 546	Henri-Mondor
+T15	Location 550 557	Créteil
+T16	Location 559 571	Val-de-Marne
+T17	Organization 593 600	france3
+T18	Organization 687 700	Gilets jaunes
+T19	Organization 817 830	Gilets jaunes
+T20	Location 1027 1033	Bandol
+T21	Location 1051 1054	A50
+T22	Location 1065 1074	Marseille
+T23	Location 1077 1083	Toulon
+T24	Hour 1163 1167	5h20
+T25	Location 1223 1228	Pinas
+T26	Location 1230 1245	Hautes-Pyrénées
+T27	Organization 1306 1319	Gilets jaunes
+T28	Location 1349 1355	France
+T29	Location 1392 1406	Saône-et-Loire
+T30	Organization 1434 1447	Gilets jaunes
+T31	Location 1478 1483	Mâcon
+T32	Location 1485 1495	Montchanin
+T33	Location 1497 1513	Dracy-Saint-Loup
+T34	Location 1517 1535	Montceau-les-Mines
+T35	Hour 1543 1545	6h
+T36	Location 1549 1557	Honfleur
+T37	Location 1559 1574	Haute-Normandie
+T38	Organization 1615 1628	Gilets jaunes
+T39	Location 1646 1659	Saint-Sauveur
+T40	Organization 1720 1733	Gilets jaunes
+T41	Location 1768 1792	Saint-Etienne-du-Rouvray
+T42	Location 1794 1809	Haute-Normandie
+T43	Organization 1850 1863	Gilets jaunes
+T44	Organization 1941 1947	Zénith
+T45	Location 1954 1962	la Motte
+T46	Location 2000 2013	Côtes-d'Armor
+T47	Organization 2053 2066	Gilets jaunes
+T48	Location 2069 2076	Lannion
+T49	Location 2078 2085	Quévert
+T50	Location 2087 2095	Guingamp
+T51	Location 2099 2111	Saint-Brieuc
+T52	Organization 2219 2232	Gilets jaunes
+T53	Location 2235 2242	Quimper
+T54	Location 2244 2253	Finistère
+T55	Location 2281 2288	Gironde
+T56	Location 2323 2329	Calais
+T57	Hour 2337 2341	6h10
+T58	Organization 2360 2365	Odoxa
+T59	Date 2386 2406	vendredi 14 décembre
+T60	Person 2432 2447	Emmanuel Macron
+T61	Person 2469 2485	Édouard Philippe
+T62	Hour 2499 2503	7h40
+T63	Person 2505 2520	Benjamin Cauchy
+T64	Organization 2541 2561	Gilets jaunes libres
+T65	Hour 2776 2780	8h45
+T66	Organization 2786 2789	LCI
+T67	Organization 2803 2805	LR
+T68	Person 2806 2822	Bruno Retailleau
+T69	Hour 2921 2925	9h50
+T70	Organization 2950 2955	Sanef
+T71	Organization 3081 3094	Gilets jaunes
+T72	Hour 3102 3107	15h20
+T73	Organization 3159 3178	Assemblée nationale
+T74	Organization 3305 3314	Intérieur
+T75	Person 3316 3335	Christophe Castaner
+T76	Organization 3546 3559	Gilets jaunes
+T77	Date 3571 3575	2019
+T78	Date 3752 3756	2019
+T79	Date 3805 3809	2022
+T80	Person 3817 3836	Christophe Castaner
+T81	Date 3961 3965	2019
+T82	Date 4041 4045	2019
+T83	Hour 4053 4058	17h20
+T84	Organization 4083 4099	Vinci Autoroutes
+T85	Organization 4256 4269	Gilets jaunes
+T86	Hour 4277 4282	18h00
+T87	Organization 4286 4291	Insee
+T88	Date 4334 4338	2018
+T89	Organization 4427 4440	Gilets jaunes
+T90	Organization 4575 4588	Gilets jaunes
+T91	Hour 4596 4601	18h12
+T92	Organization 4607 4610	LCI
+T93	Person 4612 4627	Benjamin Cauchy
+T94	Person 4679 4694	Jacline Mouraud
+T95	Person 4696 4708	Cédric Guémy
+T96	Person 4712 4726	Cédric Delaire
+T97	Hour 4734 4739	18h15
+T98	Person 4746 4762	Christophe Barré
+T99	Organization 4794 4807	Gilets jaunes
+T100	Person 4911 4929	Christophe Guilluy
+T101	Location 4953 4959	France
+T102	Location 5093 5099	France
+T103	Location 5113 5119	France
+T104	Person 5164 5181	Patrice Gueniffey
+T105	Location 5261 5270	Allemagne
+T106	Organization 5440 5453	Gilets jaunes
+T107	Hour 5788 5793	19h00
+T108	Organization 5832 5834	PS
+T109	Location 5838 5843	Paris
+T110	Person 5845 5860	David Assouline
+T111	Person 5890 5905	Emmanuel Macron
+T112	Organization 5921 5934	gilets jaunes
+T113	Person 5981 5998	Benjamin Griveaux
+T114	Person 6171 6186	David Assouline
+T115	Location 6343 6352	Puyricard
+T116	Location 6354 6370	Bouches-du-Rhône
+T117	Person 6408 6423	Mohamed Laqhila
+T118	Organization 6425 6430	MoDem
+T119	Organization 6431 6436	LaREM
+T120	Location 6473 6482	la Barque
+T121	Location 6484 6486	A7
+T122	Person 6566 6581	Mohamed Laqhila
+T123	Organization 6958 6971	Gilets jaunes
+T124	Location 7033 7035	A1
+T125	Location 7037 7039	A4
+T126	Location 7041 7044	A13
+T127	Location 7046 7049	A16
+T128	Location 7051 7054	A26
+T129	Location 7056 7059	A29
+T130	Location 7061 7065	A344
+T131	Location 7067 7069	A7
+T132	Location 7071 7073	A9
+T133	Location 7075 7078	A20
+T134	Location 7080 7083	A61
+T135	Location 7085 7088	A62
+T136	Location 7090 7093	A63
+T137	Location 7095 7098	A66
+T138	Location 7100 7104	A645
+T139	Location 7106 7109	A83
+T140	Location 7111 7114	A87
+T141	Location 7116 7119	A89
+T142	Location 7121 7125	A709
+T143	Location 7129 7132	A11
+T144	Location 7134 7136	A8
+T145	Location 7138 7141	A50
+T146	Location 7143 7146	A51
+T147	Location 7148 7151	A52
+T148	Location 7153 7157	A520
+T149	Location 7161 7164	A27
+T150	Location 7189 7200	Fos-sur-Mer

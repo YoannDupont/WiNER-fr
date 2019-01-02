@@ -1,0 +1,27 @@
+T1	Person 0 12	Carlos Ghosn
+T2	Organization 15 21	Nissan
+T3	Organization 63 67	fisc
+T4	Date 95 111	19 novembre 2018
+T5	Person 116 128	Carlos Ghosn
+T6	Organization 162 169	Renault
+T7	Organization 172 178	Nissan
+T8	Organization 202 215	fisc japonais
+T9	Organization 262 268	Nissan
+T10	Person 284 289	Ghosn
+T11	Organization 317 321	fisc
+T12	Person 352 357	Ghosn
+T13	Organization 432 436	fisc
+T14	Location 455 460	Tokyo
+T15	Organization 489 502	Asahi Shimbun
+T16	Organization 548 551	NHK
+T17	Organization 576 582	Nissan
+T18	Location 585 593	Yokohama
+T19	Organization 683 689	Nissan
+T20	Person 705 710	Ghosn
+T21	Organization 963 969	Nissan
+T22	Organization 1197 1203	Nissan
+T23	Organization 1281 1296	bourse de Paris
+T24	Location 1291 1296	Paris
+T25	Organization 1307 1314	Renault
+T26	Organization 1360 1368	Le Monde
+T27	Date 1447 1459	janvier 2005

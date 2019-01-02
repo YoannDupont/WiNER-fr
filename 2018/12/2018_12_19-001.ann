@@ -1,0 +1,124 @@
+T1	Organization 0 13	Gilets jaunes
+T2	Date 16 36	mercredi 19 décembre
+T3	Date 37 41	2018
+T4	Organization 120 129	Wikimedia
+T5	Organization 145 154	Wikipédia
+T6	Date 158 174	19 décembre 2018
+T7	Organization 199 212	gilets jaunes
+T8	Date 218 243	mercredi 19 décembre 2018
+T9	Date 296 307	18 décembre
+T10	Date 337 360	samedi 17 novembre 2018
+T11	Organization 417 422	Vinci
+T12	Location 435 441	Bessan
+T13	Location 443 450	Hérault
+T14	Location 458 460	A9
+T15	Organization 491 504	Gilets jaunes
+T16	Organization 604 617	Gilets jaunes
+T17	Location 698 704	Rungis
+T18	Location 706 719	Île de France
+T19	Location 726 733	Rousset
+T20	Location 735 751	Bouches-du-Rhône
+T21	Location 757 765	Belgique
+T22	Organization 771 784	Gilets jaunes
+T23	Location 820 826	Couvin
+T24	Location 828 836	Belgique
+T25	Location 844 856	Gué d'Hossus
+T26	Location 858 864	France
+T27	Location 880 889	Margencel
+T28	Location 891 903	Haute-Savoie
+T29	Organization 943 956	Gilets jaunes
+T30	Hour 992 996	6h00
+T31	Person 998 1018	Christophe Chalençon
+T32	Hour 1088 1092	7h20
+T33	Organization 1098 1103	BFMTV
+T34	Person 1105 1120	Benjamin Cauchy
+T35	Organization 1122 1133	Gilet jaune
+T36	Hour 1187 1191	7h40
+T37	Organization 1210 1213	Bva
+T38	Date 1226 1237	26 novembre
+T39	Date 1241 1252	06 décembre
+T40	Location 1325 1331	France
+T41	Location 1360 1366	France
+T42	Location 1417 1423	France
+T43	Location 1504 1508	Alès
+T44	Organization 1581 1594	Gilets jaunes
+T45	Hour 1630 1635	7h540
+T46	Person 1637 1656	Jean-Michel Aphatie
+T47	Organization 1684 1697	Gilets jaunes
+T48	Person 1701 1715	Maxime Nicolle
+T49	Person 1753 1764	Eric Drouet
+T50	Person 1783 1798	Étienne Chouard
+T51	Hour 1822 1826	9h45
+T52	Location 1830 1842	Saint-Dizier
+T53	Location 1908 1919	Haute-Marne
+T54	Hour 1928 1933	10h00
+T55	Organization 1952 1963	Opinion-way
+T56	Date 1976 1977	6
+T57	Date 1981 1992	12 décembre
+T58	Organization 2053 2066	Gilets Jaunes
+T59	Hour 2151 2156	12h30
+T60	Organization 2180 2184	Ifop
+T61	Date 2197 2199	14
+T62	Date 2203 2214	17 décembre
+T63	Person 2216 2234	Priscilla Ludowski
+T64	Date 2259 2263	2018
+T65	Person 2278 2291	Angela Merkel
+T66	Date 2354 2358	2019
+T67	Hour 2372 2377	12h30
+T68	Location 2381 2389	Narbonne
+T69	Location 2424 2431	Coursan
+T70	Organization 2535 2546	Gilet jaune
+T71	Hour 2590 2595	12h35
+T72	Location 2647 2653	Elysée
+T73	Person 2700 2717	Benjamin Griveaux
+T74	Hour 2965 2970	14h00
+T75	Location 2974 2977	Pau
+T76	Location 2979 2999	Pyrénées-Atlantiques
+T77	Organization 3006 3019	Gilets jaunes
+T78	Location 3049 3059	hippodrome
+T79	Event 3095 3101	Quinté
+T80	Hour 3109 3114	17h00
+T81	Organization 3138 3143	Elabe
+T82	Date 3157 3159	18
+T83	Date 3163 3174	19 décembre
+T84	Organization 3207 3234	mouvement des Gilets jaunes
+T85	Person 3396 3408	Marine LePen
+T86	Person 3429 3447	Jean-Luc Mélenchon
+T87	Person 3480 3495	Emmanuel Macron
+T88	Hour 3576 3581	19h15
+T89	Person 3583 3599	Laetitia Dewalle
+T90	Organization 3618 3631	Gilets jaunes
+T91	Location 3635 3645	Val d'Oise
+T92	Organization 3716 3729	Gilets jaunes
+T93	Person 3731 3743	Cédric Guémy
+T94	Organization 3758 3778	gilets jaunes libres
+T95	Location 3899 3906	Beauvau
+T96	Organization 4285 4298	Gilets jaunes
+T97	Location 4360 4362	A1
+T98	Location 4364 4366	A4
+T99	Location 4368 4371	A13
+T100	Location 4373 4376	A16
+T101	Location 4378 4381	A26
+T102	Location 4383 4386	A29
+T103	Location 4388 4392	A344
+T104	Location 4394 4396	A7
+T105	Location 4398 4400	A9
+T106	Location 4402 4405	A20
+T107	Location 4407 4410	A61
+T108	Location 4412 4415	A62
+T109	Location 4417 4420	A63
+T110	Location 4422 4425	A66
+T111	Location 4427 4431	A645
+T112	Location 4433 4436	A83
+T113	Location 4438 4441	A87
+T114	Location 4443 4446	A89
+T115	Location 4450 4452	A8
+T116	Location 4454 4457	A50
+T117	Location 4459 4462	A51
+T118	Location 4464 4467	A52
+T119	Location 4469 4473	A520
+T120	Location 4477 4480	A11
+T121	Location 4505 4516	Fos-sur-Mer
+T122	Location 4560 4569	Marseille
+T123	Location 4571 4575	Nice
+T124	Location 4579 4585	Toulon
