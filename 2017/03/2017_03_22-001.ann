@@ -4,8 +4,8 @@ T3	Date 62 74	22 mars 2017
 T4	Person 79 92	Bruno Le Roux
 T5	Organization 118 136	Intérieur français
 T6	Organization 329 332	TMC
-T7	Organization 335 344	Quotidien
-T8	Organization 351 360	Quotidien
+T7	Product 335 344	Quotidien
+T8	Product 351 360	Quotidien
 T9	Organization 410 419	Intérieur
 T10	Date 456 460	2009
 T11	Date 464 468	2016
@@ -23,7 +23,7 @@ T22	Person 2578 2589	Yves Rocher
 T23	Organization 2578 2589	Yves Rocher
 T24	Location 2607 2615	Belgique
 T25	Location 2675 2680	Paris
-T26	Organization 2690 2699	Quotidien
+T26	Product 2690 2699	Quotidien
 T27	Person 2741 2754	Bruno Le Roux
 T28	Organization 2787 2806	Assemblée nationale
 T29	Person 3134 3141	Le Roux

@@ -29,10 +29,10 @@ T28	Event 2616 2628	Ironman 70.3
 T29	Person 2631 2642	Daniela Ryf
 T30	Person 2729 2744	Heather Wurtele
 T31	Date 2762 2778	3 septembre 2016
-T32	Organization 2814 2822	Facebook
-T33	Organization 2825 2832	Twitter
-T34	Organization 2835 2841	Google
-T35	Organization 2844 2853	Identi.ca
-T36	Organization 2856 2862	Reddit
-T37	Organization 2865 2869	Digg
-T38	Organization 2872 2878	Yahoo!
+T32	Product 2814 2822	Facebook
+T33	Product 2825 2832	Twitter
+T34	Product 2835 2841	Google
+T35	Product 2844 2853	Identi.ca
+T36	Product 2856 2862	Reddit
+T37	Product 2865 2869	Digg
+T38	Product 2872 2878	Yahoo!

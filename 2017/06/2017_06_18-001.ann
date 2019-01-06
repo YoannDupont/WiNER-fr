@@ -32,10 +32,10 @@ T31	Person 3544 3559	Stéphane Bahier
 T32	Person 3617 3629	Andrew Lewis
 T33	Location 3786 3792	France
 T34	Date 3935 3947	18 juin 2017
-T35	Organization 3983 3991	Facebook
-T36	Organization 3994 4001	Twitter
-T37	Organization 4004 4010	Google
-T38	Organization 4013 4022	Identi.ca
-T39	Organization 4025 4031	Reddit
-T40	Organization 4034 4038	Digg
-T41	Organization 4041 4047	Yahoo!
+T35	Product 3983 3991	Facebook
+T36	Product 3994 4001	Twitter
+T37	Product 4004 4010	Google
+T38	Product 4013 4022	Identi.ca
+T39	Product 4025 4031	Reddit
+T40	Product 4034 4038	Digg
+T41	Product 4041 4047	Yahoo!

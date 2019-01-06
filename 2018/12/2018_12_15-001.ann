@@ -1,7 +1,7 @@
 T1	Organization 0 13	Gilets jaunes
 T2	Date 16 39	samedi 15 décembre 2018
-T3	Organization 118 127	Wikimedia
-T4	Organization 143 152	Wikipédia
+T3	Product 118 127	Wikimedia
+T4	Product 143 152	Wikipédia
 T5	Date 156 172	15 décembre 2018
 T6	Organization 202 215	gilets jaunes
 T7	Date 221 244	samedi 15 décembre 2018
@@ -32,10 +32,10 @@ T31	Location 2104 2109	Paris
 T32	Location 2124 2131	Chamant
 T33	Location 2133 2137	Oise
 T34	Location 2139 2141	A1
-T35	Organization 2147 2160	gare de Meaux
+T35	Location 2147 2160	gare de Meaux
 T36	Location 2155 2160	Meaux
 T37	Location 2162 2176	Seine-et-Marne
-T38	Organization 2179 2199	gare de Saint-Lazare
+T38	Location 2179 2199	gare de Saint-Lazare
 T39	Location 2187 2199	Saint-Lazare
 T40	Location 2201 2206	Paris
 T41	Location 2216 2220	Eure

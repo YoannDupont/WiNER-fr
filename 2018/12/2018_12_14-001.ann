@@ -1,7 +1,7 @@
 T1	Organization 0 13	Gilets jaunes
 T2	Date 16 41	vendredi 14 décembre 2018
-T3	Organization 120 129	Wikimedia
-T4	Organization 145 154	Wikipédia
+T3	Product 120 129	Wikimedia
+T4	Product 145 154	Wikipédia
 T5	Date 158 174	14 décembre 2018
 T6	Organization 199 212	gilets jaunes
 T7	Date 218 243	vendredi 14 décembre 2018
@@ -38,7 +38,7 @@ T37	Organization 1909 1913	Cnaf
 T38	Location 1916 1921	Bercy
 T39	Hour 2034 2039	23h00
 T40	Person 2041 2052	Eric Drouet
-T41	Organization 2066 2074	Facebook
+T41	Product 2066 2074	Facebook
 T42	Location 2129 2134	Opéra
 T43	Location 2137 2142	Paris
 T44	Location 2209 2219	Strasbourg

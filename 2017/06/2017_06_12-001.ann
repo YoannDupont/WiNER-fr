@@ -32,10 +32,10 @@ T31	Person 3781 3796	Fernando Alarza
 T32	Person 3919 3934	Pierre Le Corre
 T33	Person 3938 3950	Vincent Luis
 T34	Date 4017 4029	12 juin 2017
-T35	Organization 4065 4073	Facebook
-T36	Organization 4076 4083	Twitter
-T37	Organization 4086 4092	Google
-T38	Organization 4095 4104	Identi.ca
-T39	Organization 4107 4113	Reddit
-T40	Organization 4116 4120	Digg
-T41	Organization 4123 4129	Yahoo!
+T35	Product 4065 4073	Facebook
+T36	Product 4076 4083	Twitter
+T37	Product 4086 4092	Google
+T38	Product 4095 4104	Identi.ca
+T39	Product 4107 4113	Reddit
+T40	Product 4116 4120	Digg
+T41	Product 4123 4129	Yahoo!

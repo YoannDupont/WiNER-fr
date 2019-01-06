@@ -24,10 +24,10 @@ T23	Person 2848 2861	Carrie Lester
 T24	Person 2881 2899	Yvonne van Vlerken
 T25	Date 2910 2914	2015
 T26	Date 2971 2986	17 juillet 2016
-T27	Organization 3022 3030	Facebook
-T28	Organization 3033 3040	Twitter
-T29	Organization 3043 3049	Google
-T30	Organization 3052 3061	Identi.ca
-T31	Organization 3064 3070	Reddit
-T32	Organization 3073 3077	Digg
-T33	Organization 3080 3086	Yahoo!
+T27	Product 3022 3030	Facebook
+T28	Product 3033 3040	Twitter
+T29	Product 3043 3049	Google
+T30	Product 3052 3061	Identi.ca
+T31	Product 3064 3070	Reddit
+T32	Product 3073 3077	Digg
+T33	Product 3080 3086	Yahoo!

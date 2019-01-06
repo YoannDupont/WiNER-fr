@@ -1,9 +1,9 @@
-T1	Organization 10 19	Wikipédia
+T1	Product 10 19	Wikipédia
 T2	Location 30 37	Turquie
 T3	Organization 64 83	Fondation Wikimedia
 T4	Organization 145 164	Fondation Wikimedia
 T5	Date 167 180	29 avril 2017
-T6	Organization 255 264	Wikipédia
+T6	Product 255 264	Wikipédia
 T7	Location 284 291	Turquie
 T8	Hour 312 326	5 heure locale
 T9	Hour 328 335	2 h UTC
@@ -13,7 +13,7 @@ T12	Organization 623 682	Autorité des technologies de Communication et d'Inform
 T13	Organization 684 687	BTK
 T14	Organization 864 867	BTK
 T15	Location 921 928	Turquie
-T16	Organization 959 967	Facebook
-T17	Organization 970 977	Twitter
-T18	Organization 981 988	Youtube
+T16	Product 959 967	Facebook
+T17	Product 970 977	Twitter
+T18	Product 981 988	Youtube
 T19	Person 1011 1026	Binali Yildirim

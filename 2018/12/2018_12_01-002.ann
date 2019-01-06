@@ -12,7 +12,7 @@ T11	Location 464 478	Champs-Élysées
 T12	Location 545 560	Arc de Triomphe
 T13	Organization 731 740	intérieur
 T14	Person 751 770	Christophe Castaner
-T15	Organization 789 796	Twitter
+T15	Product 789 796	Twitter
 T16	Location 894 908	Champs-Élysées
 T17	Location 1096 1102	France
 T18	Location 1136 1141	Meaux
@@ -25,7 +25,7 @@ T24	Location 1351 1356	Paris
 T25	Person 1565 1581	Édouard Philippe
 T26	Organization 1614 1622	Matignon
 T27	Person 1669 1684	Emmanuel Macron
-T28	Organization 1733 1740	Twitter
+T28	Product 1733 1740	Twitter
 T29	Date 1770 1782	1er décembre
 T30	Location 1824 1829	Paris
 T31	Location 1924 1933	Argentine

@@ -1,16 +1,16 @@
 T1	Location 3 10	Turquie
-T2	Organization 21 30	Wikipédia
+T2	Product 21 30	Wikipédia
 T3	Date 58 68	3 mai 2017
 T4	Date 112 120	29 avril
 T5	Location 124 131	Turquie
 T6	Organization 153 212	Autorité des technologies de communication et d'information
 T7	Organization 214 217	BTK
 T8	Person 219 235	Ömer Fatih Sayan
-T9	Organization 247 256	Wikipédia
-T10	Organization 441 450	Wikipédia
+T9	Product 247 256	Wikipédia
+T10	Product 441 450	Wikipédia
 T11	Organization 544 551	Anadolu
 T12	Organization 685 693	Hürriyet
-T13	Organization 699 719	Wikimedia Foundation
-T14	Person 921 933	Jimmy Wales‏
-T15	Organization 948 957	Wikipédia
+T13	Product 699 719	Wikimedia Foundation
+T14	Person 921 933	Jimmy Wales
+T15	Product 948 957	Wikipédia
 T16	Location 1051 1059	Istanbul

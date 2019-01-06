@@ -6,13 +6,15 @@ T5	Date 168 174	4 mars
 T6	Organization 205 209	ORTF
 T7	Date 213 217	1952
 T8	Date 320 324	2006
-T9	Location 330 336	France
-T10	Organization 348 362	France Culture
-T11	Location 348 354	France
-T12	Person 627 639	Gilles Jacob
-T13	Person 940 947	Bourvil
-T14	Person 1024 1030	Averty
-T15	Person 1033 1048	Jacques Siclier
-T16	Organization 1066 1071	Monde
-T17	Date 1078 1082	2012
-T18	Organization 1117 1120	INA
+T9	Organization 330 342	France Inter
+T10	Location 330 336	France
+T11	Organization 348 362	France Culture
+T12	Location 348 354	France
+T13	Product 376 401	Les Cinglés du music-hall
+T14	Person 627 639	Gilles Jacob
+T15	Person 940 947	Bourvil
+T16	Person 1024 1030	Averty
+T17	Person 1033 1048	Jacques Siclier
+T18	Organization 1066 1071	Monde
+T19	Date 1078 1082	2012
+T20	Organization 1117 1120	INA

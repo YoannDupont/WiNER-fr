@@ -21,10 +21,10 @@ T20	Person 2030 2042	Rafael Ribei
 T21	Person 2415 2428	Cyril Viennot
 T22	Person 2577 2589	Matt Chrabot
 T23	Date 2703 2720	24 septembre 2016
-T24	Organization 2756 2764	Facebook
-T25	Organization 2767 2774	Twitter
-T26	Organization 2777 2783	Google
-T27	Organization 2786 2795	Identi.ca
-T28	Organization 2798 2804	Reddit
-T29	Organization 2807 2811	Digg
-T30	Organization 2814 2820	Yahoo!
+T24	Product 2756 2764	Facebook
+T25	Product 2767 2774	Twitter
+T26	Product 2777 2783	Google
+T27	Product 2786 2795	Identi.ca
+T28	Product 2798 2804	Reddit
+T29	Product 2807 2811	Digg
+T30	Product 2814 2820	Yahoo!

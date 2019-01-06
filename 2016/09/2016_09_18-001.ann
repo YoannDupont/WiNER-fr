@@ -34,10 +34,10 @@ T33	Organization 5093 5126	Fédération espagnole de triathlon
 T34	Person 5189 5206	Alistair Brownlee
 T35	Person 5356 5371	Fernando Alarza
 T36	Date 5689 5706	18 septembre 2016
-T37	Organization 5742 5750	Facebook
-T38	Organization 5753 5760	Twitter
-T39	Organization 5763 5769	Google
-T40	Organization 5772 5781	Identi.ca
-T41	Organization 5784 5790	Reddit
-T42	Organization 5793 5797	Digg
-T43	Organization 5800 5806	Yahoo!
+T37	Product 5742 5750	Facebook
+T38	Product 5753 5760	Twitter
+T39	Product 5763 5769	Google
+T40	Product 5772 5781	Identi.ca
+T41	Product 5784 5790	Reddit
+T42	Product 5793 5797	Digg
+T43	Product 5800 5806	Yahoo!

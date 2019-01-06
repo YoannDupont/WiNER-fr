@@ -1,7 +1,7 @@
 T1	Organization 0 13	Gilets jaunes
 T2	Date 16 41	dimanche 23 décembre 2018
-T3	Organization 120 129	Wikimedia
-T4	Organization 145 154	Wikipédia
+T3	Product 120 129	Wikimedia
+T4	Product 145 154	Wikipédia
 T5	Date 158 174	23 décembre 2018
 T6	Organization 199 212	gilets jaunes
 T7	Date 218 243	dimanche 23 décembre 2018
@@ -71,57 +71,58 @@ T70	Person 3797 3809	Alain Bouché
 T71	Person 3813 3832	Jean-Claude Resnier
 T72	Person 3904 3915	Eric Drouet
 T73	Hour 3958 3963	10h00
-T74	Organization 4018 4025	Europe1
-T75	Location 4043 4048	Paris
-T76	Person 4050 4064	Michel Aupetit
-T77	Location 4124 4130	France
-T78	Date 4134 4153	11 décembre dernier
-T79	Hour 4395 4400	10h30
-T80	Person 4402 4418	Philippe Chalmin
-T81	Organization 4435 4460	Université Paris Dauphine
-T82	Location 4446 4451	Paris
-T83	Organization 4478 4491	Gilets jaunes
-T84	Location 4516 4522	France
-T85	Location 4543 4549	France
-T86	Location 4577 4583	France
-T87	Hour 4608 4611	11h
-T88	Location 4620 4626	RN 106
-T89	Location 4629 4634	Dions
-T90	Location 4636 4640	Gard
-T91	Location 4702 4705	Ifs
-T92	Location 4707 4715	Calvados
-T93	Location 4841 4857	Nogent-le-Rotrou
-T94	Location 4859 4872	Eure-et-Loire
-T95	Location 4924 4935	place Sully
-T96	Location 4989 5005	Nogent-le-Rotrou
-T97	Person 5036 5047	Eric Drouet
-T98	Location 5098 5104	Margon
-T99	Location 5130 5147	Romilly-sur-Seine
-T100	Location 5149 5158	Bourgogne
-T101	Location 5161 5165	Aube
-T102	Organization 5352 5365	La Belle Idée
-T103	Hour 5373 5378	18h00
-T104	Organization 5439 5451	TGI de Paris
-T105	Location 5446 5451	Paris
-T106	Person 5453 5464	Eric Drouet
-T107	Location 5550 5555	Paris
-T108	Date 5643 5654	5 juin 2019
-T109	Hour 5661 5666	21h45
-T110	Location 5686 5692	france
-T111	Person 5704 5715	Eric Drouet
-T112	Person 5742 5753	Kheops Lara
-T113	Hour 5761 5766	20h00
-T114	Location 5780 5793	Perpignan-Sud
-T115	Location 5806 5808	A9
-T116	Hour 5927 5932	21h00
-T117	Location 5936 5956	Châlons-en-Champagne
-T118	Location 5958 5963	Marne
-T119	Organization 6038 6062	Gilets jaunes de Châlons
-T120	Location 6055 6062	Châlons
-T121	Person 6072 6079	Jacques
-T122	Person 6121 6129	Philippe
-T123	Organization 6319 6332	Gilets jaunes
-T124	Location 6374 6379	Paris
-T125	Person 6414 6420	Macron
-T126	Date 6467 6479	janvier 2019
-T127	Person 6514 6526	Ruth Elkrief
+T74	Product 3983 4003	Le grand rendez-vous
+T75	Organization 4018 4025	Europe1
+T76	Location 4043 4048	Paris
+T77	Person 4050 4064	Michel Aupetit
+T78	Location 4124 4130	France
+T79	Date 4134 4153	11 décembre dernier
+T80	Hour 4395 4400	10h30
+T81	Person 4402 4418	Philippe Chalmin
+T82	Organization 4435 4460	Université Paris Dauphine
+T83	Location 4446 4451	Paris
+T84	Organization 4478 4491	Gilets jaunes
+T85	Location 4516 4522	France
+T86	Location 4543 4549	France
+T87	Location 4577 4583	France
+T88	Hour 4608 4611	11h
+T89	Location 4620 4626	RN 106
+T90	Location 4629 4634	Dions
+T91	Location 4636 4640	Gard
+T92	Location 4702 4705	Ifs
+T93	Location 4707 4715	Calvados
+T94	Location 4841 4857	Nogent-le-Rotrou
+T95	Location 4859 4872	Eure-et-Loire
+T96	Location 4924 4935	place Sully
+T97	Location 4989 5005	Nogent-le-Rotrou
+T98	Person 5036 5047	Eric Drouet
+T99	Location 5098 5104	Margon
+T100	Location 5130 5147	Romilly-sur-Seine
+T101	Location 5149 5158	Bourgogne
+T102	Location 5161 5165	Aube
+T103	Organization 5352 5365	La Belle Idée
+T104	Hour 5373 5378	18h00
+T105	Organization 5439 5451	TGI de Paris
+T106	Location 5446 5451	Paris
+T107	Person 5453 5464	Eric Drouet
+T108	Location 5550 5555	Paris
+T109	Date 5643 5654	5 juin 2019
+T110	Hour 5661 5666	21h45
+T111	Location 5686 5692	france
+T112	Person 5704 5715	Eric Drouet
+T113	Person 5742 5753	Kheops Lara
+T114	Hour 5761 5766	20h00
+T115	Location 5780 5793	Perpignan-Sud
+T116	Location 5806 5808	A9
+T117	Hour 5927 5932	21h00
+T118	Location 5936 5956	Châlons-en-Champagne
+T119	Location 5958 5963	Marne
+T120	Organization 6038 6062	Gilets jaunes de Châlons
+T121	Location 6055 6062	Châlons
+T122	Person 6072 6079	Jacques
+T123	Person 6121 6129	Philippe
+T124	Organization 6319 6332	Gilets jaunes
+T125	Location 6374 6379	Paris
+T126	Person 6414 6420	Macron
+T127	Date 6467 6479	janvier 2019
+T128	Person 6514 6526	Ruth Elkrief

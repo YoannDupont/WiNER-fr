@@ -5,7 +5,7 @@ T4	Date 93 104	2 mars 2018
 T5	Person 109 123	William Luckey
 T6	Location 172 178	Newton
 T7	Location 188 199	Connecticut
-T8	Organization 271 279	Facebook
+T8	Product 271 279	Facebook
 T9	Product 322 332	Toys Story
 T10	Organization 336 359	Pixar Animation Studios
 T11	Person 364 377	Sheriff Woody
@@ -41,7 +41,7 @@ T40	Person 1294 1299	Annie
 T41	Person 1339 1345	Luckey
 T42	Date 1389 1393	2008
 T43	Date 1454 1458	2014
-T44	Organization 1473 1480	Twitter
+T44	Product 1473 1480	Twitter
 T45	Organization 1495 1500	Pixar
 T46	Person 1529 1539	Bud Luckey
 T47	Date 1564 1579	28 juillet 1934
@@ -49,7 +49,7 @@ T48	Date 1582 1597	24 février 2018
 T49	Person 1602 1613	Lee Unkrich
 T50	Product 1630 1641	Toy Story 3
 T51	Product 1645 1649	Coco
-T52	Organization 1663 1670	Twitter
+T52	Product 1663 1670	Twitter
 T53	Person 1708 1718	Bud Luckey
 T54	Person 1755 1763	Chuckles
 T55	Product 1769 1780	Toy Story 3

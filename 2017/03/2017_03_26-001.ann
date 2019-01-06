@@ -12,10 +12,10 @@ T11	Person 659 673	Cécile Lejeune
 T12	Location 750 756	Europe
 T13	Person 757 771	Sandra Levenez
 T14	Date 789 801	30 mars 2017
-T15	Organization 837 845	Facebook
-T16	Organization 848 855	Twitter
-T17	Organization 858 864	Google
-T18	Organization 867 876	Identi.ca
-T19	Organization 879 885	Reddit
-T20	Organization 888 892	Digg
-T21	Organization 895 901	Yahoo!
+T15	Product 837 845	Facebook
+T16	Product 848 855	Twitter
+T17	Product 858 864	Google
+T18	Product 867 876	Identi.ca
+T19	Product 879 885	Reddit
+T20	Product 888 892	Digg
+T21	Product 895 901	Yahoo!

@@ -23,10 +23,10 @@ T22	Location 714 725	Royaume-Uni
 T23	Organization 808 811	UER
 T24	Location 817 824	Ukraine
 T25	Date 974 985	11 mai 2017
-T26	Organization 1021 1029	Facebook
-T27	Organization 1032 1039	Twitter
-T28	Organization 1042 1048	Google
-T29	Organization 1051 1060	Identi.ca
-T30	Organization 1063 1069	Reddit
-T31	Organization 1072 1076	Digg
-T32	Organization 1079 1085	Yahoo!
+T26	Product 1021 1029	Facebook
+T27	Product 1032 1039	Twitter
+T28	Product 1042 1048	Google
+T29	Product 1051 1060	Identi.ca
+T30	Product 1063 1069	Reddit
+T31	Product 1072 1076	Digg
+T32	Product 1079 1085	Yahoo!

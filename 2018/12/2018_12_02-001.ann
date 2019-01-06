@@ -1,7 +1,7 @@
 T1	Organization 0 13	Gilets jaunes
 T2	Date 16 40	dimanche 2 décembre 2018
-T3	Organization 119 128	Wikimedia
-T4	Organization 144 153	Wikipédia
+T3	Product 119 128	Wikimedia
+T4	Product 144 153	Wikipédia
 T5	Date 157 172	2 décembre 2018
 T6	Date 216 240	dimanche 2 décembre 2018
 T7	Date 293 305	1er décembre
@@ -99,8 +99,8 @@ T98	Location 3585 3590	Brest
 T99	Location 3606 3611	Rouen
 T100	Location 3622 3628	France
 T101	Location 3697 3703	France
-T102	Organization 3736 3744	facebook
-T103	Organization 3758 3764	google
+T102	Product 3736 3744	facebook
+T103	Product 3758 3764	google
 T104	Organization 3770 3773	JDD
 T105	Date 3786 3805	dimanche 2 décembre
 T106	Person 3878 3893	Benjamin Cauchy

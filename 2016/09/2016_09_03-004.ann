@@ -27,10 +27,10 @@ T26	Person 1911 1922	Flora Duffy
 T27	Person 1941 1954	Vicky Holland
 T28	Person 1986 1997	Flora Duffy
 T29	Date 2086 2102	3 septembre 2016
-T30	Organization 2138 2146	Facebook
-T31	Organization 2149 2156	Twitter
-T32	Organization 2159 2165	Google
-T33	Organization 2168 2177	Identi.ca
-T34	Organization 2180 2186	Reddit
-T35	Organization 2189 2193	Digg
-T36	Organization 2196 2202	Yahoo!
+T30	Product 2138 2146	Facebook
+T31	Product 2149 2156	Twitter
+T32	Product 2159 2165	Google
+T33	Product 2168 2177	Identi.ca
+T34	Product 2180 2186	Reddit
+T35	Product 2189 2193	Digg
+T36	Product 2196 2202	Yahoo!

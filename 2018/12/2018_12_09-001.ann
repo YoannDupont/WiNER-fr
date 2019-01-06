@@ -1,7 +1,7 @@
 T1	Organization 0 13	Gilets jaunes
 T2	Date 16 40	dimanche 9 décembre 2018
-T3	Organization 119 128	Wikimedia
-T4	Organization 144 153	Wikipédia
+T3	Product 119 128	Wikimedia
+T4	Product 144 153	Wikipédia
 T5	Date 157 172	9 décembre 2018
 T6	Organization 197 210	gilets jaunes
 T7	Date 216 240	dimanche 9 décembre 2018
@@ -36,7 +36,7 @@ T35	Organization 1767 1778	Intermarché
 T36	Organization 1785 1792	Leclerc
 T37	Location 1814 1830	route de Bagnols
 T38	Organization 1854 1861	Hyper U
-T39	Organization 1871 1875	Uzès
+T39	Location 1871 1875	Uzès
 T40	Organization 1877 1886	Gibertine
 T41	Organization 1888 1891	KFC
 T42	Organization 1896 1900	Cora

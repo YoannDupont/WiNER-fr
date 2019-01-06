@@ -1,7 +1,7 @@
 T1	Organization 0 13	Gilets jaunes
 T2	Date 16 40	vendredi 7 décembre 2018
-T3	Organization 119 128	Wikimedia
-T4	Organization 144 153	Wikipédia
+T3	Product 119 128	Wikimedia
+T4	Product 144 153	Wikipédia
 T5	Date 157 172	7 décembre 2018
 T6	Organization 197 210	gilets jaunes
 T7	Date 216 240	vendredi 7 décembre 2018
@@ -215,7 +215,7 @@ T214	Organization 9381 9391	OpinionWay
 T215	Organization 9427 9440	Gilets jaunes
 T216	Organization 9478 9501	La République en marche
 T217	Hour 9525 9530	20h45
-T218	Organization 9542 9550	Facebook
+T218	Product 9542 9550	Facebook
 T219	Hour 9602 9604	9h
 T220	Hour 9608 9611	11h
 T221	Location 9612 9625	porte Maillot
@@ -246,7 +246,7 @@ T245	Hour 11247 11252	23h10
 T246	Person 11254 11264	Thibaud A.
 T247	Location 11304 11310	Eragny
 T248	Location 11312 11322	Val-d’Oise
-T249	Organization 11412 11420	Facebook
+T249	Product 11412 11420	Facebook
 T250	Organization 11425 11438	Gilets jaunes
 T251	Location 11549 11553	Mans
 T252	Location 11555 11561	Sarthe

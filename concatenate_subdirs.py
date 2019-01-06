@@ -9,7 +9,7 @@ from sem.exporters import BratExporter
 
 from concatenate_dir import make_data, NUM_NEWLINES
 
-def main(indirnames, outfilename, default_shift=0):
+def main(indirnames, outfilename, default_shift=0, top_level=False):
     dirs = []
     for indirname in indirnames:
         dirs.extend([os.path.join(indirname, name) for name in sorted(os.listdir(indirname)) if os.path.isdir(os.path.join(indirname, name))])
@@ -18,7 +18,7 @@ def main(indirnames, outfilename, default_shift=0):
     annotations = []
     shift = 0
     for dirname in dirs:
-        cur_contents, cur_annotations, cur_shift = make_data(dirname, default_shift=shift)
+        cur_contents, cur_annotations, cur_shift = make_data(dirname, default_shift=shift, top_level=top_level)
         contents.extend(cur_contents)
         annotations.extend(cur_annotations)
         shift = cur_shift
@@ -39,7 +39,9 @@ if __name__ == "__main__":
                         help="the input directories")
     parser.add_argument("outfilename",
                         help="the output file name")
+    parser.add_argument("-t", "--top-level", action="store_true",
+                        help="Get top level annotations")
     
     args = parser.parse_args()
-    main(args.indirnames, args.outfilename)
+    main(args.indirnames, args.outfilename, top_level=args.top_level)
     sys.exit(0)

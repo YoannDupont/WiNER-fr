@@ -18,6 +18,6 @@ T17	Person 1414 1421	Schultz
 T18	Organization 1499 1505	Airbnb
 T19	Organization 1565 1570	Apple
 T20	Organization 1573 1580	Netflix
-T21	Organization 1583 1589	Google
+T21	Product 1583 1589	Google
 T22	Organization 1592 1601	Microsoft
-T23	Organization 1604 1611	Twitter
+T23	Product 1604 1611	Twitter

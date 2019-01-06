@@ -1,7 +1,7 @@
 T1	Organization 0 13	Gilets jaunes
 T2	Date 16 39	samedi 22 décembre 2018
-T3	Organization 118 127	Wikimedia
-T4	Organization 143 152	Wikipédia
+T3	Product 118 127	Wikimedia
+T4	Product 143 152	Wikipédia
 T5	Date 156 172	22 décembre 2018
 T6	Organization 202 215	gilets jaunes
 T7	Date 221 244	samedi 22 décembre 2018
@@ -51,7 +51,7 @@ T50	Location 3098 3118	place de la Concorde
 T51	Hour 3126 3130	9h00
 T52	Person 3132 3143	Eric Drouet
 T53	Organization 3156 3169	Gilets jaunes
-T54	Organization 3192 3200	Facebook
+T54	Product 3192 3200	Facebook
 T55	Location 3246 3256	Montmartre
 T56	Hour 3264 3268	9h40
 T57	Location 3296 3306	Montmartre

@@ -1,7 +1,8 @@
 T1	Location 0 6	France
 T2	Person 32 54	Jean-Christophe Victor
 T3	Date 56 72	30 décembre 2016
-T4	Person 155 177	Jean-Christophe Victor
-T5	Person 202 219	Paul-Émile Victor
-T6	Date 236 247	28 décembre
-T7	Location 269 280	Montpellier
+T4	Product 130 151	Le Dessous des cartes
+T5	Person 155 177	Jean-Christophe Victor
+T6	Person 202 219	Paul-Émile Victor
+T7	Date 236 247	28 décembre
+T8	Location 269 280	Montpellier

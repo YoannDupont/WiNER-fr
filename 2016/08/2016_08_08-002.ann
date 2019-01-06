@@ -1,4 +1,4 @@
-T1	Organization 0 8	Facebook
+T1	Product 0 8	Facebook
 T2	Product 45 53	Snapchat
 T3	Date 55 66	8 août 2016
 T4	Person 87 102	Mark Zuckerberg
@@ -6,12 +6,12 @@ T5	Product 191 199	Snapchat
 T6	Date 223 229	2 août
 T7	Product 254 263	Instagram
 T8	Product 289 297	Snapchat
-T9	Organization 299 307	Facebook
+T9	Product 299 307	Facebook
 T10	Location 327 333	Brésil
 T11	Location 340 346	Canada
 T12	Product 391 399	Snapchat
 T13	Product 497 505	Snapchat
-T14	Organization 507 515	Facebook
+T14	Product 507 515	Facebook
 T15	Product 571 579	Snapchat
 T16	Product 581 585	Poke
 T17	Product 587 591	Poke
@@ -19,49 +19,49 @@ T18	Date 602 615	décembre 2012
 T19	Person 686 701	Mark Zuckerberg
 T20	Product 733 737	Poke
 T21	Date 793 806	novembre 2013
-T22	Organization 808 816	Facebook
+T22	Product 808 816	Facebook
 T23	Product 835 843	Snapchat
 T24	Product 977 985	Snapchat
 T25	Person 987 999	Evan Spiegel
 T26	Date 1004 1008	2014
-T27	Organization 1010 1018	Facebook
+T27	Product 1010 1018	Facebook
 T28	Date 1057 1061	2014
 T29	Product 1063 1072	Slingshot
 T30	Product 1074 1083	Slingshot
 T31	Product 1108 1112	Poke
 T32	Product 1202 1210	Snapchat
-T33	Organization 1247 1255	Facebook
+T33	Product 1247 1255	Facebook
 T34	Product 1257 1265	Snapchat
-T35	Organization 1465 1473	Facebook
+T35	Product 1465 1473	Facebook
 T36	Product 1538 1546	Snapchat
-T37	Organization 1579 1587	Facebook
-T38	Organization 1601 1609	Facebook
+T37	Product 1579 1587	Facebook
+T38	Product 1601 1609	Facebook
 T39	Product 1719 1728	Instagram
-T40	Organization 1732 1740	Facebook
-T41	Organization 1742 1750	Facebook
+T40	Product 1732 1740	Facebook
+T41	Product 1742 1750	Facebook
 T42	Date 1850 1854	2016
 T43	Organization 1887 1895	ComScore
 T44	Date 1899 1903	2015
-T45	Organization 2001 2009	Facebook
+T45	Product 2001 2009	Facebook
 T46	Product 2022 2030	Snapchat
 T47	Product 2065 2073	Snapchat
 T48	Product 2122 2131	Instagram
-T49	Organization 2147 2155	Facebook
+T49	Product 2147 2155	Facebook
 T50	Product 2221 2229	Snapchat
 T51	Product 2308 2317	Instagram
-T52	Organization 2333 2341	Facebook
+T52	Product 2333 2341	Facebook
 T53	Product 2385 2393	Snapchat
-T54	Organization 2423 2431	Facebook
+T54	Product 2423 2431	Facebook
 T55	Product 2466 2475	Instagram
 T56	Date 2663 2677	2 août dernier
 T57	Product 2679 2688	Instagram
-T58	Organization 2722 2730	Facebook
+T58	Product 2722 2730	Facebook
 T59	Product 2738 2746	Snapchat
-T60	Organization 3097 3105	Facebook
+T60	Product 3097 3105	Facebook
 T61	Person 3141 3156	Mark Zuckerberg
 T62	Location 3197 3203	Brésil
 T63	Location 3210 3216	Canada
-T64	Organization 3232 3240	Facebook
+T64	Product 3232 3240	Facebook
 T65	Product 3277 3285	Snapchat
-T66	Organization 3374 3382	Facebook
+T66	Product 3374 3382	Facebook
 T67	Product 3433 3438	MSQRD

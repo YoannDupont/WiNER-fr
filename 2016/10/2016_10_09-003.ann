@@ -8,6 +8,13 @@ T7	Hour 165 182	3 heures du matin
 T8	Person 213 234	Pierre Magic Tchernia
 T9	Person 240 255	Monsieur Cinéma
 T10	Person 258 273	Pierre Tchernia
-T11	Date 615 619	1994
-T12	Date 622 626	2006
-T13	Person 628 643	Pierre Tchernia
+T11	Product 507 522	Monsieur cinéma
+T12	Product 525 537	Jeudi cinéma
+T13	Product 540 552	Mardi cinéma
+T14	Product 556 571	Bonjour la télé
+T15	Product 593 611	Enfants de la télé
+T16	Date 615 619	1994
+T17	Date 622 626	2006
+T18	Person 628 643	Pierre Tchernia
+T19	Product 672 681	Le Viager
+T20	Product 684 696	Les Gaspards

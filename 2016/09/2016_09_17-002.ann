@@ -20,10 +20,10 @@ T19	Person 1742 1756	Austin Hindman
 T20	Person 1760 1772	Taylor Knibb
 T21	Person 1855 1874	Cassandre Beaugrand
 T22	Date 1957 1974	17 septembre 2016
-T23	Organization 2010 2018	Facebook
-T24	Organization 2021 2028	Twitter
-T25	Organization 2031 2037	Google
-T26	Organization 2040 2049	Identi.ca
-T27	Organization 2052 2058	Reddit
-T28	Organization 2061 2065	Digg
-T29	Organization 2068 2074	Yahoo!
+T23	Product 2010 2018	Facebook
+T24	Product 2021 2028	Twitter
+T25	Product 2031 2037	Google
+T26	Product 2040 2049	Identi.ca
+T27	Product 2052 2058	Reddit
+T28	Product 2061 2065	Digg
+T29	Product 2068 2074	Yahoo!

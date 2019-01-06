@@ -8,10 +8,10 @@ T7	Location 321 326	Paris
 T8	Hour 330 339	20 heures
 T9	Location 342 356	Rio de Janeiro
 T10	Date 393 405	21 août 2016
-T11	Organization 441 449	Facebook
-T12	Organization 452 459	Twitter
-T13	Organization 462 468	Google
-T14	Organization 471 480	Identi.ca
-T15	Organization 483 489	Reddit
-T16	Organization 492 496	Digg
-T17	Organization 499 505	Yahoo!
+T11	Product 441 449	Facebook
+T12	Product 452 459	Twitter
+T13	Product 462 468	Google
+T14	Product 471 480	Identi.ca
+T15	Product 483 489	Reddit
+T16	Product 492 496	Digg
+T17	Product 499 505	Yahoo!

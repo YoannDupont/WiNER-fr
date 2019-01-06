@@ -1,27 +1,29 @@
-T1	Organization 0 7	YouTube
+T1	Product 0 7	YouTube
 T2	Date 72 83	9 août 2018
 T3	Date 296 307	6 août 2018
 T4	Person 322 330	Squeezie
-T5	Organization 357 364	Twitter
-T6	Organization 550 557	Twitter
-T7	Organization 788 796	Parisien
-T8	Person 855 868	WassFreestyle
-T9	Person 901 918	From Human to GOD
-T10	Person 943 955	Math Podcast
-T11	Person 1002 1016	Anthox Colaboy
-T12	Organization 1066 1073	Youtube
-T13	Organization 1449 1457	Parisien
-T14	Person 1511 1525	Norman Thavaud
-T15	Person 1567 1575	Squeezie
-T16	Organization 1567 1575	Squeezie
-T17	Person 1637 1647	InThePanda
-T18	Person 1742 1756	Anthox Colaboy
-T19	Organization 1769 1776	Twitter
-T20	Organization 1998 2005	Twitter
-T21	Person 2007 2024	From Human to GOD
-T22	Person 2186 2197	MathPodcast
-T23	Person 2484 2491	Cyprien
-T24	Person 2580 2591	TiboInShape
-T25	Organization 2669 2676	YouTube
-T26	Person 2691 2708	Joueur du Grenier
-T27	Location 2860 2866	France
+T5	Product 357 364	Twitter
+T6	Product 550 557	Twitter
+T7	Person 688 697	Weinstein
+T8	Organization 788 796	Parisien
+T9	Person 855 868	WassFreestyle
+T10	Person 901 918	From Human to GOD
+T11	Person 943 955	Math Podcast
+T12	Person 1002 1016	Anthox Colaboy
+T13	Product 1066 1073	Youtube
+T14	Organization 1449 1457	Parisien
+T15	Person 1511 1525	Norman Thavaud
+T16	Person 1567 1575	Squeezie
+T17	Organization 1567 1575	Squeezie
+T18	Person 1637 1647	InThePanda
+T19	Person 1742 1756	Anthox Colaboy
+T20	Product 1769 1776	Twitter
+T21	Product 1998 2005	Twitter
+T22	Person 2007 2024	From Human to GOD
+T23	Person 2186 2197	MathPodcast
+T24	Product 2298 2320	Touche pas à mon poste
+T25	Person 2484 2491	Cyprien
+T26	Person 2580 2591	TiboInShape
+T27	Product 2669 2676	YouTube
+T28	Person 2691 2708	Joueur du Grenier
+T29	Location 2860 2866	France

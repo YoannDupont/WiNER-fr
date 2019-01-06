@@ -1,7 +1,7 @@
 T1	Organization 0 13	Gilets jaunes
 T2	Date 16 33	lundi 24 décembre
 T3	Date 34 38	2018
-T4	Organization 142 151	Wikipédia
+T4	Product 142 151	Wikipédia
 T5	Date 155 171	24 décembre 2018
 T6	Organization 196 209	Gilets jaunes
 T7	Date 215 237	lundi 24 décembre 2018
@@ -63,7 +63,7 @@ T62	Person 3464 3479	Jacline Mouraud
 T63	Organization 3610 3623	Gilets jaunes
 T64	Organization 3670 3683	Gilets jaunes
 T65	Organization 3731 3744	Gilets jaunes
-T66	Organization 3777 3785	Facebook
+T66	Product 3777 3785	Facebook
 T67	Hour 4017 4022	14h00
 T68	Person 4144 4164	Christophe Chalençon
 T69	Location 4646 4652	France

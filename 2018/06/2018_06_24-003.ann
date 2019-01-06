@@ -3,11 +3,11 @@ T2	Date 86 98	24 juin 2018
 T3	Date 297 313	mercredi 20 juin
 T4	Organization 357 363	Oracle
 T5	Organization 373 393	Agence France Presse
-T6	Organization 550 558	Facebook
+T6	Product 550 558	Facebook
 T7	Date 601 610	juin 2016
-T8	Organization 711 719	Facebook
-T9	Organization 798 805	Twitter
-T10	Organization 809 817	Facebook
+T8	Product 711 719	Facebook
+T9	Product 798 805	Twitter
+T10	Product 809 817	Facebook
 T11	Date 1327 1337	22 juillet
 T12	Person 1377 1394	Nouria Benghabrit
 T13	Person 1607 1622	Algérie Télécom

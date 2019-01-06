@@ -25,10 +25,10 @@ T24	Person 3119 3131	Non Stanford
 T25	Person 3149 3168	Cassandre Beaugrand
 T26	Person 3172 3184	Audrey Merle
 T27	Date 3282 3294	20 août 2016
-T28	Organization 3330 3338	Facebook
-T29	Organization 3341 3348	Twitter
-T30	Organization 3351 3357	Google
-T31	Organization 3360 3369	Identi.ca
-T32	Organization 3372 3378	Reddit
-T33	Organization 3381 3385	Digg
-T34	Organization 3388 3394	Yahoo!
+T28	Product 3330 3338	Facebook
+T29	Product 3341 3348	Twitter
+T30	Product 3351 3357	Google
+T31	Product 3360 3369	Identi.ca
+T32	Product 3372 3378	Reddit
+T33	Product 3381 3385	Digg
+T34	Product 3388 3394	Yahoo!

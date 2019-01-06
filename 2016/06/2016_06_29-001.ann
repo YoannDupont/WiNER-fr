@@ -21,10 +21,10 @@ T20	Person 1654 1676	Myriam Guillot-Boisset
 T21	Location 1750 1756	Europe
 T22	Person 1779 1792	Renata Bucher
 T23	Date 1810 1822	29 juin 2016
-T24	Organization 1858 1866	Facebook
-T25	Organization 1869 1876	Twitter
-T26	Organization 1879 1885	Google
-T27	Organization 1888 1897	Identi.ca
-T28	Organization 1900 1906	Reddit
-T29	Organization 1909 1913	Digg
-T30	Organization 1916 1922	Yahoo!
+T24	Product 1858 1866	Facebook
+T25	Product 1869 1876	Twitter
+T26	Product 1879 1885	Google
+T27	Product 1888 1897	Identi.ca
+T28	Product 1900 1906	Reddit
+T29	Product 1909 1913	Digg
+T30	Product 1916 1922	Yahoo!

@@ -28,10 +28,10 @@ T27	Location 4060 4069	Allemagne
 T28	Date 4081 4085	2013
 T29	Event 4101 4118	7 e étape des WTS
 T30	Date 4135 4150	16 juillet 2016
-T31	Organization 4186 4194	Facebook
-T32	Organization 4197 4204	Twitter
-T33	Organization 4207 4213	Google
-T34	Organization 4216 4225	Identi.ca
-T35	Organization 4228 4234	Reddit
-T36	Organization 4237 4241	Digg
-T37	Organization 4244 4250	Yahoo!
+T31	Product 4186 4194	Facebook
+T32	Product 4197 4204	Twitter
+T33	Product 4207 4213	Google
+T34	Product 4216 4225	Identi.ca
+T35	Product 4228 4234	Reddit
+T36	Product 4237 4241	Digg
+T37	Product 4244 4250	Yahoo!

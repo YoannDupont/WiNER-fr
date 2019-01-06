@@ -1,7 +1,7 @@
 T1	Organization 0 13	Gilets jaunes
 T2	Date 16 37	mardi 4 décembre 2018
-T3	Organization 116 125	Wikimedia
-T4	Organization 141 150	Wikipédia
+T3	Product 116 125	Wikimedia
+T4	Product 141 150	Wikipédia
 T5	Date 154 169	4 décembre 2018
 T6	Organization 194 207	gilets jaunes
 T7	Date 213 234	mardi 4 décembre 2018
@@ -20,7 +20,7 @@ T19	Person 633 650	François Hollande
 T20	Person 678 694	Edouard Philippe
 T21	Hour 702 707	10h40
 T22	Date 742 758	30 novembre 2018
-T23	Organization 819 825	Amazon
+T23	Product 819 825	Amazon
 T24	Hour 1041 1046	10h50
 T25	Person 1048 1063	Benjamin Cauchy
 T26	Organization 1084 1091	Citrons

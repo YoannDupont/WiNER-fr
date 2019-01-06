@@ -9,6 +9,6 @@ T8	Location 849 857	Istanbul
 T9	Organization 858 865	Atatürk
 T10	Person 858 865	Atatürk
 T11	Organization 1024 1027	TRT
-T12	Organization 1050 1057	Twitter
-T13	Organization 1061 1069	Facebook
-T14	Organization 1080 1087	YouTube
+T12	Product 1050 1057	Twitter
+T13	Product 1061 1069	Facebook
+T14	Product 1080 1087	YouTube

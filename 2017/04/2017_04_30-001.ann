@@ -17,10 +17,10 @@ T16	Date 1457 1461	2016
 T17	Person 1486 1501	Nathan Guerbeur
 T18	Location 1545 1551	France
 T19	Date 1621 1634	30 avril 2017
-T20	Organization 1670 1678	Facebook
-T21	Organization 1681 1688	Twitter
-T22	Organization 1691 1697	Google
-T23	Organization 1700 1709	Identi.ca
-T24	Organization 1712 1718	Reddit
-T25	Organization 1721 1725	Digg
-T26	Organization 1728 1734	Yahoo!
+T20	Product 1670 1678	Facebook
+T21	Product 1681 1688	Twitter
+T22	Product 1691 1697	Google
+T23	Product 1700 1709	Identi.ca
+T24	Product 1712 1718	Reddit
+T25	Product 1721 1725	Digg
+T26	Product 1728 1734	Yahoo!

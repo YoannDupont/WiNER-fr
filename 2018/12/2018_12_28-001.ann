@@ -1,7 +1,7 @@
 T1	Organization 0 13	Gilets jaunes
 T2	Date 16 41	vendredi 28 décembre 2018
-T3	Organization 120 129	Wikimedia
-T4	Organization 145 154	Wikipédia
+T3	Product 120 129	Wikimedia
+T4	Product 145 154	Wikipédia
 T5	Date 158 174	28 décembre 2018
 T6	Organization 199 212	Gilets jaunes
 T7	Date 218 243	vendredi 28 décembre 2018
@@ -38,7 +38,7 @@ T37	Hour 2381 2386	18h00
 T38	Location 2390 2393	Lux
 T39	Location 2395 2409	Saône-et-Loire
 T40	Organization 2416 2429	Gilets jaunes
-T41	Organization 2454 2460	Amazon
+T41	Product 2454 2460	Amazon
 T42	Hour 2467 2472	19h00
 T43	Organization 2501 2514	Gilets jaunes
 T44	Hour 2578 2583	21h30

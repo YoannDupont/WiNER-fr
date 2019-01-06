@@ -41,10 +41,10 @@ T40	Location 3840 3851	Britannique
 T41	Person 4085 4095	Sara Vilic
 T42	Event 4146 4149	WTS
 T43	Date 4166 4177	5 mars 2017
-T44	Organization 4213 4221	Facebook
-T45	Organization 4224 4231	Twitter
-T46	Organization 4234 4240	Google
-T47	Organization 4243 4252	Identi.ca
-T48	Organization 4255 4261	Reddit
-T49	Organization 4264 4268	Digg
-T50	Organization 4271 4277	Yahoo!
+T44	Product 4213 4221	Facebook
+T45	Product 4224 4231	Twitter
+T46	Product 4234 4240	Google
+T47	Product 4243 4252	Identi.ca
+T48	Product 4255 4261	Reddit
+T49	Product 4264 4268	Digg
+T50	Product 4271 4277	Yahoo!
