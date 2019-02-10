@@ -17,13 +17,14 @@ T16	Person 537 546	Charlotte
 T17	Person 558 567	Sébastien
 T18	Date 1128 1138	23 février
 T19	Location 1637 1643	Nantes
-T20	Person 1655 1673	Dupont de Ligonnès
-T21	Organization 1730 1738	Parisien
-T22	Date 1955 1965	16 février
-T23	Date 1981 1983	17
-T24	Organization 2266 2269	AFP
-T25	Organization 2431 2443	Presse Océan
-T26	Organization 2503 2514	Le Parisien
-T27	Organization 2731 2743	Presse Océan
-T28	Organization 2845 2856	Le Parisien
-T29	Person 3330 3339	Sébastien
+T20	Event 1647 1673	affaire Dupont de Ligonnès
+T21	Person 1655 1673	Dupont de Ligonnès
+T22	Organization 1730 1738	Parisien
+T23	Date 1955 1965	16 février
+T24	Date 1981 1983	17
+T25	Organization 2266 2269	AFP
+T26	Organization 2431 2443	Presse Océan
+T27	Organization 2503 2514	Le Parisien
+T28	Organization 2731 2743	Presse Océan
+T29	Organization 2845 2856	Le Parisien
+T30	Person 3330 3339	Sébastien

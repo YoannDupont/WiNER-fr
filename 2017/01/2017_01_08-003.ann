@@ -4,19 +4,20 @@ T3	Date 39 53	8 janvier 2017
 T4	Person 77 89	Jean Vuarnet
 T5	Date 119 123	1 er
 T6	Date 127 136	2 janvier
-T7	Location 172 182	Sallanches
-T8	Organization 161 182	hôpital de Sallanches
+T7	Organization 161 182	hôpital de Sallanches
+T8	Location 172 182	Sallanches
 T9	Location 188 200	Haute-Savoie
 T10	Date 257 261	1960
 T11	Location 265 275	Californie
-T12	Location 288 300	Squaw Valley
-T13	Event 282 300	JO de Squaw Valley
+T12	Event 282 300	JO de Squaw Valley
+T13	Location 288 300	Squaw Valley
 T14	Person 302 314	Jean Vuarnet
 T15	Location 477 484	Avoriaz
 T16	Organization 503 519	Portes du Soleil
 T17	Organization 774 801	Fédération française de ski
 T18	Organization 803 806	FFS
-T19	Location 854 865	Val-d’Isère
-T20	Date 871 875	1973
-T21	Organization 1006 1029	secte du Temple solaire
-T22	Date 1035 1048	décembre 1995
+T19	Event 843 865	affaire de Val-d’Isère
+T20	Location 854 865	Val-d’Isère
+T21	Date 871 875	1973
+T22	Organization 1006 1029	secte du Temple solaire
+T23	Date 1035 1048	décembre 1995

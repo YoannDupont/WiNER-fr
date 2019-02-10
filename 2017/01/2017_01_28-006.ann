@@ -2,14 +2,15 @@ T1	Location 0 6	France
 T2	Person 9 15	Fillon
 T3	Date 76 91	28 janvier 2017
 T4	Person 127 142	François Fillon
-T5	Organization 229 232	TF1
-T6	Date 237 253	jeudi 26 janvier
-T7	Person 733 748	Penelope Fillon
-T8	Organization 1234 1253	Assemblée nationale
-T9	Organization 1302 1306	fisc
-T10	Location 1456 1462	Sarthe
-T11	Date 1467 1471	2005
-T12	Date 1474 1478	2007
-T13	Location 1638 1646	Bordeaux
-T14	Person 1648 1659	Alain Juppé
-T15	Person 1790 1796	Fillon
+T5	Product 214 223	20 Heures
+T6	Organization 229 232	TF1
+T7	Date 237 253	jeudi 26 janvier
+T8	Person 733 748	Penelope Fillon
+T9	Organization 1234 1253	Assemblée nationale
+T10	Organization 1302 1306	fisc
+T11	Location 1456 1462	Sarthe
+T12	Date 1467 1471	2005
+T13	Date 1474 1478	2007
+T14	Location 1638 1646	Bordeaux
+T15	Person 1648 1659	Alain Juppé
+T16	Person 1790 1796	Fillon

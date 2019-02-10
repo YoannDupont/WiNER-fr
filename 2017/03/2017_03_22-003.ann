@@ -1,72 +1,74 @@
 T1	Location 0 6	France
-T2	Person 40 46	Fillon
-T3	Date 66 78	22 mars 2017
-T4	Person 123 129	Fillon
-T5	Person 209 224	François Fillon
-T6	Organization 239 241	LR
-T7	Person 339 354	Penelope Fillon
-T8	Person 369 384	François Fillon
-T9	Organization 425 444	Assemblée nationale
-T10	Date 531 541	31 janvier
-T11	Person 588 594	Fillon
-T12	Person 664 679	Penelope Fillon
-T13	Person 858 864	Fillon
-T14	Organization 1442 1460	Le Canard enchaîné
-T15	Date 1467 1474	22 mars
-T16	Person 1511 1526	Penelope Fillon
-T17	Organization 1567 1586	Assemblée nationale
-T18	Organization 1595 1616	Revue des deux Mondes
-T19	Date 1626 1643	1 er juillet 2012
-T20	Date 1650 1666	30 novembre 2013
-T21	Organization 1757 1766	Assemblée
-T22	Organization 1837 1842	Revue
-T23	Organization 1930 1949	Assemblée nationale
-T24	Person 2043 2058	Penelope Fillon
-T25	Date 2103 2110	28 mars
-T26	Person 2358 2364	Fillon
-T27	Person 2389 2411	Pierre Cornut-Gentille
-T28	Person 2471 2486	Penelope Fillon
-T29	Person 2682 2697	François Fillon
-T30	Organization 2731 2733	2F
-T31	Organization 2766 2773	Fimalac
-T32	Person 2790 2817	Marc Ladreit de Lacharrière
-T33	Date 2893 2897	2013
-T34	Organization 2992 3001	Mediapart
-T35	Person 3006 3012	Fillon
-T36	Date 3074 3078	2015
-T37	Date 3088 3092	2016
-T38	Person 3197 3212	Fouad Makhzoumi
-T39	Person 3290 3296	Fillon
-T40	Organization 3298 3308	2F Conseil
-T41	Organization 3327 3349	Future Pipe Industries
-T42	Organization 3351 3354	FPI
-T43	Location 3416 3421	Dubaï
-T44	Location 3424 3431	Émirats
-T45	Location 3487 3492	Golfe
-T46	Person 3541 3550	Makhzoumi
-T47	Person 3566 3572	Fillon
-T48	Location 3655 3661	France
-T49	Location 3693 3699	Russie
-T50	Person 3796 3802	Fillon
-T51	Date 3854 3858	2012
-T52	Date 4002 4011	juin 2016
-T53	Organization 4014 4017	FPI
-T54	Person 4171 4177	Fillon
-T55	Person 4284 4290	Fillon
-T56	Organization 4343 4352	Mediapart
-T57	Person 4401 4407	Fillon
-T58	Person 4568 4574	Fillon
-T59	Date 4626 4635	juin 2015
-T60	Person 4669 4685	Vladimir Poutine
-T61	Person 4689 4705	Patrick Pouyanné
-T62	Organization 4715 4720	Total
-T63	Person 4731 4737	Fillon
-T64	Event 4751 4756	SPIEF
-T65	Location 4795 4812	Saint-Pétersbourg
-T66	Person 4917 4926	Makhzoumi
-T67	Person 4928 4943	François Fillon
-T68	Location 4970 4978	Beyrouth
-T69	Date 4982 4995	décembre 2014
-T70	Person 5174 5183	Makhzoumi
-T71	Location 5233 5244	Royaume-Uni
-T72	Date 5261 5265	1990
+T2	Event 32 46	affaire Fillon
+T3	Person 40 46	Fillon
+T4	Date 66 78	22 mars 2017
+T5	Event 115 129	affaire Fillon
+T6	Person 123 129	Fillon
+T7	Person 209 224	François Fillon
+T8	Organization 239 241	LR
+T9	Person 339 354	Penelope Fillon
+T10	Person 369 384	François Fillon
+T11	Organization 425 444	Assemblée nationale
+T12	Date 531 541	31 janvier
+T13	Person 588 594	Fillon
+T14	Person 664 679	Penelope Fillon
+T15	Person 858 864	Fillon
+T16	Organization 1442 1460	Le Canard enchaîné
+T17	Date 1467 1474	22 mars
+T18	Person 1511 1526	Penelope Fillon
+T19	Organization 1567 1586	Assemblée nationale
+T20	Organization 1595 1616	Revue des deux Mondes
+T21	Date 1626 1643	1 er juillet 2012
+T22	Date 1650 1666	30 novembre 2013
+T23	Organization 1757 1766	Assemblée
+T24	Organization 1837 1842	Revue
+T25	Organization 1930 1949	Assemblée nationale
+T26	Person 2043 2058	Penelope Fillon
+T27	Date 2103 2110	28 mars
+T28	Person 2358 2364	Fillon
+T29	Person 2389 2411	Pierre Cornut-Gentille
+T30	Person 2471 2486	Penelope Fillon
+T31	Person 2682 2697	François Fillon
+T32	Organization 2731 2733	2F
+T33	Organization 2766 2773	Fimalac
+T34	Person 2790 2817	Marc Ladreit de Lacharrière
+T35	Date 2893 2897	2013
+T36	Organization 2992 3001	Mediapart
+T37	Person 3006 3012	Fillon
+T38	Date 3074 3078	2015
+T39	Date 3088 3092	2016
+T40	Person 3197 3212	Fouad Makhzoumi
+T41	Person 3290 3296	Fillon
+T42	Organization 3298 3308	2F Conseil
+T43	Organization 3327 3349	Future Pipe Industries
+T44	Organization 3351 3354	FPI
+T45	Location 3416 3421	Dubaï
+T46	Location 3424 3431	Émirats
+T47	Location 3487 3492	Golfe
+T48	Person 3541 3550	Makhzoumi
+T49	Person 3566 3572	Fillon
+T50	Location 3655 3661	France
+T51	Location 3693 3699	Russie
+T52	Person 3796 3802	Fillon
+T53	Date 3854 3858	2012
+T54	Date 4002 4011	juin 2016
+T55	Organization 4014 4017	FPI
+T56	Person 4171 4177	Fillon
+T57	Person 4284 4290	Fillon
+T58	Organization 4343 4352	Mediapart
+T59	Person 4401 4407	Fillon
+T60	Person 4568 4574	Fillon
+T61	Date 4626 4635	juin 2015
+T62	Person 4669 4685	Vladimir Poutine
+T63	Person 4689 4705	Patrick Pouyanné
+T64	Organization 4715 4720	Total
+T65	Person 4731 4737	Fillon
+T66	Event 4751 4756	SPIEF
+T67	Location 4795 4812	Saint-Pétersbourg
+T68	Person 4917 4926	Makhzoumi
+T69	Person 4928 4943	François Fillon
+T70	Location 4970 4978	Beyrouth
+T71	Date 4982 4995	décembre 2014
+T72	Person 5174 5183	Makhzoumi
+T73	Location 5233 5244	Royaume-Uni
+T74	Date 5261 5265	1990

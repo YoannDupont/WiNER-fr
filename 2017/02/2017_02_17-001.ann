@@ -2,10 +2,12 @@ T1	Location 0 6	France
 T2	Date 69 84	17 février 2017
 T3	Date 92 108	jeudi 16 février
 T4	Organization 113 131	Parlement français
-T5	Person 352 367	Pénélope Fillon
-T6	Organization 1219 1237	Le Canard enchaîné
-T7	Person 1487 1502	Penelope Fillon
-T8	Date 1583 1587	2005
-T9	Organization 1799 1808	Mediapart
-T10	Person 1899 1918	Jean-Jacques Urvoas
-T11	Person 2137 2151	Martine Orange
+T5	Event 344 367	affaire Pénélope Fillon
+T6	Person 352 367	Pénélope Fillon
+T7	Organization 1219 1237	Le Canard enchaîné
+T8	Event 1479 1502	affaire Penelope Fillon
+T9	Person 1487 1502	Penelope Fillon
+T10	Date 1583 1587	2005
+T11	Organization 1799 1808	Mediapart
+T12	Person 1899 1918	Jean-Jacques Urvoas
+T13	Person 2137 2151	Martine Orange

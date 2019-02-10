@@ -11,21 +11,23 @@ T10	Person 688 696	Hollande
 T11	Date 742 746	1990
 T12	Date 750 754	2000
 T13	Organization 881 886	Arnys
-T14	Person 931 937	Fillon
-T15	Person 1070 1079	Moscovici
-T16	Person 1084 1095	Laurent Max
-T17	Location 1139 1145	Élysée
-T18	Organization 1151 1159	Matignon
-T19	Location 1166 1178	Quai d’Orsay
-T20	Location 1173 1178	Orsay
-T21	Person 1189 1198	Moscovici
-T22	Person 1269 1275	Fillon
-T23	Person 1788 1791	Max
-T24	Location 1799 1805	Élysée
-T25	Organization 1807 1815	Matignon
-T26	Location 1822 1834	Quai d’Orsay
-T27	Location 1829 1834	Orsay
-T28	Organization 1863 1868	Arnys
-T29	Organization 1917 1924	Berluti
-T30	Person 2065 2074	Moscovici
-T31	Location 2466 2475	Bruxelles
+T14	Event 923 937	affaire Fillon
+T15	Person 931 937	Fillon
+T16	Person 1070 1079	Moscovici
+T17	Person 1084 1095	Laurent Max
+T18	Location 1139 1145	Élysée
+T19	Organization 1151 1159	Matignon
+T20	Location 1166 1178	Quai d’Orsay
+T21	Location 1173 1178	Orsay
+T22	Person 1189 1198	Moscovici
+T23	Event 1261 1275	affaire Fillon
+T24	Person 1269 1275	Fillon
+T25	Person 1788 1791	Max
+T26	Location 1799 1805	Élysée
+T27	Organization 1807 1815	Matignon
+T28	Location 1822 1834	Quai d’Orsay
+T29	Location 1829 1834	Orsay
+T30	Organization 1863 1868	Arnys
+T31	Organization 1917 1924	Berluti
+T32	Person 2065 2074	Moscovici
+T33	Location 2466 2475	Bruxelles

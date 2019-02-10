@@ -1,6 +1,8 @@
 T1	Location 0 6	France
 T2	Location 43 50	Orvault
 T3	Date 52 64	19 mars 2017
-T4	Location 110 117	Orvault
-T5	Location 120 136	Loire-Atlantique
-T6	Location 139 145	France
+T4	Event 78 93	affaire Troadec
+T5	Person 86 93	Troadec
+T6	Location 110 117	Orvault
+T7	Location 120 136	Loire-Atlantique
+T8	Location 139 145	France

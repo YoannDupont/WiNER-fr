@@ -29,36 +29,39 @@ T28	Date 1180 1184	1995
 T29	Person 1209 1222	Lionel Jospin
 T30	Date 1271 1275	1995
 T31	Date 1281 1285	1997
-T32	Organization 1417 1419	PS
-T33	Date 1446 1450	2000
-T34	Location 1525 1531	Landes
-T35	Organization 1596 1598	PS
-T36	Date 1655 1659	2005
-T37	Person 1749 1759	Emmanuelli
-T38	Organization 1801 1803	PS
-T39	Person 1824 1836	Benoît Hamon
-T40	Date 2062 2066	2005
-T41	Person 2068 2078	Emmanuelli
-T42	Organization 2109 2133	Nouveau Parti socialiste
-T43	Person 2141 2156	Vincent Peillon
-T44	Person 2159 2176	Arnaud Montebourg
-T45	Person 2180 2192	Benoît Hamon
-T46	Person 2253 2258	Hamon
-T47	Person 2369 2374	Hamon
-T48	Date 2378 2382	2010
-T49	Location 2409 2414	Reims
-T50	Location 2523 2529	Mugron
-T51	Location 2531 2537	Landes
-T52	Person 2540 2545	Hamon
-T53	Person 2643 2648	Hamon
-T54	Location 2681 2690	Bruxelles
-T55	Organization 2736 2757	Commission européenne
-T56	Person 2760 2779	Jean-Claude Juncker
-T57	Product 3091 3098	Twitter
-T58	Person 3101 3127	Jean-Christophe Cambadélis
-T59	Organization 3152 3154	PS
-T60	Person 3227 3235	Hollande
-T61	Person 3238 3247	Mélenchon
-T62	Person 3250 3257	Estrosi
-T63	Person 3260 3266	Bayrou
-T64	Person 3270 3275	Juppé
+T32	Event 1376 1388	affaire Urba
+T33	Organization 1384 1388	Urba
+T34	Organization 1417 1419	PS
+T35	Date 1446 1450	2000
+T36	Location 1525 1531	Landes
+T37	Organization 1596 1598	PS
+T38	Date 1655 1659	2005
+T39	Person 1749 1759	Emmanuelli
+T40	Organization 1801 1803	PS
+T41	Person 1824 1836	Benoît Hamon
+T42	Location 2043 2047	Mans
+T43	Date 2062 2066	2005
+T44	Person 2068 2078	Emmanuelli
+T45	Organization 2109 2133	Nouveau Parti socialiste
+T46	Person 2141 2156	Vincent Peillon
+T47	Person 2159 2176	Arnaud Montebourg
+T48	Person 2180 2192	Benoît Hamon
+T49	Person 2253 2258	Hamon
+T50	Person 2369 2374	Hamon
+T51	Date 2378 2382	2010
+T52	Location 2409 2414	Reims
+T53	Location 2523 2529	Mugron
+T54	Location 2531 2537	Landes
+T55	Person 2540 2545	Hamon
+T56	Person 2643 2648	Hamon
+T57	Location 2681 2690	Bruxelles
+T58	Organization 2736 2757	Commission européenne
+T59	Person 2760 2779	Jean-Claude Juncker
+T60	Product 3091 3098	Twitter
+T61	Person 3101 3127	Jean-Christophe Cambadélis
+T62	Organization 3152 3154	PS
+T63	Person 3227 3235	Hollande
+T64	Person 3238 3247	Mélenchon
+T65	Person 3250 3257	Estrosi
+T66	Person 3260 3266	Bayrou
+T67	Person 3270 3275	Juppé

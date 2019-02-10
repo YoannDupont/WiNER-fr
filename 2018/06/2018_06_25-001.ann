@@ -1,26 +1,27 @@
 T1	Location 0 8	Birmanie
 T2	Organization 14 40	Cour pénale internationale
 T3	Date 56 66	27 juillet
-T4	Date 103 115	25 juin 2018
-T5	Organization 130 156	Cour pénale internationale
-T6	Organization 158 161	CPI
-T7	Location 176 184	Birmanie
-T8	Location 186 193	Myanmar
-T9	Location 353 360	La Haye
-T10	Location 363 371	Pays-Bas
-T11	Organization 391 394	CPI
-T12	Date 433 443	27 juillet
-T13	Organization 448 464	armée du Myanmar
-T14	Location 457 464	Myanmar
-T15	Organization 706 741	Nations Unies aux droits de l'homme
-T16	Location 814 821	Myanmar
-T17	Location 847 855	Birmanie
-T18	Organization 905 908	CPI
-T19	Date 1027 1036	août 2017
-T20	Location 1077 1087	Bangladesh
-T21	Location 1107 1114	Myanmar
-T22	Location 1119 1129	Bangladesh
-T23	Organization 1173 1176	CPI
-T24	Organization 1215 1218	CPI
-T25	Location 1307 1314	Myanmar
-T26	Location 1412 1419	Myanmar
+T4	Event 85 101	affaire Rohingya
+T5	Date 103 115	25 juin 2018
+T6	Organization 130 156	Cour pénale internationale
+T7	Organization 158 161	CPI
+T8	Location 176 184	Birmanie
+T9	Location 186 193	Myanmar
+T10	Location 353 360	La Haye
+T11	Location 363 371	Pays-Bas
+T12	Organization 391 394	CPI
+T13	Date 433 443	27 juillet
+T14	Organization 448 464	armée du Myanmar
+T15	Location 457 464	Myanmar
+T16	Organization 706 741	Nations Unies aux droits de l'homme
+T17	Location 814 821	Myanmar
+T18	Location 847 855	Birmanie
+T19	Organization 905 908	CPI
+T20	Date 1027 1036	août 2017
+T21	Location 1077 1087	Bangladesh
+T22	Location 1107 1114	Myanmar
+T23	Location 1119 1129	Bangladesh
+T24	Organization 1173 1176	CPI
+T25	Organization 1215 1218	CPI
+T26	Location 1307 1314	Myanmar
+T27	Location 1412 1419	Myanmar

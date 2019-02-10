@@ -1,53 +1,54 @@
 T1	Location 0 6	France
 T2	Person 9 24	Penelope Fillon
 T3	Date 80 94	8 février 2017
-T4	Person 112 127	François Fillon
-T5	Organization 157 173	Les Républicains
-T6	Organization 177 179	LR
-T7	Organization 302 317	Canard enchaîné
-T8	Person 413 421	Penelope
-T9	Person 463 478	Penelope Fillon
-T10	Organization 557 576	Assemblée nationale
-T11	Date 611 620	août 2002
-T12	Date 640 644	2013
-T13	Date 669 673	2002
-T14	Date 750 754	1998
-T15	Date 755 759	2002
-T16	Person 771 786	Penelope Fillon
-T17	Person 909 924	François Fillon
-T18	Date 956 964	été 2002
-T19	Date 1076 1083	21 août
-T20	Person 1128 1140	Marc Joulaud
-T21	Date 1188 1198	13 juillet
-T22	Date 1241 1254	novembre 2013
-T23	Person 1266 1281	François Fillon
-T24	Organization 1329 1338	Assemblée
-T25	Organization 1535 1553	Le Canard enchaîné
-T26	Date 1785 1789	1998
-T27	Date 1790 1794	2002
-T28	Person 1858 1873	François Fillon
-T29	Location 1892 1898	Troyes
-T30	Location 1909 1913	Aube
-T31	Organization 1955 1961	Canard
-T32	Person 2536 2551	Penelope Fillon
-T33	Date 2555 2568	novembre 2013
-T34	Organization 2618 2624	Canard
-T35	Date 2794 2803	août 2007
-T36	Person 2847 2859	Marc Joulaud
-T37	Organization 2899 2917	Le Canard Enchaîné
-T38	Date 2952 2961	août 2002
-T39	Date 2995 3004	juin 2002
-T40	Organization 3153 3198	Association des collaborateurs parlementaires
-T41	Person 3201 3217	Nicolas Thibault
-T42	Person 3247 3262	Marianne Dubois
-T43	Organization 3274 3276	LR
-T44	Location 3281 3287	Loiret
-T45	Organization 3372 3381	Assemblée
-T46	Organization 3558 3576	Le Canard enchaîné
-T47	Person 3612 3627	François Fillon
-T48	Organization 3641 3670	école de formation du barreau
-T49	Organization 3672 3675	EFB
-T50	Date 3680 3692	janvier 2006
-T51	Date 3800 3817	1 er octobre 2005
-T52	Organization 3949 3952	EFB
-T53	Organization 3967 3982	Canard enchaîné
+T4	Event 104 127	affaire François Fillon
+T5	Person 112 127	François Fillon
+T6	Organization 157 173	Les Républicains
+T7	Organization 177 179	LR
+T8	Organization 302 317	Canard enchaîné
+T9	Person 413 421	Penelope
+T10	Person 463 478	Penelope Fillon
+T11	Organization 557 576	Assemblée nationale
+T12	Date 611 620	août 2002
+T13	Date 640 644	2013
+T14	Date 669 673	2002
+T15	Date 750 754	1998
+T16	Date 755 759	2002
+T17	Person 771 786	Penelope Fillon
+T18	Person 909 924	François Fillon
+T19	Date 956 964	été 2002
+T20	Date 1076 1083	21 août
+T21	Person 1128 1140	Marc Joulaud
+T22	Date 1188 1198	13 juillet
+T23	Date 1241 1254	novembre 2013
+T24	Person 1266 1281	François Fillon
+T25	Organization 1329 1338	Assemblée
+T26	Organization 1535 1553	Le Canard enchaîné
+T27	Date 1785 1789	1998
+T28	Date 1790 1794	2002
+T29	Person 1858 1873	François Fillon
+T30	Location 1892 1898	Troyes
+T31	Location 1909 1913	Aube
+T32	Organization 1955 1961	Canard
+T33	Person 2536 2551	Penelope Fillon
+T34	Date 2555 2568	novembre 2013
+T35	Organization 2618 2624	Canard
+T36	Date 2794 2803	août 2007
+T37	Person 2847 2859	Marc Joulaud
+T38	Organization 2899 2917	Le Canard Enchaîné
+T39	Date 2952 2961	août 2002
+T40	Date 2995 3004	juin 2002
+T41	Organization 3153 3198	Association des collaborateurs parlementaires
+T42	Person 3201 3217	Nicolas Thibault
+T43	Person 3247 3262	Marianne Dubois
+T44	Organization 3274 3276	LR
+T45	Location 3281 3287	Loiret
+T46	Organization 3372 3381	Assemblée
+T47	Organization 3558 3576	Le Canard enchaîné
+T48	Person 3612 3627	François Fillon
+T49	Organization 3641 3670	école de formation du barreau
+T50	Organization 3672 3675	EFB
+T51	Date 3680 3692	janvier 2006
+T52	Date 3800 3817	1 er octobre 2005
+T53	Organization 3949 3952	EFB
+T54	Organization 3967 3982	Canard enchaîné

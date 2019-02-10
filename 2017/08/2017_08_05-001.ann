@@ -3,8 +3,8 @@ T2	Person 94 100	Neymar
 T3	Date 102 113	5 août 2017
 T4	Organization 157 176	Paris Saint-Germain
 T5	Person 256 262	Neymar
-T6	Location 284 293	Barcelone
-T7	Organization 281 293	FC Barcelone
+T6	Organization 281 293	FC Barcelone
+T7	Location 284 293	Barcelone
 T8	Person 393 403	Paul Pogba
 T9	Organization 407 418	Juventus FC
 T10	Organization 421 438	Manchester United
@@ -15,8 +15,8 @@ T14	Date 500 509	juin 2022
 T15	Person 512 518	Neymar
 T16	Organization 566 575	Santos FC
 T17	Date 579 591	janvier 2009
-T18	Location 656 665	Barcelone
-T19	Organization 653 665	FC Barcelone
+T18	Organization 653 665	FC Barcelone
+T19	Location 656 665	Barcelone
 T20	Date 669 673	2013
 T21	Person 688 694	Neymar
 T22	Organization 759 764	Barça
@@ -43,8 +43,8 @@ T42	Organization 1893 1899	LaLiga
 T43	Organization 1945 1951	LaLiga
 T44	Organization 2088 2095	La Liga
 T45	Person 2259 2265	Neymar
-T46	Location 2290 2299	Barcelone
-T47	Organization 2287 2299	FC Barcelone
+T46	Organization 2287 2299	FC Barcelone
+T47	Location 2290 2299	Barcelone
 T48	Location 2320 2329	Barcelone
 T49	Person 2376 2382	Neymar
 T50	Person 2498 2507	Neymar Jr
@@ -66,8 +66,8 @@ T65	Person 3810 3816	Neymar
 T66	Location 3836 3845	Liverpool
 T67	Person 3847 3859	Jürgen Klopp
 T68	Organization 3890 3899	Fair Play
-T69	Location 4071 4076	Lille
-T70	Organization 4057 4076	club français Lille
+T69	Organization 4057 4076	club français Lille
+T70	Location 4071 4076	Lille
 T71	Person 4078 4088	Marc Ingla
 T72	Organization 4140 4145	Barça
 T73	Location 4180 4189	Barcelone

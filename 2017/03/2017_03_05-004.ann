@@ -2,15 +2,16 @@ T1	Location 0 6	France
 T2	Person 36 51	François Fillon
 T3	Date 53 64	5 mars 2017
 T4	Person 99 105	Fillon
-T5	Person 175 181	Fillon
-T6	Location 215 221	Beaucé
-T7	Location 232 248	Sablé-sur-Sarthe
-T8	Location 259 265	Sarthe
-T9	Organization 287 294	OCLCIFF
-T10	Person 372 387	François Fillon
-T11	Organization 402 404	LR
-T12	Date 602 614	jeudi 2 mars
-T13	Person 617 623	Fillon
-T14	Location 898 911	Aubervilliers
-T15	Location 917 934	Seine-Saint-Denis
-T16	Location 987 992	Paris
+T5	Event 167 181	affaire Fillon
+T6	Person 175 181	Fillon
+T7	Location 215 221	Beaucé
+T8	Location 232 248	Sablé-sur-Sarthe
+T9	Location 259 265	Sarthe
+T10	Organization 287 294	OCLCIFF
+T11	Person 372 387	François Fillon
+T12	Organization 402 404	LR
+T13	Date 602 614	jeudi 2 mars
+T14	Person 617 623	Fillon
+T15	Location 898 911	Aubervilliers
+T16	Location 917 934	Seine-Saint-Denis
+T17	Location 987 992	Paris

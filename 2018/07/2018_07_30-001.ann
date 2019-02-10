@@ -1,33 +1,34 @@
 T1	Person 8 15	Benalla
 T2	Organization 83 88	Sénat
 T3	Date 90 105	30 juillet 2018
-T4	Person 121 128	Benalla
-T5	Organization 174 218	commission des lois de l'Assemblée nationale
-T6	Organization 199 218	Assemblée nationale
-T7	Organization 355 383	commission des lois de Sénat
-T8	Organization 378 383	Sénat
-T9	Organization 494 506	Public Sénat
-T10	Organization 501 506	Sénat
-T11	Organization 534 539	Sénat
-T12	Person 777 794	Jean-Marie Girier
-T13	Person 798 815	Stéphane Fratacci
-T14	Person 854 868	Gérard Collomb
-T15	Person 944 961	Jean-Pierre Sueur
-T16	Organization 963 965	PS
-T17	Person 1047 1064	Alexandre Benalla
-T18	Organization 1081 1105	ministère de l'Intérieur
-T19	Organization 1096 1105	Intérieur
-T20	Person 1191 1208	Jean-Pierre Sueur
-T21	Organization 1491 1495	GSPR
-T22	Organization 1646 1655	Le Figaro
-T23	Person 1658 1675	Jean-Marie Girier
-T24	Person 1931 1945	Gérard Collomb
-T25	Person 1949 1966	Alexandre Benalla
-T26	Date 2008 2016	1 er mai
-T27	Organization 2042 2060	Le Canard enchaîné
-T28	Date 2064 2074	25 juillet
-T29	Person 2162 2174	Philippe Bas
-T30	Person 2263 2280	Alexandre Benalla
-T31	Person 2578 2585	Benalla
-T32	Organization 2664 2670	Élysée
-T33	Person 2760 2772	Philippe Bas
+T4	Event 113 128	affaire Benalla
+T5	Person 121 128	Benalla
+T6	Organization 174 218	commission des lois de l'Assemblée nationale
+T7	Organization 199 218	Assemblée nationale
+T8	Organization 355 383	commission des lois de Sénat
+T9	Organization 378 383	Sénat
+T10	Organization 494 506	Public Sénat
+T11	Organization 501 506	Sénat
+T12	Organization 534 539	Sénat
+T13	Person 777 794	Jean-Marie Girier
+T14	Person 798 815	Stéphane Fratacci
+T15	Person 854 868	Gérard Collomb
+T16	Person 944 961	Jean-Pierre Sueur
+T17	Organization 963 965	PS
+T18	Person 1047 1064	Alexandre Benalla
+T19	Organization 1081 1105	ministère de l'Intérieur
+T20	Organization 1096 1105	Intérieur
+T21	Person 1191 1208	Jean-Pierre Sueur
+T22	Organization 1491 1495	GSPR
+T23	Organization 1646 1655	Le Figaro
+T24	Person 1658 1675	Jean-Marie Girier
+T25	Person 1931 1945	Gérard Collomb
+T26	Person 1949 1966	Alexandre Benalla
+T27	Date 2008 2016	1 er mai
+T28	Organization 2042 2060	Le Canard enchaîné
+T29	Date 2064 2074	25 juillet
+T30	Person 2162 2174	Philippe Bas
+T31	Person 2263 2280	Alexandre Benalla
+T32	Person 2578 2585	Benalla
+T33	Organization 2664 2670	Élysée
+T34	Person 2760 2772	Philippe Bas

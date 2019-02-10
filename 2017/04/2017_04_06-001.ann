@@ -6,16 +6,18 @@ T5	Person 102 122	Jean-Jacques Bourdin
 T6	Organization 139 144	BFMTV
 T7	Organization 147 150	RMC
 T8	Organization 216 228	Républicains
-T9	Person 610 616	Fillon
-T10	Organization 983 992	Le Gorafi
-T11	Organization 1037 1044	Leetchi
-T12	Location 1171 1177	Sarthe
-T13	Person 1196 1211	François Fillon
-T14	Person 1280 1295	Jérôme Chartier
-T15	Person 1323 1329	Fillon
-T16	Organization 1403 1408	BFMTV
-T17	Person 1561 1567	Fillon
-T18	Person 1597 1603	Fillon
-T19	Person 1631 1639	Chartier
-T20	Person 1641 1647	Fillon
-T21	Person 1743 1758	François Fillon
+T9	Event 602 616	affaire Fillon
+T10	Person 610 616	Fillon
+T11	Organization 983 992	Le Gorafi
+T12	Organization 1037 1044	Leetchi
+T13	Location 1171 1177	Sarthe
+T14	Person 1196 1211	François Fillon
+T15	Person 1280 1295	Jérôme Chartier
+T16	Person 1323 1329	Fillon
+T17	Organization 1403 1408	BFMTV
+T18	Person 1561 1567	Fillon
+T19	Event 1589 1603	affaire Fillon
+T20	Person 1597 1603	Fillon
+T21	Person 1631 1639	Chartier
+T22	Person 1641 1647	Fillon
+T23	Person 1743 1758	François Fillon
