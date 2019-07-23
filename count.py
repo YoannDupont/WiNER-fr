@@ -8,7 +8,7 @@ from sem.storage.annotation import Tag, Annotation, get_top_level
 import collections
 
 import re
-spaces = re.compile("\s+", re.M)
+spaces = re.compile(r"\s+", re.M)
 
 def main(infiles):
     tokenizer = SegmentationModule("fr")
@@ -16,6 +16,8 @@ def main(infiles):
     nonspace_count = 0
     entity_counts = collections.Counter()
     entity2set = collections.defaultdict(set)
+    top_entity_counts = collections.Counter()
+    top_entity2set = collections.defaultdict(set)
     for infile in infiles:
         document = brat_file(infile)
         tokenizer.process_document(document)
@@ -24,17 +26,24 @@ def main(infiles):
         for entity in document.annotation("NER"):
             entity_counts[entity.value] += 1
             entity2set[entity.value].add(document.content[entity.lb : entity.ub].lower())
+        for entity in get_top_level(document.annotation("NER")):
+            top_entity_counts[entity.value] += 1
+            top_entity2set[entity.value].add(document.content[entity.lb : entity.ub].lower())
     print("number of documents\t{}".format(len(infiles)))
     print(f"token count\t{token_count}")
     print(f"character count\t{nonspace_count}")
     print()
-    print("entity name\tcount\tunique count")
+    print("entity name\tcount\tunique count\ttop count\ttop unique count")
     for entity, count in sorted(entity_counts.items(), key=lambda x:(x[0],-x[1])):
         ucount = len(entity2set[entity])
-        print(f"{entity}\t{count}\t{ucount}")
+        tcount = top_entity_counts[entity]
+        tucount = len(top_entity2set[entity])
+        print(f"{entity}\t{count}\t{ucount}\t{tcount}\t{tucount}")
     count = sum(entity_counts.values())
     ucount = sum(len(s) for s in entity2set.values())
-    print(f"global\t{count}\t{ucount}")
+    tcount = sum(top_entity_counts.values())
+    tucount = sum(len(s) for s in top_entity2set.values())
+    print(f"global\t{count}\t{ucount}\t{tcount}\t{tucount}")
     #print len(get_top_level(document.annotation("NER")))
 
 if __name__ == "__main__":
