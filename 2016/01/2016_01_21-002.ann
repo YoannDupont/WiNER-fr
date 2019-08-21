@@ -1,14 +1,15 @@
 T1	Location 0 6	France
 T2	Organization 82 101	Fondation Wikimedia
-T3	Organization 163 182	Fondation Wikimedia
-T4	Date 185 200	21 janvier 2016
-T5	Organization 300 321	l'Assemblée nationale
-T6	Product 930 938	Facebook
-T7	Organization 940 949	Instagram
-T8	Product 951 960	Wikipédia
-T9	Location 1104 1110	France
+T3	Product 134 142	Wikinews
+T4	Organization 163 182	Fondation Wikimedia
+T5	Date 185 200	21 janvier 2016
+T6	Organization 302 321	Assemblée nationale
+T7	Product 930 938	Facebook
+T8	Product 940 949	Instagram
+T9	Product 951 960	Wikipédia
 T10	Product 1094 1110	Wikimédia France
-T11	Product 1247 1256	Wikimédia
-T12	Product 1263 1272	Wikipédia
-T13	Organization 1461 1466	Sénat
-T14	Organization 1512 1521	Assemblée
+T11	Location 1104 1110	France
+T12	Product 1247 1256	Wikimédia
+T13	Product 1263 1272	Wikipédia
+T14	Organization 1461 1466	Sénat
+T15	Organization 1512 1521	Assemblée

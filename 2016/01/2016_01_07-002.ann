@@ -9,16 +9,16 @@ T8	Event 441 452	Solstice 50
 T9	Event 524 536	Solstice 100
 T10	Event 541 549	Knik 200
 T11	Location 541 545	Knik
-T12	Location 602 606	Knik
-T13	Event 666 682	Copper Basin 300
-T14	Event 743 751	Knik 200
-T15	Location 743 747	Knik
-T16	Event 796 804	Iditarod
-T17	Date 861 870	9 janvier
-T18	Event 921 929	Iditarod
-T19	Location 1043 1056	Dalzell Gorge
-T20	Date 1061 1065	2015
-T21	Organization 1092 1102	l'Iditarod
+T12	Date 574 583	2 janvier
+T13	Location 602 606	Knik
+T14	Event 666 682	Copper Basin 300
+T15	Event 743 751	Knik 200
+T16	Location 743 747	Knik
+T17	Event 796 804	Iditarod
+T18	Date 861 870	9 janvier
+T19	Event 921 929	Iditarod
+T20	Location 1043 1056	Dalzell Gorge
+T21	Date 1061 1065	2015
 T22	Event 1094 1102	Iditarod
 T23	Location 1139 1145	Willow
 T24	Location 1187 1196	Fairbanks

@@ -5,6 +5,13 @@ T4	Person 62 76	Michel Delpech
 T5	Date 148 157	2 janvier
 T6	Date 309 313	1964
 T7	Date 316 320	2014
-T8	Person 437 445	Marianne
-T9	Person 465 473	Laurette
-T10	Location 487 499	Loir-et-Cher
+T8	Product 363 376	Pour un flirt
+T9	Product 379 390	Le Chasseur
+T10	Product 393 415	Quand j'étais chanteur
+T11	Product 418 430	Les Divorcés
+T12	Product 433 457	Que Marianne était jolie
+T13	Person 437 445	Marianne
+T14	Product 460 473	Chez Laurette
+T15	Person 465 473	Laurette
+T16	Product 484 499	Le Loir-et-Cher
+T17	Location 487 499	Loir-et-Cher

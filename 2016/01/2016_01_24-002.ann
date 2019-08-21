@@ -1,12 +1,13 @@
 T1	Location 56 71	système solaire
 T2	Date 73 88	24 janvier 2016
-T3	Organization 179 186	Caltech
-T4	Date 195 214	mercredi 20 janvier
-T5	Organization 221 245	The Astronomical Journal
-T6	Location 309 324	système solaire
-T7	Person 571 589	Konstantin Batygin
-T8	Person 593 609	Michael E. Brown
-T9	Location 792 798	Soleil
-T10	Location 891 897	Soleil
-T11	Location 900 907	Neptune
-T12	Organization 1121 1125	NASA
+T3	Location 96 111	Système solaire
+T4	Organization 179 186	Caltech
+T5	Date 195 214	mercredi 20 janvier
+T6	Organization 221 245	The Astronomical Journal
+T7	Location 309 324	système solaire
+T8	Person 571 589	Konstantin Batygin
+T9	Person 593 609	Michael E. Brown
+T10	Location 792 798	Soleil
+T11	Location 891 897	Soleil
+T12	Location 900 907	Neptune
+T13	Organization 1121 1125	NASA

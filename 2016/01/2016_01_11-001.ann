@@ -6,7 +6,10 @@ T5	Date 198 208	10 janvier
 T6	Location 212 220	New York
 T7	Date 324 328	1964
 T8	Person 370 382	Space Oddity
-T9	Location 461 465	Mars
-T10	Date 470 474	1971
-T11	Location 500 505	China
-T12	Date 514 518	1983
+T9	Product 453 466	Life on Mars?
+T10	Location 461 465	Mars
+T11	Date 470 474	1971
+T12	Product 485 496	Let's Dance
+T13	Product 500 510	China Girl
+T14	Location 500 505	China
+T15	Date 514 518	1983

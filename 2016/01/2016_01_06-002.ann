@@ -3,10 +3,14 @@ T2	Location 73 78	Libye
 T3	Date 80 94	6 janvier 2016
 T4	Location 320 327	Tobrouk
 T5	Location 339 344	Libye
-T6	Organization 360 384	ministère de l'Intérieur
-T7	Location 846 853	Turquie
-T8	Organization 991 998	Anadolu
-T9	Location 1091 1097	Europe
-T10	Location 1111 1117	Ankara
-T11	Organization 1299 1312	Nations unies
-T12	Date 1364 1368	1988
+T6	Organization 360 389	ministère de l'Intérieur turc
+T7	Product 799 804	Joudi
+T8	Location 846 853	Turquie
+T9	Organization 991 998	Anadolu
+T10	Location 1091 1108	Europe de l'Ouest
+T11	Location 1091 1097	Europe
+T12	Location 1111 1117	Ankara
+T13	Organization 1191 1229	ministère turc des Affaires étrangères
+T14	Organization 1243 1264	gouvernement bolivien
+T15	Organization 1299 1312	Nations unies
+T16	Date 1364 1368	1988

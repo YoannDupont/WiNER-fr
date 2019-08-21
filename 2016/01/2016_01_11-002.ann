@@ -15,7 +15,7 @@ T14	Location 699 711	Gakona Lodge
 T15	Location 714 724	Glennallen
 T16	Location 740 755	Red Eagle Lodge
 T17	Location 758 769	Chistochina
-T18	Location 780 794	Lake Roadhouse
+T18	Location 773 794	Meiers Lake Roadhouse
 T19	Location 797 812	Sourdough Lodge
 T20	Location 820 826	Louise
 T21	Location 830 851	Mendeltna Creek Lodge
@@ -28,16 +28,18 @@ T27	Person 2526 2537	Aliy Zirkle
 T28	Person 2540 2551	Allen Moore
 T29	Person 2554 2564	Ryne Olson
 T30	Person 2580 2593	Nicolas Petit
-T31	Hour 2718 2737	9h43 (heure locale)
-T32	Date 2809 2819	11 janvier
-T33	Person 2822 2837	Melissa Stewart
-T34	Person 2840 2855	William Mathews
-T35	Person 2858 2868	Ed Hopkins
-T36	Person 2872 2888	Robert Redington
-T37	Date 2934 2949	12 janvier 2016
-T38	Person 2966 2981	Frank Habermann
-T39	Hour 3030 3034	2h59
-T40	Date 3047 3057	11 janvier
-T41	Person 3139 3152	Jason Stewart
-T42	Hour 3200 3205	19h43
-T43	Date 3209 3219	12 janvier
+T31	Person 2678 2682	Hall
+T32	Hour 2718 2737	9h43 (heure locale)
+T33	Date 2809 2819	11 janvier
+T34	Person 2822 2837	Melissa Stewart
+T35	Person 2840 2855	William Mathews
+T36	Person 2858 2868	Ed Hopkins
+T37	Person 2872 2888	Robert Redington
+T38	Date 2934 2949	12 janvier 2016
+T39	Person 2966 2981	Frank Habermann
+T40	Location 3018 3027	Sourdough
+T41	Hour 3030 3034	2h59
+T42	Date 3047 3057	11 janvier
+T43	Person 3139 3152	Jason Stewart
+T44	Hour 3200 3205	19h43
+T45	Date 3209 3219	12 janvier

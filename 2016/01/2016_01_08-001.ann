@@ -1,15 +1,16 @@
 T1	Location 56 60	Mars
-T2	Location 75 79	Mars
-T3	Person 98 109	Mark Watney
-T4	Date 161 175	8 janvier 2016
-T5	Organization 183 187	NASA
-T6	Organization 194 197	CIP
-T7	Person 272 292	Julio Valdivia Silva
-T8	Location 372 388	Pampa de la Joya
-T9	Location 400 408	Arequipa
-T10	Location 429 433	Lima
-T11	Location 436 441	Pérou
-T12	Product 663 672	Curiosity
-T13	Person 917 937	Julio Valdivia Silva
-T14	Person 1100 1111	Chris McKay
-T15	Organization 1132 1136	NASA
+T2	Product 66 79	Seul sur Mars
+T3	Location 75 79	Mars
+T4	Person 98 109	Mark Watney
+T5	Date 161 175	8 janvier 2016
+T6	Organization 183 187	NASA
+T7	Organization 194 197	CIP
+T8	Person 272 292	Julio Valdivia Silva
+T9	Location 372 388	Pampa de la Joya
+T10	Location 400 408	Arequipa
+T11	Location 429 433	Lima
+T12	Location 436 441	Pérou
+T13	Product 663 672	Curiosity
+T14	Person 917 937	Julio Valdivia Silva
+T15	Person 1100 1111	Chris McKay
+T16	Organization 1132 1136	NASA
