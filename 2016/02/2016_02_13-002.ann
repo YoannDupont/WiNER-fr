@@ -4,6 +4,7 @@ T3	Date 85 99	9 février 2016
 T4	Organization 147 207	Commonwealth Scientific and Industrial Research Organisation
 T5	Organization 209 214	CSIRO
 T6	Location 366 371	Terre
-T7	Organization 586 608	observatoire de Parkes
-T8	Location 602 608	Parkes
-T9	Location 620 629	Australie
+T7	Location 448 459	Voie lactée
+T8	Organization 586 608	observatoire de Parkes
+T9	Location 602 608	Parkes
+T10	Location 620 629	Australie

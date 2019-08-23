@@ -22,5 +22,7 @@ T21	Organization 502 519	diocèse de Hearst
 T22	Location 513 519	Hearst
 T23	Date 527 531	2006
 T24	Date 568 572	2015
-T25	Person 686 693	Bourgon
-T26	Location 730 748	Sault-Sainte-Marie
+T25	Product 625 648	Code de droit canonique
+T26	Person 686 693	Bourgon
+T27	Organization 719 748	diocèse de Sault-Sainte-Marie
+T28	Location 730 748	Sault-Sainte-Marie

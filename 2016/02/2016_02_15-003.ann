@@ -11,8 +11,10 @@ T10	Person 898 913	Evgeny Kirillov
 T11	Person 1328 1341	Pavel Andreev
 T12	Person 1478 1495	Giuseppe Lamastra
 T13	Event 1611 1652	championnat d'Europe de triathlon d'hiver
-T14	Person 1653 1667	Yulia Surikova
-T15	Person 1838 1853	Olga Parfinenko
-T16	Person 2145 2160	Olga Parfinenko
-T17	Person 2165 2179	Yulia Surikova
-T18	Person 2258 2273	Romana Slavinec
+T14	Location 1625 1631	Europe
+T15	Person 1653 1667	Yulia Surikova
+T16	Person 1838 1853	Olga Parfinenko
+T17	Person 1946 1954	Surikova
+T18	Person 2145 2160	Olga Parfinenko
+T19	Person 2165 2179	Yulia Surikova
+T20	Person 2258 2273	Romana Slavinec

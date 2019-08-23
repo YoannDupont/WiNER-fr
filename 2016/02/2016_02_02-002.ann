@@ -6,17 +6,19 @@ T5	Date 218 232	2 février 2016
 T6	Event 255 269	fête nationale
 T7	Date 255 269	fête nationale
 T8	Date 331 335	1788
-T9	Location 480 489	Australie
-T10	Person 592 603	Andrew Barr
-T11	Location 754 775	Australie-Occidentale
-T12	Person 778 791	Colin Barnett
-T13	Person 943 959	Malcolm Turnbull
-T14	Person 1062 1074	Bill Shorten
-T15	Person 1176 1192	Malcolm Turnbull
-T16	Date 1267 1271	1999
-T17	Location 1394 1405	Royaume-Uni
-T18	Date 1415 1419	2014
-T19	Location 1626 1646	Australie-Méridonale
-T20	Person 1649 1663	Jay Weatherill
-T21	Person 1665 1677	Elizabeth II
-T22	Location 1861 1870	Australie
+T9	Organization 340 372	Mouvement républicain australien
+T10	Location 480 489	Australie
+T11	Person 592 603	Andrew Barr
+T12	Location 754 775	Australie-Occidentale
+T13	Person 778 791	Colin Barnett
+T14	Person 943 959	Malcolm Turnbull
+T15	Person 1062 1074	Bill Shorten
+T16	Person 1176 1192	Malcolm Turnbull
+T17	Date 1267 1271	1999
+T18	Location 1394 1405	Royaume-Uni
+T19	Date 1415 1419	2014
+T20	Person 1566 1573	Charles
+T21	Location 1626 1646	Australie-Méridonale
+T22	Person 1649 1663	Jay Weatherill
+T23	Person 1665 1677	Elizabeth II
+T24	Location 1861 1870	Australie
