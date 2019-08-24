@@ -8,15 +8,16 @@ T7	Location 212 218	Sevran
 T8	Person 504 515	Quentin Roy
 T9	Location 546 551	Syrie
 T10	Organization 610 630	Agence France Presse
-T11	Location 682 688	Sevran
-T12	Location 704 710	France
-T13	Person 726 743	Stéphane Gatignon
-T14	Organization 752 755	UDE
-T15	Location 792 809	Seine-Saint-Denis
-T16	Location 1052 1057	Syrie
-T17	Location 1064 1068	Irak
-T18	Person 1271 1278	Thierry
-T19	Person 1282 1295	Véronique Roy
-T20	Location 1399 1408	Rougemont
-T21	Person 1442 1459	Stéphane Gatignon
-T22	Organization 1694 1697	UDE
+T11	Location 617 623	France
+T12	Location 682 688	Sevran
+T13	Location 704 710	France
+T14	Person 726 743	Stéphane Gatignon
+T15	Organization 752 755	UDE
+T16	Location 792 809	Seine-Saint-Denis
+T17	Location 1052 1057	Syrie
+T18	Location 1064 1068	Irak
+T19	Person 1271 1278	Thierry
+T20	Person 1282 1295	Véronique Roy
+T21	Location 1399 1408	Rougemont
+T22	Person 1442 1459	Stéphane Gatignon
+T23	Organization 1694 1697	UDE

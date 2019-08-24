@@ -5,21 +5,28 @@ T4	Location 102 111	Bruxelles
 T5	Location 287 296	Bruxelles
 T6	Location 314 322	Belgique
 T7	Date 326 338	22 mars 2016
-T8	Location 403 412	Bruxelles
-T9	Location 482 490	Maelbeek
-T10	Location 492 505	rue de la Loi
-T11	Hour 509 515	9 h 11
-T12	Hour 531 541	8 h 11 GMT
-T13	Organization 758 763	Belga
-T14	Organization 929 943	État islamique
-T15	Organization 945 950	Daech
-T16	Location 1091 1100	Bruxelles
-T17	Person 1122 1133	Zach Manoun
-T18	Location 1168 1174	Genève
-T19	Organization 1245 1251	BFM TV
-T20	Location 1443 1452	Bruxelles
-T21	Organization 1499 1508	Euro-star
-T22	Location 1559 1566	Londres
-T23	Organization 1592 1598	Thalys
-T24	Person 1809 1823	Charles Michel
-T25	Product 1989 1998	Wikipédia
+T8	Location 391 412	aéroport de Bruxelles
+T9	Location 403 412	Bruxelles
+T10	Hour 425 428	8 h
+T11	Location 482 490	Maelbeek
+T12	Location 492 505	rue de la Loi
+T13	Hour 509 515	9 h 11
+T14	Hour 531 541	8 h 11 GMT
+T15	Organization 547 562	parquet fédéral
+T16	Organization 758 763	Belga
+T17	Organization 929 943	État islamique
+T18	Organization 945 950	Daech
+T19	Location 1091 1100	Bruxelles
+T20	Person 1122 1133	Zach Manoun
+T21	Location 1168 1174	Genève
+T22	Organization 1245 1251	BFM TV
+T23	Location 1431 1452	aéroport de Bruxelles
+T24	Location 1443 1452	Bruxelles
+T25	Organization 1499 1508	Euro-star
+T26	Product 1536 1566	train international de Londres
+T27	Location 1559 1566	Londres
+T28	Organization 1592 1598	Thalys
+T29	Person 1809 1823	Charles Michel
+T30	Product 1927 1936	Wikimedia
+T31	Product 1966 1973	Commons
+T32	Product 1989 1998	Wikipédia

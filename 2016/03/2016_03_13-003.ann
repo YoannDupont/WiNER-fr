@@ -26,30 +26,33 @@ T25	Organization 1616 1619	PSG
 T26	Location 1785 1796	Montpellier
 T27	Location 1828 1839	Montpellier
 T28	Person 1987 2001	Thierry Omeyer
-T29	Location 2237 2257	Montpellier Handball
-T30	Person 2298 2305	Annonay
-T31	Person 2306 2311	Melić
-T32	Person 2332 2341	Møllgaard
-T33	Person 2348 2357	Accambray
-T34	Person 2358 2362	Vori
-T35	Person 2363 2368	Abalo
-T36	Person 2375 2387	Karabatic L.
-T37	Person 2394 2400	Hansen
-T38	Person 2420 2428	Narcisse
-T39	Person 2435 2446	Onufriyenko
-T40	Person 2453 2461	Honrubia
-T41	Person 2468 2480	Karabatic N.
-T42	Person 2487 2493	M'Tima
-T43	Person 2501 2508	Siffert
-T44	Person 2509 2516	Simonet
-T45	Person 2537 2542	Toumi
-T46	Person 2549 2556	Dolenec
-T47	Person 2563 2569	Guigou
-T48	Person 2576 2581	Costa
-T49	Person 2582 2588	Borges
-T50	Person 2589 2594	Gaber
-T51	Person 2595 2604	Kavtičnik
-T52	Person 2623 2632	Bonnefond
-T53	Person 2639 2649	Villeminot
-T54	Person 2650 2658	Fabregas
-T55	Person 2665 2670	Gajić
+T29	Person 2095 2099	Titi
+T30	Organization 2237 2257	Montpellier Handball
+T31	Location 2237 2248	Montpellier
+T32	Event 2278 2295	Coupe de la Ligue
+T33	Person 2298 2305	Annonay
+T34	Person 2306 2311	Melić
+T35	Person 2332 2341	Møllgaard
+T36	Person 2348 2357	Accambray
+T37	Person 2358 2362	Vori
+T38	Person 2363 2368	Abalo
+T39	Person 2375 2387	Karabatic L.
+T40	Person 2394 2400	Hansen
+T41	Person 2420 2428	Narcisse
+T42	Person 2435 2446	Onufriyenko
+T43	Person 2453 2461	Honrubia
+T44	Person 2468 2480	Karabatic N.
+T45	Person 2487 2493	M'Tima
+T46	Person 2501 2508	Siffert
+T47	Person 2509 2516	Simonet
+T48	Person 2537 2542	Toumi
+T49	Person 2549 2556	Dolenec
+T50	Person 2563 2569	Guigou
+T51	Person 2576 2581	Costa
+T52	Person 2582 2588	Borges
+T53	Person 2589 2594	Gaber
+T54	Person 2595 2604	Kavtičnik
+T55	Person 2623 2632	Bonnefond
+T56	Person 2639 2649	Villeminot
+T57	Person 2650 2658	Fabregas
+T58	Person 2665 2670	Gajić

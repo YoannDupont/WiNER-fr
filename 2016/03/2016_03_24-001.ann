@@ -27,7 +27,8 @@ T26	Location 991 995	Iran
 T27	Location 1001 1007	Israël
 T28	Location 1014 1019	Syrie
 T29	Organization 1098 1115	Comédie-Française
-T30	Person 1190 1206	Luchino Visconti
-T31	Organization 1267 1285	La Piccola Familia
-T32	Date 1325 1329	1947
-T33	Date 1332 1336	2086
+T30	Product 1160 1170	Les Damnés
+T31	Person 1190 1206	Luchino Visconti
+T32	Organization 1267 1285	La Piccola Familia
+T33	Date 1325 1329	1947
+T34	Date 1332 1336	2086

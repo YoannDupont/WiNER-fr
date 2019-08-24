@@ -10,5 +10,7 @@ T9	Product 434 440	Spirit
 T10	Date 490 494	2010
 T11	Location 598 602	Mars
 T12	Product 696 707	Opportunity
-T13	Location 1016 1023	Knudsen
-T14	Location 1423 1427	Mars
+T13	Product 938 943	rover
+T14	Organization 938 943	rover
+T15	Location 1016 1023	Knudsen
+T16	Location 1423 1427	Mars

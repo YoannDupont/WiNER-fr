@@ -51,32 +51,33 @@ T50	Person 1607 1621	Vincent Gérard
 T51	Person 1719 1731	Thierry Anti
 T52	Organization 1749 1759	HBC Nantes
 T53	Location 1753 1759	Nantes
-T54	Location 1928 1939	Montpellier
-T55	Person 2132 2147	Patrice Canayer
-T56	Location 2162 2173	Montpellier
-T57	Person 2290 2296	Salmon
-T58	Person 2308 2318	Entrerrios
-T59	Person 2339 2346	Bundalo
-T60	Person 2347 2353	Gharbi
-T61	Person 2354 2360	Rivera
-T62	Person 2381 2387	Nyateu
-T63	Person 2394 2398	Ivic
-T64	Person 2405 2413	Camarero
-T65	Person 2420 2427	Tournat
-T66	Person 2434 2443	Komogorov
-T67	Person 2450 2459	Delevroix
-T68	Person 2466 2480	Balaguer Romeu
-T69	Person 2487 2494	Lagarde
-T70	Person 2502 2509	Siffert
-T71	Person 2510 2517	Simonet
-T72	Person 2538 2543	Toumi
-T73	Person 2550 2558	Grébille
-T74	Person 2565 2572	Dolenec
-T75	Person 2579 2585	Guigou
-T76	Person 2592 2598	Borges
-T77	Person 2599 2604	Gaber
-T78	Person 2611 2620	Kavtičnik
-T79	Person 2639 2648	Bonnefond
-T80	Person 2655 2665	Villeminot
-T81	Person 2672 2680	Fabregas
-T82	Person 2687 2692	Gajić
+T54	Event 1871 1890	Ligue des Champions
+T55	Location 1928 1939	Montpellier
+T56	Person 2132 2147	Patrice Canayer
+T57	Location 2162 2173	Montpellier
+T58	Person 2290 2296	Salmon
+T59	Person 2308 2318	Entrerrios
+T60	Person 2339 2346	Bundalo
+T61	Person 2347 2353	Gharbi
+T62	Person 2354 2360	Rivera
+T63	Person 2381 2387	Nyateu
+T64	Person 2394 2398	Ivic
+T65	Person 2405 2413	Camarero
+T66	Person 2420 2427	Tournat
+T67	Person 2434 2443	Komogorov
+T68	Person 2450 2459	Delevroix
+T69	Person 2466 2480	Balaguer Romeu
+T70	Person 2487 2494	Lagarde
+T71	Person 2502 2509	Siffert
+T72	Person 2510 2517	Simonet
+T73	Person 2538 2543	Toumi
+T74	Person 2550 2558	Grébille
+T75	Person 2565 2572	Dolenec
+T76	Person 2579 2585	Guigou
+T77	Person 2592 2598	Borges
+T78	Person 2599 2604	Gaber
+T79	Person 2611 2620	Kavtičnik
+T80	Person 2639 2648	Bonnefond
+T81	Person 2655 2665	Villeminot
+T82	Person 2672 2680	Fabregas
+T83	Person 2687 2692	Gajić

@@ -3,5 +3,7 @@ T2	Location 58 62	Aden
 T3	Date 64 76	30 mars 2016
 T4	Date 120 136	vendredi 25 mars
 T5	Location 139 143	Aden
-T6	Location 392 400	Al-Chaab
-T7	Organization 552 566	État islamique
+T6	Organization 241 258	forces loyalistes
+T7	Location 392 400	Al-Chaab
+T8	Location 495 503	Mansoura
+T9	Organization 552 566	État islamique

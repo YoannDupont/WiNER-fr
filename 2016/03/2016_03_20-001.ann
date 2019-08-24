@@ -2,21 +2,26 @@ T1	Organization 12 20	Flydubai
 T2	Location 48 54	Russie
 T3	Date 66 78	20 mars 2016
 T4	Organization 126 134	Flydubai
-T5	Location 194 211	Rostov-sur-le-Don
-T6	Location 217 223	Russie
-T7	Product 229 239	Boeing 737
-T8	Organization 229 235	Boeing
-T9	Location 287 292	Dubaï
-T10	Hour 459 464	03h40
-T11	Hour 466 475	00h40 GMT
-T12	Location 494 499	Dubaï
-T13	Organization 534 554	Situations d'urgence
-T14	Location 1181 1198	Rostov-sur-le-Don
-T15	Person 1356 1373	Oksana Kovrijnaïa
-T16	Location 1456 1462	Rostov
-T17	Person 1484 1500	Ghaith al Ghaith
-T18	Organization 1525 1533	Flydubai
-T19	Location 1851 1857	Rostov
-T20	Location 1917 1934	Rostov-sur-le-Don
-T21	Organization 2496 2504	Flydubai
-T22	Location 2599 2604	Dubai
+T5	Location 182 211	aéroport de Rostov-sur-le-Don
+T6	Location 194 211	Rostov-sur-le-Don
+T7	Location 217 223	Russie
+T8	Product 229 239	Boeing 737
+T9	Organization 229 235	Boeing
+T10	Location 261 292	aéroport international de Dubaï
+T11	Location 287 292	Dubaï
+T12	Hour 459 464	03h40
+T13	Hour 466 475	00h40 GMT
+T14	Location 482 499	aéroport de Dubaï
+T15	Location 494 499	Dubaï
+T16	Organization 534 554	Situations d'urgence
+T17	Product 883 888	FZ981
+T18	Location 1181 1198	Rostov-sur-le-Don
+T19	Person 1356 1373	Oksana Kovrijnaïa
+T20	Location 1456 1462	Rostov
+T21	Person 1484 1500	Ghaith al Ghaith
+T22	Organization 1525 1533	Flydubai
+T23	Location 1851 1857	Rostov
+T24	Location 1905 1934	aéroport de Rostov-sur-le-Don
+T25	Location 1917 1934	Rostov-sur-le-Don
+T26	Organization 2496 2504	Flydubai
+T27	Location 2599 2604	Dubai

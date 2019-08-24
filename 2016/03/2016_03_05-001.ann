@@ -1,5 +1,7 @@
 T1	Location 0 6	France
-T2	Date 88 99	5 mars 2016
-T3	Date 221 227	4 mars
-T4	Person 312 328	Caroline de Haas
-T5	Location 347 357	change.org
+T2	Product 32 53	projet de loi Travail
+T3	Date 88 99	5 mars 2016
+T4	Product 127 207	projet de loi sur les nouvelles protections pour les entreprises et les salariés
+T5	Date 221 227	4 mars
+T6	Person 312 328	Caroline de Haas
+T7	Location 347 357	change.org
