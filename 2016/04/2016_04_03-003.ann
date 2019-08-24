@@ -19,9 +19,11 @@ T18	Person 1469 1482	Emma Jeffcoat
 T19	Person 1695 1708	Andréa Hewitt
 T20	Person 1806 1820	Kirsten Kasper
 T21	Person 1892 1906	Richard Murray
-T22	Location 2072 2082	Abou Dhabi
-T23	Person 2178 2193	Anthony Pujades
-T24	Person 2384 2394	Ben Canute
-T25	Person 2491 2505	Richard Murray
-T26	Person 2605 2622	Andreas Schilling
-T27	Person 2847 2859	Ryan Sissons
+T22	Event 1933 1937	Jeux
+T23	Location 2072 2082	Abou Dhabi
+T24	Person 2178 2193	Anthony Pujades
+T25	Person 2384 2394	Ben Canute
+T26	Person 2491 2505	Richard Murray
+T27	Person 2605 2622	Andreas Schilling
+T28	Person 2805 2822	Rostyslav Pevtsov
+T29	Person 2847 2859	Ryan Sissons

@@ -16,27 +16,29 @@ T15	Location 739 747	Plymouth
 T16	Event 800 803	WTS
 T17	Date 860 868	mai 2014
 T18	Date 902 906	2015
-T19	Person 1319 1329	Mario Mola
-T20	Location 1458 1468	Abou Dhabi
-T21	Person 1607 1621	Henri Schoeman
-T22	Person 1637 1650	Richard Varga
-T23	Person 1794 1811	Alistair Brownlee
-T24	Person 1862 1870	Ben Shaw
-T25	Person 1889 1899	Tom Bishop
-T26	Person 2048 2058	Mario Mola
-T27	Person 2062 2079	Jonathan Brownlee
-T28	Person 2325 2340	Ferdando Alarza
-T29	Person 2394 2411	Alistair Brownlee
-T30	Person 2446 2460	Richard Murray
-T31	Location 2473 2481	Plymouth
-T32	Person 2554 2569	Anthony Pujades
-T33	Date 2645 2649	2014
-T34	Event 2673 2676	WTS
-T35	Person 2678 2692	Gwen Gorgensen
-T36	Person 2737 2750	Helen Jenkins
-T37	Person 2869 2885	Caroline routier
-T38	Person 2983 2994	Flora Duffy
-T39	Person 3125 3137	André Hewitt
-T40	Person 3384 3397	Helen Jenkins
-T41	Person 3933 3948	Emmie Charayron
-T42	Location 3981 3991	Abou Dhabi
+T19	Event 1141 1152	Jeux de Rio
+T20	Location 1149 1152	Rio
+T21	Person 1319 1329	Mario Mola
+T22	Location 1458 1468	Abou Dhabi
+T23	Person 1607 1621	Henri Schoeman
+T24	Person 1637 1650	Richard Varga
+T25	Person 1794 1811	Alistair Brownlee
+T26	Person 1862 1870	Ben Shaw
+T27	Person 1889 1899	Tom Bishop
+T28	Person 2048 2058	Mario Mola
+T29	Person 2062 2079	Jonathan Brownlee
+T30	Person 2325 2340	Ferdando Alarza
+T31	Person 2394 2411	Alistair Brownlee
+T32	Person 2446 2460	Richard Murray
+T33	Location 2473 2481	Plymouth
+T34	Person 2554 2569	Anthony Pujades
+T35	Date 2645 2649	2014
+T36	Event 2673 2676	WTS
+T37	Person 2678 2692	Gwen Gorgensen
+T38	Person 2737 2750	Helen Jenkins
+T39	Person 2869 2885	Caroline routier
+T40	Person 2983 2994	Flora Duffy
+T41	Person 3125 3137	André Hewitt
+T42	Person 3384 3397	Helen Jenkins
+T43	Person 3933 3948	Emmie Charayron
+T44	Location 3981 3991	Abou Dhabi
