@@ -10,8 +10,9 @@ T9	Location 445 460	Système solaire
 T10	Location 522 529	Neptune
 T11	Product 812 819	Cassini
 T12	Person 812 819	Cassini
-T13	Person 903 913	Carl-Sagan
-T14	Date 917 921	2000
-T15	Person 941 952	Jean-Perrin
-T16	Date 1001 1005	2006
-T17	Date 1010 1014	1990
+T13	Product 839 855	Légion d'honneur
+T14	Person 903 913	Carl-Sagan
+T15	Date 917 921	2000
+T16	Person 941 952	Jean-Perrin
+T17	Date 1001 1005	2006
+T18	Date 1010 1014	1990

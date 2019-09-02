@@ -1,7 +1,13 @@
 T1	Organization 15 21	Oracle
-T2	Date 96 106	2 mai 2016
-T3	Organization 362 365	CVC
-T4	Organization 556 562	Oracle
-T5	Organization 648 654	Opower
-T6	Location 718 724	France
-T7	Product 854 859	Linky
+T2	Product 55 65	Smart Grid
+T3	Date 96 106	2 mai 2016
+T4	Product 193 203	smart grid
+T5	Product 257 262	GNUrc
+T6	Organization 362 365	CVC
+T7	Product 501 511	smart grid
+T8	Organization 556 562	Oracle
+T9	Product 609 619	Smart Grid
+T10	Organization 648 654	Opower
+T11	Location 718 724	France
+T12	Product 782 792	smart grid
+T13	Product 854 859	Linky

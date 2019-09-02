@@ -10,9 +10,10 @@ T9	Location 274 287	Aix-les-Bains
 T10	Location 289 295	Savoie
 T11	Location 520 536	Passage Victoria
 T12	Person 528 536	Victoria
-T13	Location 674 690	boulevard Wilson
-T14	Person 684 690	Wilson
-T15	Date 732 742	4 mai 2015
-T16	Hour 745 750	12h00
-T17	Person 1026 1038	Thierry Dran
-T18	Location 1070 1078	Chambéry
+T13	Organization 560 577	police judiciaire
+T14	Location 674 690	boulevard Wilson
+T15	Person 684 690	Wilson
+T16	Date 732 742	4 mai 2015
+T17	Hour 745 750	12h00
+T18	Person 1026 1038	Thierry Dran
+T19	Location 1070 1078	Chambéry
