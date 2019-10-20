@@ -1,12 +1,16 @@
-T1	Date 37 49	14 juin 2016
-T2	Organization 107 128	American Theatre Wing
-T3	Person 146 158	James Corden
-T4	Date 179 191	12 juin 2016
-T5	Organization 195 209	Beacon Theatre
-T6	Location 212 220	New-York
-T7	Organization 260 268	Broadway
-T8	Date 282 286	2015
-T9	Date 287 291	2016
-T10	Date 334 344	3 mai 2016
-T11	Location 403 410	Orlando
-T12	Location 612 620	Hamilton
+T1	Product 0 11	Tony Awards
+T2	Date 37 49	14 juin 2016
+T3	Event 57 87	70 e cérémonie des Tony Awards
+T4	Product 76 87	Tony Awards
+T5	Organization 107 128	American Theatre Wing
+T6	Person 146 158	James Corden
+T7	Date 179 191	12 juin 2016
+T8	Organization 195 209	Beacon Theatre
+T9	Location 212 220	New-York
+T10	Organization 260 268	Broadway
+T11	Date 282 286	2015
+T12	Date 287 291	2016
+T13	Date 334 344	3 mai 2016
+T14	Location 403 410	Orlando
+T15	Product 487 492	Tonys
+T16	Product 612 620	Hamilton

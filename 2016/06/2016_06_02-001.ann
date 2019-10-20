@@ -3,9 +3,10 @@ T2	Location 77 79	A7
 T3	Date 107 119	jeudi 2 juin
 T4	Location 136 138	A7
 T5	Date 141 152	2 juin 2016
-T6	Location 259 261	A7
-T7	Date 269 286	jeudi 2 juin 2016
-T8	Location 364 379	Vienne-Reventin
-T9	Location 381 386	Isère
-T10	Location 747 754	Solaize
-T11	Location 756 766	Grand Lyon
+T6	Location 236 255	autoroute du soleil
+T7	Location 259 261	A7
+T8	Date 269 286	jeudi 2 juin 2016
+T9	Location 364 379	Vienne-Reventin
+T10	Location 381 386	Isère
+T11	Location 747 754	Solaize
+T12	Location 756 766	Grand Lyon

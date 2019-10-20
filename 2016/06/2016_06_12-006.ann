@@ -33,8 +33,9 @@ T32	Date 2981 2985	1989
 T33	Date 2988 2992	2002
 T34	Organization 3016 3039	Agence de développement
 T35	Organization 3063 3086	Centre culturel Tjibaou
-T36	Person 3093 3112	François Mitterrand
-T37	Person 3207 3223	Philippe Germain
-T38	Organization 3378 3387	Outre-mer
-T39	Person 3390 3407	Frédéric D'Achery
-T40	Location 3420 3427	Mayotte
+T36	Person 3079 3086	Tjibaou
+T37	Person 3093 3112	François Mitterrand
+T38	Person 3207 3223	Philippe Germain
+T39	Location 3378 3387	Outre-mer
+T40	Person 3390 3407	Frédéric D'Achery
+T41	Location 3420 3427	Mayotte

@@ -1,14 +1,16 @@
-T1	Location 32 40	Istanbul
-T2	Date 42 54	28 juin 2016
-T3	Organization 145 152	Atatürk
-T4	Person 145 152	Atatürk
-T5	Location 156 164	Istanbul
-T6	Location 170 177	Turquie
-T7	Hour 180 197	22 heures locales
-T8	Organization 273 276	CNN
-T9	Organization 354 361	Justice
-T10	Person 363 375	Bekir Bozdag
-T11	Product 517 528	kalachnikov
-T12	Hour 628 637	22 heures
-T13	Organization 893 898	Daech
-T14	Location 957 968	qu'Istanbul
+T1	Location 21 40	aéroport d'Istanbul
+T2	Location 32 40	Istanbul
+T3	Date 42 54	28 juin 2016
+T4	Location 122 164	aéroport international Atatürk d' Istanbul
+T5	Organization 145 152	Atatürk
+T6	Person 145 152	Atatürk
+T7	Location 156 164	Istanbul
+T8	Location 170 177	Turquie
+T9	Hour 180 197	22 heures locales
+T10	Organization 273 276	CNN
+T11	Organization 354 361	Justice
+T12	Person 363 375	Bekir Bozdag
+T13	Product 517 528	kalachnikov
+T14	Hour 628 637	22 heures
+T15	Organization 893 898	Daech
+T16	Location 960 968	Istanbul

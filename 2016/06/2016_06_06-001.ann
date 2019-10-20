@@ -3,6 +3,10 @@ T2	Person 23 38	Pierre Grimblat
 T3	Date 49 60	6 juin 2016
 T4	Person 65 80	Pierre Grimblat
 T5	Person 114 121	Navarro
-T6	Person 128 139	Roger Hanin
-T7	Person 281 296	Pierre Grimblat
-T8	Person 388 400	Jean-Jacques
+T6	Product 114 121	Navarro
+T7	Person 128 139	Roger Hanin
+T8	Product 146 154	L'Instit
+T9	Product 157 166	Le Tuteur
+T10	Product 177 188	Série noire
+T11	Person 281 296	Pierre Grimblat
+T12	Person 388 400	Jean-Jacques

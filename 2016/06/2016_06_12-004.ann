@@ -2,30 +2,33 @@ T1	Event 12 21	WTS Leeds
 T2	Date 56 68	12 juin 2016
 T3	Event 76 120	5 e manche des séries mondiales de triathlon
 T4	Event 122 125	WTS
-T5	Date 156 160	2016
-T6	Location 176 182	Europe
-T7	Location 200 205	Leeds
-T8	Location 209 224	Grande Bretagne
-T9	Organization 310 348	Fédération internationale de triathlon
-T10	Organization 350 353	ITU
-T11	Person 676 703	Francisco Javier Gómez Noya
-T12	Person 849 857	Jonathan
-T13	Person 861 878	Alistair Brownlee
-T14	Person 1256 1270	Gwen Jorgensen
-T15	Date 1309 1313	2016
-T16	Date 1351 1355	2015
-T17	Event 1445 1448	WTS
-T18	Person 1531 1542	Flora Duffy
-T19	Person 1634 1646	Non Stanford
-T20	Person 1650 1659	Lucy Hall
-T21	Person 2025 2033	Alistair
-T22	Date 2110 2114	2016
-T23	Person 2331 2339	Jonathan
-T24	Person 2410 2432	Francesco Javier Gomez
-T25	Date 2472 2476	2016
-T26	Person 2530 2541	Aaron Royle
-T27	Person 2692 2708	Aurélien Raphaël
-T28	Person 2809 2824	Pierre Le Corre
-T29	Date 2903 2907	2016
-T30	Location 2910 2924	Rio de Janeiro
-T31	Person 2927 2940	Dorian Coninx
+T5	Event 135 160	championnat du monde 2016
+T6	Date 156 160	2016
+T7	Location 176 182	Europe
+T8	Location 200 205	Leeds
+T9	Location 209 224	Grande Bretagne
+T10	Organization 310 348	Fédération internationale de triathlon
+T11	Organization 350 353	ITU
+T12	Person 676 703	Francisco Javier Gómez Noya
+T13	Person 849 857	Jonathan
+T14	Person 861 878	Alistair Brownlee
+T15	Event 1049 1060	Jeux de Rio
+T16	Location 1057 1060	Rio
+T17	Person 1256 1270	Gwen Jorgensen
+T18	Date 1309 1313	2016
+T19	Date 1351 1355	2015
+T20	Event 1445 1448	WTS
+T21	Person 1531 1542	Flora Duffy
+T22	Person 1634 1646	Non Stanford
+T23	Person 1650 1659	Lucy Hall
+T24	Person 2025 2033	Alistair
+T25	Date 2110 2114	2016
+T26	Person 2331 2339	Jonathan
+T27	Person 2410 2432	Francesco Javier Gomez
+T28	Date 2472 2476	2016
+T29	Person 2530 2541	Aaron Royle
+T30	Person 2692 2708	Aurélien Raphaël
+T31	Person 2809 2824	Pierre Le Corre
+T32	Date 2903 2907	2016
+T33	Location 2910 2924	Rio de Janeiro
+T34	Person 2927 2940	Dorian Coninx

@@ -3,5 +3,6 @@ T2	Date 80 92	19 juin 2016
 T3	Location 100 107	Algérie
 T4	Product 248 255	Twitter
 T5	Product 258 266	Facebook
-T6	Organization 270 279	Instagram
-T7	Organization 743 754	l'Éducation
+T6	Product 270 279	Instagram
+T7	Product 696 708	Constitution
+T8	Organization 743 754	l'Éducation

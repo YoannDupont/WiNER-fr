@@ -7,27 +7,28 @@ T6	Person 92 107	Vincent Lambert
 T7	Date 145 157	jeudi 9 juin
 T8	Person 204 218	Rachel Lambert
 T9	Person 232 247	Vincent Lambert
-T10	Person 403 410	Lambert
-T11	Person 474 489	Vincent Lambert
-T12	Organization 550 571	Cour d'appel de Reims
-T13	Location 566 571	Reims
-T14	Person 617 632	Vincent Lambert
-T15	Person 654 660	Rachel
-T16	Organization 768 780	Cour d'appel
-T17	Organization 862 874	Cour d'appel
-T18	Person 988 1003	Vincent Lambert
-T19	Person 1082 1088	Rachel
-T20	Organization 1179 1192	CHRU de Reims
-T21	Location 1187 1192	Reims
-T22	Person 1418 1433	Vincent Lambert
-T23	Organization 1517 1553	Cour administrative d'appel de Nancy
-T24	Location 1548 1553	Nancy
-T25	Person 1581 1597	François Lambert
-T26	Person 1611 1626	Vincent Lambert
-T27	Date 1714 1721	16 juin
-T28	Location 1856 1876	Châlons-en-Champagne
-T29	Date 1887 1891	2015
-T30	Person 2095 2108	Daniela Simon
-T31	Organization 2121 2133	CHU de Reims
-T32	Location 2128 2133	Reims
-T33	Person 2147 2162	Vincent Lambert
+T10	Organization 325 337	cour d'appel
+T11	Person 403 410	Lambert
+T12	Person 474 489	Vincent Lambert
+T13	Organization 550 571	Cour d'appel de Reims
+T14	Location 566 571	Reims
+T15	Person 617 632	Vincent Lambert
+T16	Person 654 660	Rachel
+T17	Organization 768 780	Cour d'appel
+T18	Organization 862 874	Cour d'appel
+T19	Person 988 1003	Vincent Lambert
+T20	Person 1082 1088	Rachel
+T21	Organization 1179 1192	CHRU de Reims
+T22	Location 1187 1192	Reims
+T23	Person 1418 1433	Vincent Lambert
+T24	Organization 1517 1553	Cour administrative d'appel de Nancy
+T25	Location 1548 1553	Nancy
+T26	Person 1581 1597	François Lambert
+T27	Person 1611 1626	Vincent Lambert
+T28	Date 1714 1721	16 juin
+T29	Location 1856 1876	Châlons-en-Champagne
+T30	Date 1887 1891	2015
+T31	Person 2095 2108	Daniela Simon
+T32	Organization 2121 2133	CHU de Reims
+T33	Location 2128 2133	Reims
+T34	Person 2147 2162	Vincent Lambert
