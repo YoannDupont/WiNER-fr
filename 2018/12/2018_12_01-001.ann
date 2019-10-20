@@ -188,11 +188,11 @@ T187	Hour 8537 8542	20h30
 T188	Location 8546 8558	Puy-en-Velay
 T189	Organization 8569 8582	Gilets jaunes
 T190	Location 8619 8630	Haute-Loire
-T191	Organization 8817 8843	aéroport Nantes Atlantique
+T191	Location 8817 8843	aéroport Nantes Atlantique
 T192	Location 8826 8843	Nantes Atlantique
 T193	Hour 8923 8928	11h30
 T194	Hour 8932 8935	14h
-T195	Organization 8953 8969	aéroport de Nice
+T195	Location 8953 8969	aéroport de Nice
 T196	Location 8965 8969	Nice
 T197	Location 9054 9064	Strasbourg
 T198	Organization 9082 9095	Gilets jaunes

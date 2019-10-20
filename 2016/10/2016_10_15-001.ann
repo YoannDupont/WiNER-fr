@@ -2,7 +2,7 @@ T1	Organization 20 26	I-Télé
 T2	Person 102 111	Morandini
 T3	Date 113 128	15 octobre 2016
 T4	Organization 202 208	I-Télé
-T5	Organization 366 385	aéroport d'Istanbul
+T5	Location 366 385	aéroport d'Istanbul
 T6	Location 377 385	Istanbul
 T7	Person 589 608	Jean-Marc Morandini
 T8	Organization 759 765	I-Télé
