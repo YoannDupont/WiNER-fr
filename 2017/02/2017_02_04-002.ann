@@ -1,23 +1,24 @@
 T1	Location 0 6	France
 T2	Location 36 42	Louvre
 T3	Date 44 58	4 février 2017
-T4	Location 186 192	Louvre
-T5	Product 173 192	Carrousel du Louvre
+T4	Product 173 192	Carrousel du Louvre
+T5	Location 186 192	Louvre
 T6	Location 197 202	Paris
 T7	Location 205 211	France
-T8	Location 635 641	Louvre
-T9	Product 622 641	Carrousel du Louvre
+T8	Product 622 641	Carrousel du Louvre
+T9	Location 635 641	Louvre
 T10	Hour 658 664	9 h 50
-T11	Person 945 960	François Molins
-T12	Location 1507 1526	Émirats-Arabes-Unis
-T13	Date 1613 1623	20 janvier
-T14	Date 1627 1637	20 février
-T15	Location 1657 1662	Paris
-T16	Date 1666 1676	26 janvier
-T17	Date 1810 1819	5 février
-T18	Product 1990 1994	iPad
-T19	Location 2145 2160	Arabie saoudite
-T20	Location 2183 2190	Turquie
-T21	Location 2272 2279	Émirats
-T22	Location 2559 2565	Louvre
-T23	Location 2622 2626	Nice
+T11	Person 718 723	Allah
+T12	Person 945 960	François Molins
+T13	Location 1507 1526	Émirats-Arabes-Unis
+T14	Date 1613 1623	20 janvier
+T15	Date 1627 1637	20 février
+T16	Location 1657 1662	Paris
+T17	Date 1666 1676	26 janvier
+T18	Date 1810 1819	5 février
+T19	Product 1990 1994	iPad
+T20	Location 2145 2160	Arabie saoudite
+T21	Location 2183 2190	Turquie
+T22	Location 2272 2279	Émirats
+T23	Location 2559 2565	Louvre
+T24	Location 2622 2626	Nice

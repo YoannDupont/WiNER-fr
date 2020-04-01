@@ -6,18 +6,19 @@ T5	Date 149 156	27 juin
 T6	Location 195 199	Rome
 T7	Person 266 278	Terence Hill
 T8	Product 288 314	Dieu pardonne... moi pas !
-T9	Date 316 320	1967
-T10	Person 343 350	Trinita
-T11	Date 352 356	1970
-T12	Person 359 366	Spencer
-T13	Date 428 432	1950
-T14	Event 464 483	Jeux Méditerranéens
-T15	Date 487 491	1951
-T16	Event 540 566	Jeux Olympiques d'Helsinki
-T17	Location 558 566	Helsinki
-T18	Date 570 574	1952
-T19	Location 581 590	Melbourne
-T20	Date 594 598	1956
-T21	Location 645 651	Italie
-T22	Person 679 691	Terence Hill
-T23	Organization 721 740	Corriere della Sera
+T9	Person 288 292	Dieu
+T10	Date 316 320	1967
+T11	Person 343 350	Trinita
+T12	Date 352 356	1970
+T13	Person 359 366	Spencer
+T14	Date 428 432	1950
+T15	Event 464 483	Jeux Méditerranéens
+T16	Date 487 491	1951
+T17	Event 540 566	Jeux Olympiques d'Helsinki
+T18	Location 558 566	Helsinki
+T19	Date 570 574	1952
+T20	Location 581 590	Melbourne
+T21	Date 594 598	1956
+T22	Location 645 651	Italie
+T23	Person 679 691	Terence Hill
+T24	Organization 721 740	Corriere della Sera

@@ -17,10 +17,12 @@ T16	Organization 763 766	BRI
 T17	Organization 781 819	brigades de hautes instances de police
 T18	Organization 1043 1047	RAID
 T19	Organization 1245 1249	RAID
-T20	Person 1332 1349	François Hollande
-T21	Person 1390 1405	Larossi Abballa
-T22	Date 1489 1493	2013
-T23	Location 1554 1562	Pakistan
-T24	Organization 1635 1640	iTELE
-T25	Location 1710 1725	Mantes-la-Jolie
-T26	Product 1878 1886	Facebook
+T20	Person 1278 1283	Allah
+T21	Person 1294 1298	Dieu
+T22	Person 1332 1349	François Hollande
+T23	Person 1390 1405	Larossi Abballa
+T24	Date 1489 1493	2013
+T25	Location 1554 1562	Pakistan
+T26	Organization 1635 1640	iTELE
+T27	Location 1710 1725	Mantes-la-Jolie
+T28	Product 1878 1886	Facebook
