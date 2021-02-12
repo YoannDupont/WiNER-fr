@@ -1,24 +1,24 @@
-T1	Date 15 19	2016
-T2	Event 0 19	Tour de France 2016
+T1	Event 0 19	Tour de France 2016
+T2	Date 15 19	2016
 T3	Person 22 38	Michael Matthews
-T4	Date 95 99	2016
-T5	Event 80 99	Tour de France 2016
-T6	Date 116 120	2016
-T7	Event 101 120	Tour de France 2016
+T4	Event 80 99	Tour de France 2016
+T5	Date 95 99	2016
+T6	Event 101 120	Tour de France 2016
+T7	Date 116 120	2016
 T8	Person 123 135	Tom Dumoulin
-T9	Date 196 200	2016
-T10	Event 181 200	Tour de France 2016
+T9	Event 181 200	Tour de France 2016
+T10	Date 196 200	2016
 T11	Person 203 211	De Gendt
 T12	Person 235 241	Froome
-T13	Date 311 315	2016
-T14	Event 296 315	Tour de France 2016
+T13	Event 296 315	Tour de France 2016
+T14	Date 311 315	2016
 T15	Person 318 323	Sagan
 T16	Person 347 353	Froome
-T17	Date 384 388	2016
-T18	Event 369 388	Tour de France 2016
+T17	Event 369 388	Tour de France 2016
+T18	Date 384 388	2016
 T19	Person 391 407	Michael Matthews
-T20	Date 445 449	2016
-T21	Event 430 449	Tour de France 2016
+T20	Event 430 449	Tour de France 2016
+T21	Date 445 449	2016
 T22	Person 452 464	Tom Dumoulin
 T23	Location 492 500	Pyrénées
 T24	Date 502 517	12 juillet 2016

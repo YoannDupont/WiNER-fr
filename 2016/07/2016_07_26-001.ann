@@ -7,6 +7,8 @@ T6	Person 197 214	Stanisław Dziwisz
 T7	Event 245 282	31e journées mondiales de la jeunesse
 T8	Event 375 378	JMJ
 T9	Date 392 396	1984
-T10	Location 486 495	Normandie
-T11	Event 571 574	JMJ
-T12	Person 714 722	François
+T10	Person 414 420	Vierge
+T11	Product 421 439	Salus Populi Roman
+T12	Location 486 495	Normandie
+T13	Event 571 574	JMJ
+T14	Person 714 722	François

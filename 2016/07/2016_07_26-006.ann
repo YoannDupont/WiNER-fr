@@ -13,22 +13,25 @@ T12	Person 1156 1173	François Hollande
 T13	Person 1184 1201	Bernard Cazeneuve
 T14	Location 1246 1251	Rouen
 T15	Person 1252 1268	Dominique Lebrun
-T16	Location 1360 1368	Cracovie
-T17	Person 1430 1438	Hollande
-T18	Organization 1553 1567	État islamique
-T19	Organization 1637 1642	Daesh
-T20	Location 1725 1731	Élysée
-T21	Person 1745 1753	Hollande
-T22	Product 1846 1853	Twitter
-T23	Person 1857 1870	Marine Le Pen
-T24	Person 1873 1885	Manuel Valls
-T25	Person 1888 1899	Alain Juppé
-T26	Person 1942 1950	François
-T27	Organization 1998 2005	Vatican
-T28	Person 2069 2086	Mohammed Karabila
-T29	Location 2242 2247	Rouen
-T30	Location 2260 2266	Élysée
-T31	Person 2367 2380	Adel Kermiche
-T32	Date 2430 2442	janvier 2015
-T33	Location 2475 2480	Syrie
-T34	Date 2500 2512	19 mars 2015
+T16	Event 1324 1357	Journées mondiales de la jeunesse
+T17	Location 1360 1368	Cracovie
+T18	Person 1430 1438	Hollande
+T19	Hour 1462 1466	13 h
+T20	Organization 1553 1567	État islamique
+T21	Organization 1637 1642	Daesh
+T22	Location 1725 1731	Élysée
+T23	Person 1745 1753	Hollande
+T24	Organization 1765 1804	Conférence des représentants des cultes
+T25	Product 1846 1853	Twitter
+T26	Person 1857 1870	Marine Le Pen
+T27	Person 1873 1885	Manuel Valls
+T28	Person 1888 1899	Alain Juppé
+T29	Person 1942 1950	François
+T30	Organization 1998 2005	Vatican
+T31	Person 2069 2086	Mohammed Karabila
+T32	Location 2242 2247	Rouen
+T33	Location 2260 2266	Élysée
+T34	Person 2367 2380	Adel Kermiche
+T35	Date 2430 2442	janvier 2015
+T36	Location 2475 2480	Syrie
+T37	Date 2500 2512	19 mars 2015

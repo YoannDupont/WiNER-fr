@@ -4,9 +4,10 @@ T3	Organization 71 76	Insee
 T4	Date 90 105	29 juillet 2016
 T5	Organization 412 417	Insee
 T6	Organization 794 799	Insee
-T7	Organization 932 948	Union européenne
-T8	Location 969 973	Nice
-T9	Date 977 987	14 juillet
-T10	Organization 1005 1013	Finances
-T11	Person 1015 1027	Michel Sapin
-T12	Location 1260 1266	France
+T7	Location 915 926	Royaume Uni
+T8	Organization 932 948	Union européenne
+T9	Location 969 973	Nice
+T10	Date 977 987	14 juillet
+T11	Organization 1005 1013	Finances
+T12	Person 1015 1027	Michel Sapin
+T13	Location 1260 1266	France

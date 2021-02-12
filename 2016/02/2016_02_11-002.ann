@@ -4,4 +4,5 @@ T3	Location 125 130	Doubs
 T4	Location 153 170	Charente-Maritime
 T5	Hour 264 283	7h15 (heure locale)
 T6	Location 309 318	Rochefort
-T7	Location 397 405	Surgères
+T7	Organization 374 405	lycée professionnel de Surgères
+T8	Location 397 405	Surgères

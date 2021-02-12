@@ -7,16 +7,18 @@ T6	Location 75 82	Pologne
 T7	Person 96 104	François
 T8	Person 113 125	Jean-Paul II
 T9	Person 129 139	Benoît XVI
-T10	Location 182 191	Auschwitz
-T11	Person 288 296	François
-T12	Person 349 365	Maximilien Kolbe
-T13	Location 616 623	Pologne
-T14	Location 690 698	Cracovie
-T15	Person 738 746	François
-T16	Date 995 1007	26 juin 2016
-T17	Location 1029 1036	Albanie
-T18	Person 1261 1271	Benoît XVI
-T19	Person 1325 1343	Jean-Marie Guénois
-T20	Person 1365 1373	François
-T21	Event 1499 1504	Shoah
-T22	Location 1640 1649	Auschwitz
+T10	Location 163 191	camp de la mort d' Auschwitz
+T11	Location 182 191	Auschwitz
+T12	Person 288 296	François
+T13	Person 349 365	Maximilien Kolbe
+T14	Location 616 623	Pologne
+T15	Event 641 674	Journées mondiales de la jeunesse
+T16	Location 690 698	Cracovie
+T17	Person 738 746	François
+T18	Date 995 1007	26 juin 2016
+T19	Location 1029 1036	Albanie
+T20	Person 1261 1271	Benoît XVI
+T21	Person 1325 1343	Jean-Marie Guénois
+T22	Person 1365 1373	François
+T23	Event 1499 1504	Shoah
+T24	Location 1640 1649	Auschwitz

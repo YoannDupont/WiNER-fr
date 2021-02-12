@@ -5,14 +5,16 @@ WiNER is a corpus for Named Entity Recognition. It uses Wikinews texts as a base
 The current named entity tagset is:
 
 - Date (absolute dates.)
-- Event (conferences, sports events, annual events, celebration days, named climatic events, etc.)
+- Event (conferences, sports events, annual events, celebration days, religious holiday, named climatic events, etc.)
 - Hour (absolute hours. If present, they include time zones, UTC, GMT, etc.)
 - Location (countries, towns, regions, addresses, astophysicals objects, hydrophysical objects, etc.)
 - Organization (non profit organizations, companies, medias, etc.)
 - Person (human individuals, without their title or function. They can be actual people or fictional characters.)
-- Product (physical objects, brands, softwares.)
+- Product (physical objects, brands, services, softwares.)
 
 The tagset was defined using various campaigns or resources: [MUC-6](http://www.aclweb.org/anthology/C96-1079), [CoNLL-2003](https://arxiv.org/pdf/cs/0306050.pdf), [Named Entity annotated French Treebank](https://hal.inria.fr/file/index/docid/703108/filename/taln12ftbne.pdf) and [Quaero](http://www.quaero.org/media/files/bibliographie/quaero-guide-annotation-2011.pdf) . Every type defined in this tagset is directly taken from one of those.
+
+Ultimately, it is a (veeery) simplified version of Quaero tagging scheme, the other datasets are were only used to decide which tags to choose.
 
 The aim of this tagset is to be covering yet as simple as possible.
 

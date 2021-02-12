@@ -22,27 +22,30 @@ T21	Date 1549 1561	janvier 2012
 T22	Location 1565 1570	Syrie
 T23	Person 1664 1679	Bachar el-Assad
 T24	Organization 1750 1764	État islamique
-T25	Location 2025 2040	Arabie saoudite
-T26	Location 2045 2050	Qatar
-T27	Location 2057 2064	Turquie
-T28	Organization 2082 2096	État islamique
-T29	Person 2108 2118	al-Joulani
-T30	Date 2132 2140	mai 2015
-T31	Location 2194 2202	Occident
-T32	Organization 2209 2217	Al-Qaida
-T33	Location 2233 2238	Syrie
-T34	Organization 2422 2434	Front du Sud
-T35	Organization 2454 2462	al-Nosra
-T36	Location 2518 2525	d'Idleb
-T37	Organization 2614 2636	l'Armée syrienne libre
-T38	Organization 2643 2657	Front al-Nosra
-T39	Person 2792 2797	Assad
-T40	Location 2800 2804	Alep
-T41	Location 2831 2840	Lattaquié
-T42	Organization 3089 3097	al-Nosra
-T43	Person 3120 3130	al-Joulani
-T44	Location 3397 3407	États-Unis
-T45	Organization 3460 3478	département d'État
-T46	Person 3480 3490	John Kirby
-T47	Location 3658 3666	Occident
-T48	Person 3729 3741	Igor Morozov
+T25	Organization 1909 1914	Front
+T26	Organization 1952 1972	Armée de la conquête
+T27	Location 2025 2040	Arabie saoudite
+T28	Location 2045 2050	Qatar
+T29	Location 2057 2064	Turquie
+T30	Organization 2082 2096	État islamique
+T31	Person 2108 2118	al-Joulani
+T32	Date 2132 2140	mai 2015
+T33	Location 2194 2202	Occident
+T34	Organization 2209 2217	Al-Qaida
+T35	Location 2233 2238	Syrie
+T36	Organization 2334 2339	Front
+T37	Organization 2422 2434	Front du Sud
+T38	Organization 2454 2462	al-Nosra
+T39	Location 2520 2525	Idleb
+T40	Organization 2616 2636	Armée syrienne libre
+T41	Organization 2643 2657	Front al-Nosra
+T42	Person 2792 2797	Assad
+T43	Location 2800 2804	Alep
+T44	Location 2831 2840	Lattaquié
+T45	Organization 3089 3097	al-Nosra
+T46	Person 3120 3130	al-Joulani
+T47	Location 3397 3407	États-Unis
+T48	Organization 3460 3478	département d'État
+T49	Person 3480 3490	John Kirby
+T50	Location 3658 3666	Occident
+T51	Person 3729 3741	Igor Morozov
